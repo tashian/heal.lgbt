@@ -3,6 +3,9 @@ title: LGBTQIA+ Guide
 type: docs
 ---
 
+> "Death is not the biggest fear we have; our biggest fear is taking the risk to be alive — the risk to be alive and express what we really are."  
+> — Don Miguel Ruiz
+
 The purpose of this page is to provide a 'healing menu' for any LGBTQIA+ person or ally.  
 The goal is to help you move from surviving to thriving.  
 Some of this is San Francisco Bay Area specific.  
