@@ -1,0 +1,7 @@
+baseURL: https://heal.lgbt/
+title: 🌈 Healing Resources
+theme: book
+publishDir: docs/
+languageCode: en-us
+enableEmoji: true
+disableKinds: ['taxonomy', 'taxonomyTerm']
