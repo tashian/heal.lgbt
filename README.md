@@ -6,7 +6,7 @@
 
 Thanks for taking an interest in this guide. You can contribute to the guide right here on GitHub. If you have small copy edits or a resource to add, visit the [content folder](https://github.com/tashian/heal.lgbt/tree/master/content) and make edits there. The content is written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), which is an [easy-to-learn syntax](https://www.markdownguide.org/basic-syntax) for writing. You can learn the basics in a single setting.
 
-Before making any major changes, please [open an issue](https://github.com/tashian/heal.lgbt/issues/new) and send us your ideas. We'd love to hear from you.
+Before making any major changes, please [open an issue](https://github.com/tashian/heal.lgbt/issues/new) and send us your idea before you get started. We'd love to hear from you.
 
 # Code of Conduct
 
