@@ -6,20 +6,29 @@ type: docs
 # Trans 101
 Check out the excellent [Trans 101](https://www.youtube.com/watch?v=VRH0pwENbx8&list=PL7SgbxvTR7N5-jYeT2Coj99qnRQTIArKP&index=1) YouTube series.
 
-# Identity
+## Learning about your identity
 [Nonbinary Flowchart](http://philome.la/likearcsouffle/nb-flowchart/play) &mdash; what's my gender?
 
+## Being an ally
+[100 Easy Ways to Make the World Better for Trans People](https://www.vice.com/en_us/article/kzjnjm/how-to-be-trans-ally-tips)
+
+# Transitioning
+Generally, look for clinitians and providers who use an [informed consent transition model](https://www.google.com/search?q=informed+consent+transition+model).
 
 ## Changing ID Documents
 [US resource guide](https://transequality.org/documents) — how to change your papers, for every state in the US  
 [UK Gender Recognition Certification](https://www.gov.uk/apply-gender-recognition-certificate)  
 [Canadian Passport gender change guide](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/change-sex.html)  
 
-# Health
+## Health
 
-## Insurance in the US
+### Insurance & Providers
+In the US:  
 [Transcend Legal](https://video.transcendlegal.org/) videos on how to get trans healthcare covered.
 
+Outside the US:  
+[🇩🇰 Denmark](https://drive.google.com/drive/folders/1MLD-sUvNBhGx1qTGoZZHyzVNMQkxaa_g)  
+[WPATH Provider Search](https://www.wpath.org/provider/search)
 
 ## Hormones
 [Hormones: A Guide for FTMs](https://apps.carleton.edu/campus/gsc/assets/hormones_FTM.pdf)  
@@ -27,14 +36,16 @@ Check out the excellent [Trans 101](https://www.youtube.com/watch?v=VRH0pwENbx8&
 [How to get hormones in the US](https://transgenderteensurvivalguide.tumblr.com/post/150460732225/hi-i-was-wondering-what-exactly-i-have-to-do-to) and [in the UK](https://transgenderteensurvivalguide.tumblr.com/post/169897542480/urgent-hi-im-a-19-afab-trans-male-from-the)
 
 ### Background reading on the world of hormones
-[Healthcare of the Transgender Patient and the Powers Method of Hormonal Transitioning](https://drive.google.com/drive/folders/112o11ykp0H-8tU_SbIToT1aZwL6LCK0S) lecture notes by [Dr. William Powers](http://PowersFamilyMedicine.com)
+[Healthcare of the Transgender Patient](https://drive.google.com/drive/folders/112o11ykp0H-8tU_SbIToT1aZwL6LCK0S) lecture notes by [Dr. William Powers](http://PowersFamilyMedicine.com)
 
 ## GRS/SRS
 
 ## Voice
+[Shortcut to female voice](http://lena.kiev.ua/voice/) guide for MtF
 
-## Dysphoria
+## Managing Gender Dysphoria
 [20 Small Things To Do When Gender Dysphoria Gets You Down](https://www.buzzfeed.com/skarlan/gender-dysphoria?utm_term=.ucYLJoNx4K#.psgq5VRMxm)
+[Gender dysphoria FAQ](https://harajukufloof.tumblr.com/post/184175729440/faq)
 
 ## Fashion
 
@@ -49,6 +60,8 @@ Check out the excellent [Trans 101](https://www.youtube.com/watch?v=VRH0pwENbx8&
 
 ## Binding
 [Your Friendly Neighborhood Binding Safety Guide](http://www.idontdoboxes.org/your-friendly-neighborhood-binding-safety-guide/)
+
+* Don't bind if you have breast implants
 
 
 # Online communities & resource guides

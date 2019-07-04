@@ -46,9 +46,25 @@ Just tested positive? Feeling isolated? Worried about your medications? Wonderin
 [HIV Nightline](https://www.sfsuicide.org/our-programs/hiv-nightlines/) (24-hours) 415.434.2437 or 800.628.9240 Nationwide  
 HIV Textline (24-hours) 415.200.2920  
 
+## "But I’m already fine, I don’t need healing."
+
+Everyone is damanged by their parents in one way or another. That's why queer healing is for everyone.  There's an opportunitiy for even the most "healthy" of us to heal in ways that we didn't even know we were broken.
+
+For me, the breakthroughs in healing as an adult have all started when I humbly began to question a lot of assumptions I had long made about myself (the biggest one being, “I’m already fine”). This process of self-inquiry has helped me gradually uncover the parts of myself that were long suppressed.
+
+One of the pernicious things about childhood trauma is that it can stay with you for so long that you completely believe it’s part of who you are. Maybe you don’t even remember the time when we weren’t traumatized.
+
+I don’t mean to make you paranoid. My point is, even if you feel fully healed, you may still get something out of the resources here. It certainly won’t hurt.
+
+
+
 ## Coming out
 
-Coming out of the closet is not a singular moment where the hero fabulously steps out on stage, loudly and confidently proclaiming their truth. It’s an ongoing journey that begins with accepting an inner truth about yourself, and over time the decision to accept this truth ripples through many parts of your life. There are many discoveries to be made about yourself, too. Queerphobia is so widespread that most people discover over time the ways they have bought into and internalized society's phobias, evne unconsciously. This process of rewiring the phobias is a process of learning to celebrate and love parts of ourselves we were taught to hate, or to believe was unnatural, evil, against God, and so on.
+Coming out of the closet is not a singular moment where the hero fabulously steps out on stage, loudly and confidently proclaiming their truth. It’s a lifelong journey of self-discovery, acceptance, and sharing. It begins with learning to accept an inner truth about yourself, and over time the decision to accept and share this truth ripples through many parts of your life. There are many discoveries to be made about yourself, too. Queerphobia is so widespread that most people discover over time the ways they have bought into and internalized society's phobias, evne unconsciously. This process of rewiring the phobias is a process of learning to celebrate and love parts of ourselves we were taught to hate, or to believe was unnatural, evil, against God, and so on.
+
+[HRC: Resource Guide to Coming Out](https://assets2.hrc.org/files/assets/resources/resource_guide_april_2014.pdf?_ga=2.126552526.2109471886.1562269796-438205338.1562269796) (PDF)   
+[The Trevor Project: Coming Out As YOU](https://www.thetrevorproject.org/wp-content/uploads/2017/09/ComingOutAsYou.pdf) (PDF)  
+
 
 ### Internalized queerphobia is often unconscious
 
@@ -184,4 +200,7 @@ There is a lot of religious shame and oppression. If you’re religious, does th
 Some [United Methodist](http://www.umc.org/) churches (there is an ongoing dispute about LGBT rights within the UMC)  
 
 Book: [Pray the Gay Away](https://www.amazon.com/Pray-Gay-Away-Extraordinary-Lives/dp/0814786375) by Bernadette Barton is a study of present-day religious oppression of LGBT people in the US  
+
+## Other resource guides and communities
+[Gaysi Family](http://gaysifamily.com/) — safe space for LGBTQIA+ desis
 
