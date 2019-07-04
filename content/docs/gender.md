@@ -17,7 +17,10 @@ type: docs
 
 ## Hormones
 [Hormones: A Guide for FTMs](https://apps.carleton.edu/campus/gsc/assets/hormones_FTM.pdf)  
-[Hormones: A Guide for MTFs](https://apps.carleton.edu/campus/gsc/assets/hormones_MTF.pdf)
+[Hormones: A Guide for MTFs](https://apps.carleton.edu/campus/gsc/assets/hormones_MTF.pdf)  
+[How to get hormones in the US](https://transgenderteensurvivalguide.tumblr.com/post/150460732225/hi-i-was-wondering-what-exactly-i-have-to-do-to) and [in the UK](https://transgenderteensurvivalguide.tumblr.com/post/169897542480/urgent-hi-im-a-19-afab-trans-male-from-the)
+
+### Background reading on the world of hormones
 [Healthcare of the Transgender Patient and the Powers Method of Hormonal Transitioning](https://drive.google.com/drive/folders/112o11ykp0H-8tU_SbIToT1aZwL6LCK0S) lecture notes by [Dr. William Powers](http://PowersFamilyMedicine.com)
 
 ## GRS/SRS
@@ -45,14 +48,14 @@ type: docs
 # Online communities & resource guides
 [Transpeak](https://discord.me/transpeak) is a supportive Discord community  
 [Susan's Place](https://www.susans.org/) is a peer support website with very active forum  
-[transgender teen survival guide](https://transgenderteensurvivalguide.tumblr.com) great and supportive Tumblr with many resources
+[transgender teen survival guide](https://transgenderteensurvivalguide.tumblr.com) great and supportive Tumblr with many resources  
 [FTM Resource Guide](http://ftmguide.org/)
 
 # YouTube Channels, Podcasts, etc.
 [BlackTransTV](https://www.youtube.com/channel/UCeO9e-YaxVnhm9KVOvw9kgQ/videos)
 
 # Resources for Allies
-[Trans Allyship Workbook](https://www.amazon.com/Trans-Allyship-Workbook-Building-Support/dp/0990636917)
+[Trans Allyship Workbook](https://www.amazon.com/Trans-Allyship-Workbook-Building-Support/dp/0990636917)  
 [Transwhat?](http://transwhat.org/) &mdash; an online guide towards allyship
 
 # Gender-related Books
