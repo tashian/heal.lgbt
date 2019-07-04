@@ -9,7 +9,7 @@ type: docs
 ## Changing ID Documents
 [US resource guide](https://transequality.org/documents) — how to change your papers, for every state in the US
 
-# Healthcare
+# Health
 
 ## Insurance in the US
 [Transcend Legal](https://video.transcendlegal.org/) videos on how to get trans healthcare covered.
@@ -18,13 +18,13 @@ type: docs
 ## Hormones
 [Hormones: A Guide for FTMs](https://apps.carleton.edu/campus/gsc/assets/hormones_FTM.pdf)  
 [Hormones: A Guide for MTFs](https://apps.carleton.edu/campus/gsc/assets/hormones_MTF.pdf)
-
+[Healthcare of the Transgender Patient and the Powers Method of Hormonal Transitioning](https://drive.google.com/drive/folders/112o11ykp0H-8tU_SbIToT1aZwL6LCK0S) lecture notes by [Dr. William Powers](http://PowersFamilyMedicine.com)
 
 ## GRS/SRS
 
 ## Voice
 
-## Dysphoria management
+## Dysphoria
 [20 Small Things To Do When Gender Dysphoria Gets You Down](https://www.buzzfeed.com/skarlan/gender-dysphoria?utm_term=.ucYLJoNx4K#.psgq5VRMxm)
 
 ## Fashion
