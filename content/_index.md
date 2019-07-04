@@ -51,9 +51,6 @@ Coming out of the closet is not a singular moment where the hero fabulously step
 
 I believe we all come out several times during our lives, as we learn more about ourselves and the many ways in which we do not measure up to society’s impossible, draconian standards.
 
-For queers, coming out often involves establishing a new life, a new home, and a new community. I hope what follows is a useful guide for anyone who’s thinking about coming out.
-
-
 ## Mental Health
 
 > “You can be fully in charge of your life only if you can acknowledge the reality of your body, in all its visceral dimensions.”  
