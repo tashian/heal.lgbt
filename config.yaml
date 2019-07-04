@@ -5,3 +5,5 @@ publishDir: docs/
 languageCode: en-us
 enableEmoji: true
 disableKinds: ['taxonomy', 'taxonomyTerm']
+params:
+    description: heal.lgbt is a website dedicated to LGBTQIA+ healing, coming out, mental health, physical and mental health, self-care and community care, personal growth, and allyship.

@@ -1,6 +1,6 @@
 # heal.lgbt
 
-[heal.lgbt](https://heal.lgbt) is a website dedicated to LGBTQIA+ healing, coming out, mental health, physical and sexual health, self-care and community care, personal growth, and allyship.
+[heal.lgbt](https://heal.lgbt) is a website dedicated to LGBTQIA+ healing, coming out, mental health, physical and mental health, self-care and community care, personal growth, and allyship.
 
 # Contributing
 
