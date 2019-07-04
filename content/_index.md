@@ -50,7 +50,7 @@ HIV Textline (24-hours) 415.200.2920
 
 Coming out of the closet is not a singular moment where the hero fabulously steps out on stage, loudly and confidently proclaiming their truth. It’s an ongoing journey that begins with accepting an inner truth about yourself, and over time the decision to accept this truth ripples through many parts of your life. There are many discoveries to be made about yourself, too. Queerphobia is so widespread that most people discover over time the ways they have bought into and internalized society's phobias, evne unconsciously. This process of rewiring the phobias is a process of learning to celebrate and love parts of ourselves we were taught to hate, or to believe was unnatural, evil, against God, and so on.
 
-## Internalized queerphobia is often unconscious
+### Internalized queerphobia is often unconscious
 
 Most queer people in the world have been programmed by society about what it means to be queer. The messages that are most hateful are usually the easiest ones to spot within ourselves. [Watch this video](https://www.youtube.com/watch?v=98ApKUqb-RQ) to see someone beginning to notice and come to terms with their own unconscious queerphobias.
 
