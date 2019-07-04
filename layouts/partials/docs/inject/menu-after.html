@@ -1,2 +1,8 @@
 <br/ ><br />
-<caption>Made with love in California</caption>
+{{ if (or .IsPage .IsHome) }}
+<a href="https://github.com/tashian/heal.lgbt/tree/master/content/{{ .File.Path }}" class="btn">Edit This Page</a>
+<br />
+<br />
+<a href="https://github.com/tashian/heal.lgbt">Contributor's Guide</a>
+{{ end }}
+
