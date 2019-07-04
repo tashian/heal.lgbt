@@ -6,12 +6,12 @@ type: docs
 > "Death is not the biggest fear we have; our biggest fear is taking the risk to be alive — the risk to be alive and express what we really are."  
 > — Don Miguel Ruiz
 
-This page is a resource guide for queer healing.  
-The goal is to help you move from surviving, to thriving, to helping others thrive.  
-To help you learn self-love and self-care.  
-To help you connect with your inner child and learn to feel more at home in your body.  
-To help you become more resilient and adaptable.  
-To help you find power in vulnerability.  
+🌈 This page is a resource guide for queer healing.  
+🔥 The goal is to help you move from surviving, to thriving, to helping others thrive.  
+💅 To help you learn self-love and self-care.  
+🧒 To help you connect with your inner child and learn to feel more at home in your body.  
+☔️ To help you become more resilient and adaptable.  
+💪 To help you find power in vulnerability.  
 
 ## If you are in crisis (US/Canada)
 People want to help you. Even if you are feeling lonely and you just want someone to talk or text with, you can reach out any time day or night. There may also be local hotlines in your region or city.  
