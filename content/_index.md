@@ -11,7 +11,7 @@ type: docs
 💅 To help you learn self-love and self-care.  
 🧒 To help you connect with your inner child and learn to feel more at home in your body.  
 ☔️ To help you become more resilient and adaptable.  
-💪 To help you find power in vulnerability.  
+💪 To help you find power in vulnerability and community.  
 
 ## If you are in crisis (US/Canada)
 People want to help you. Even if you are feeling lonely and you just want someone to talk or text with, you can reach out any time day or night. There may also be local hotlines in your region or city.  
