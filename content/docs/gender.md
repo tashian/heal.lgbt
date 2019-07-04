@@ -3,11 +3,17 @@ title: Trans* & Genderqueer Resources
 type: docs
 ---
 
+# Trans 101
+Check out the excellent [Trans 101](https://www.youtube.com/watch?v=VRH0pwENbx8&list=PL7SgbxvTR7N5-jYeT2Coj99qnRQTIArKP&index=1) YouTube series.
+
 # Identity
 [Nonbinary Flowchart](http://philome.la/likearcsouffle/nb-flowchart/play) &mdash; what's my gender?
 
+
 ## Changing ID Documents
-[US resource guide](https://transequality.org/documents) — how to change your papers, for every state in the US
+[US resource guide](https://transequality.org/documents) — how to change your papers, for every state in the US  
+[UK Gender Recognition Certification](https://www.gov.uk/apply-gender-recognition-certificate)  
+[Canadian Passport gender change guide](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/change-sex.html)  
 
 # Health
 

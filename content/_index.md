@@ -74,13 +74,14 @@ Somatic Experiencing is a body-oriented approach to PTSD healing. It attempts to
 [In An Unspoken Voice](https://www.amazon.com/Unspoken-Voice-Releases-Restores-Goodness/dp/1556439431/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=1556439431&pd_rd_r=XZECHX8BCPBDP7EYXV8P&pd_rd_w=WJCAo&pd_rd_wg=jBCzT&psc=1&refRID=XZECHX8BCPBDP7EYXV8P) by Peter Levine  
 
 ### Psychadelics
-There’s a growing belief that psychadelics are among the fastest and most effective treatments for complex PTSD. But they come with risks. 
+There’s a growing belief that psychadelics, when used in therapy or with a guide, are among the fastest and most effective treatments for complex PTSD. But they come with risks. This is an area of ongoing exploration and recent expiermentation.
 
-Around the world there are healers, guides, and sitters who can be with you for a healing ceremony using mushrooms, Ayahuasca, MDMA, and other plant and synthetic medicines. You’ll have to dig around a bit to find them. 
+[MAPS](https://maps.org/) &mdash; Multidisciplinary Association for Psychedelic Studies  
+[Psychadelic Integration](https://integration.maps.org/) &mdash; MAPS directory of therapists who help people integrate a psychadelic experience  
 
-[MAPS](https://maps.org/) &mdash; Multidisciplinary Association for Psychedelic Studies
-[Psychadelic Integration](https://integration.maps.org/) &mdash; MAPS directory of therapists who help people integrate a psychadelic experience.
-[How to Change Your Mind](https://www.amazon.com/dp/B076GPJXWZ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Michael Pollan
+Book: [How to Change Your Mind](https://www.amazon.com/dp/B076GPJXWZ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Michael Pollan  
+Movie: [MDMA: The Movie](https://mdmathemovie.com/)  
+Movie: [Trip of Compassion](https://vimeo.com/ondemand/tripofcompassion), about MDMA trials in Isreal for trauma release  
 
 ### Neurofeedback
 Neurofeedback uses EEG monitoring to improve brain functioning as you learn to alter your brain activity. By using computer imaging, you receive direct feedback through a “brain map” that indicates areas of your brain with excessive activity associated with PTSD, such as your fear centers. Here you learn how to relax your body and mind to activate the outermost layer of your brain; that which is associated with thinking and decision-making. Typically, 20 sessions will give you enough feedback to understand how to facilitate regulation of your body and mind on your own.
@@ -94,18 +95,25 @@ Either way, it seems [good for the brain](https://www.psychologytoday.com/us/blo
 In the act of drawing, the patient makes an initial reorganisation of the form of the trauma, and begins to differentiate the adaptive ego, which has the tools and the ability to restructure the experiences, and the traumatic emotional part that suffers those experiences in a condition of impotence and passivity. The person may rapidly access preverbal and motor-sensory language, activating inborn creative skills. The use of this tool enables us to access the traumatic material gently, limiting dissociative reactions, bypassing avoidance and flight behaviour and setting a distance from pain by objectivizing. A protective space is created between the self and the part that holds the suffering. A voice to the inner child. The patient is offered the possibility of drawing what is occurring in the self's here and now, and given a choice of different graphic materials. At the end of the drawing and assessment phase the person is asked to note what has emerged, and a brief space of time may be allowed for description without interpretation.
 
 ### Meditation & Spirituality
-Meditation is very powerful and is used for to heal emotional trauma.
+Meditation is very powerful and can be used to [reduce the symptoms of PTSD](https://www.psychologytoday.com/blog/the-athletes-way/201601/meditation-reduces-post-traumatic-stress-disorder-symptoms) by calming the nervous system.
 
+[Meditating with PTSD](https://www.headspace.com/blog/2016/12/11/meditating-with-ptsd/)
 [The Mind Illuminated](https://www.amazon.com/dp/B01INMZKAQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)   
 [Oak meditation app](https://www.oakmeditation.com/)  
-[Insight Timer](https://insighttimer.com/)
+[Insight Timer](https://insighttimer.com/)  
 
-Here's a few general books about reconnecting to yourself and your spirituality or consciousness beyond religion.
+Here's a few general books about reconnecting to yourself and your spirituality or consciousness as it exists separate from religion.
 
 [Loving What Is](https://www.amazon.com/Loving-What-Four-Questions-Change/dp/1400045371) by Byron Katie  
 [The Untethered Soul](https://www.amazon.com/dp/B003TU29WA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Michael Singer  
 [Waking Up](https://www.amazon.com/Waking-Up-Spirituality-Without-Religion-ebook/dp/B00GEEB9YC/ref=pd_sim_351_4/141-1672324-3364658?_encoding=UTF8&pd_rd_i=B00GEEB9YC&pd_rd_r=494f7db1-7da6-11e9-8740-41568e48106d&pd_rd_w=QilcK&pd_rd_wg=q1iHF&pf_rd_p=90485860-83e9-4fd9-b838-b28a9b7fda30&pf_rd_r=07VFDCEKSQDH2HMJ2SM5&psc=1&refRID=07VFDCEKSQDH2HMJ2SM5) by Sam Harris  
 [The End of Your World](https://www.amazon.com/End-Your-World-Uncensored-Enlightenment/dp/1591797799) by Adyashanti  
+
+### Good feels, motivation, and inspiration
+Bring in regular motivation and reminders for self-care:
+
+[@onbeinginyourbody](https://www.instagram.com/onbeinginyourbody/?hl=en) insta love  
+
 
 
 ### Celebrated Therapists, Healers & Spiritual Guides
@@ -159,7 +167,6 @@ Creative writing and journaling
 [Trauma & Recovery](https://www.amazon.com/Trauma-Recovery-Aftermath-Violence-Political/dp/0465087302) — great book about the nature of trauma
 
 ### Movies to Watch
-[Trip of Compassion](https://vimeo.com/ondemand/tripofcompassion), about MDMA trials in Isreal for trauma release  
 [The Work](https://en.wikipedia.org/wiki/The_Work_(film)), about trauma release inside Folsom prison
 
 ### Being a Helper
@@ -169,8 +176,12 @@ As for being a helper or balancing the role of a helper, these books are fantast
 [Loving Someone with PTSD](https://www.amazon.com/Loving-Someone-PTSD-Understanding-Connecting/dp/1608827860)  
 [Help for the Helper](https://www.amazon.com/Help-Helper-Psychophysiology-Compassion-Professional/dp/039370422X)  
 
-### Spirituality
-There is a lot of religious shame and oppression. If you’re religious, does this mean you have to stop being religious? No. There are lots of options for you, and many queer-inclusive churches.
+### Religion & Spirituality
+There is a lot of religious shame and oppression. If you’re religious, does this mean you have to stop being religious? No. There are lots of options for you, and many inclusive churches and spiritual communities.
 
-[Pray the Gay Away](https://www.amazon.com/Pray-Gay-Away-Extraordinary-Lives/dp/0814786375) by Bernadette Barton is a study of present-day religious oppression of LGBT people in the US  
+[Unity](http://www.unity.org/resources/lgbtq)  
+[Unitarian Universalist](https://www.uua.org/)  
+Some [United Methodist](http://www.umc.org/) churches (there is an ongoing dispute about LGBT rights within the UMC)  
+
+Book: [Pray the Gay Away](https://www.amazon.com/Pray-Gay-Away-Extraordinary-Lives/dp/0814786375) by Bernadette Barton is a study of present-day religious oppression of LGBT people in the US  
 
