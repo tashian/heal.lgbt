@@ -13,38 +13,53 @@ type: docs
 ☔️ To help you become more resilient and adaptable.  
 💪 To help you find power in vulnerability and community.  
 
-## If you are in crisis (US/Canada)
+## If you are in crisis
 People want to help you. Even if you are feeling lonely and you just want someone to talk or text with, you can reach out any time day or night. There may also be local hotlines in your region or city.  
 
-[LGBT National Hotline](https://www.glbthotline.org/) 888.843.4564  
-[National Suicide Hotline](https://suicidepreventionlifeline.org/chat/) (24-hours) 800.273.8255 or [chat with them](https://suicidepreventionlifeline.org/chat/)  
+🇺🇸 [LGBT National Hotline](https://www.glbthotline.org/) 888.843.4564  
+🇺🇸 [National Suicide Hotline](https://suicidepreventionlifeline.org/chat/) (24-hours) 800.273.8255 or [chat with them](https://suicidepreventionlifeline.org/chat/)  
+🌏 [List of suicide crisis lines](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines)
 
 {{< columns >}}
 ## Youth
-[The Trevor Project](https://www.thetrevorproject.org/)  
-Trevor Lifeline 866.488.7386  
-Trevor Text. Text START to 678678  
-[TrevorSpace](https://www.trevorspace.org/) social network for ages 13-24  
-LGBT National Youth Talkline 800.246.7743  
+🇺🇸 [Trevor](https://www.thetrevorproject.org/) Lifeline 866.488.7386  
+🇺🇸 [Trevor](https://www.thetrevorproject.org/) Text. Text START to 678678  
+🇺🇸 LGBT Youth Talkline 800.246.7743  
+🇨🇦 [LGBT Youthline](https://www.youthline.ca/) call 800.268.9688  
+🇨🇦 [LGBT Youthline](https://www.youthline.ca/) txt 647.694.4275  
+🌏 [TrevorSpace](https://www.trevorspace.org/) social network ages 13-24  
+🇨🇦 Crisis Text Line: Text HOME to 686868  
+🇬🇧 Crisis Text Line: Text SHOUT to 85258
+
 <--->
 ## Trans* & Genderqueer
 [Trans LifeLine](http://www.translifeline.org/)  
-US: 877.565.8860  
-Canada: 877.330.6366
+🇺🇸 877.565.8860  
+🇨🇦 877.330.6366
 
 ## Seniors
-LGBT National Senior Hotline 888.234.7243  
+🇺🇸 LGBT Senior Hotline 888.234.7243  
+
 {{< /columns >}}
 
 ## Self-harm prevention
+
+Hurting?
+
+🇺🇸 Text CONNECT to 741741 to get free help from [Crisis Text Line](https://www.crisistextline.org/selfharm)
+
 [Alternatives to cutting and self-harm](https://www.glbthotline.org/self-harm-prevention.html#professional)  
 [Self-harm prevention workbook](https://www.glbthotline.org/self-harm-prevention.html)
 
 ## HIV/AIDS support
 Just tested positive? Feeling isolated? Worried about your medications? Wondering about your risk? Caring for someone with HIV?
 
-[HIV Nightline](https://www.sfsuicide.org/our-programs/hiv-nightlines/) (24-hours) 415.434.2437 or 800.628.9240 Nationwide  
-HIV Textline (24-hours) 415.200.2920  
+🇺🇸 [HIV Nightline](https://www.sfsuicide.org/our-programs/hiv-nightlines/) (24-hours) 415.434.2437 or 800.628.9240  
+🇺🇸 HIV Textline (24-hours) 415.200.2920  
+
+## Addiction support
+
+[LGBTQ Addiction Guide](https://www.drugrehab.com/guides/lgbtq/)
 
 ## Coming out
 
@@ -69,7 +84,7 @@ Everyone has emotional trauma in their past. A negative memory that you keep ret
 
 Some people have a history of trauma with a lowercase t. Some have Trauma with a capital T. Some have both going on. It's possible to heal from all kinds of trauma. A few lowercase-t traumas spread out throughout childhood can be more debilitating than one capital-T trauma.
 
-Trauma, PTSD and [adverse childhood experiences (ACEs)](https://www.cdc.gov/violenceprevention/childabuseandneglect/acestudy/index.html) are more common among queer people. Internalized queerphobias are also common and often unconscious. In recent years, we have come a long way in understanding how to help people heal more effectively. Here are some directions and avenues where deeper healing can take place. 
+Trauma, PTSD and [adverse childhood experiences (ACEs)](https://www.cdc.gov/violenceprevention/childabuseandneglect/acestudy/index.html) are more common among queer people. Internalized queerphobias are also common and often unconscious. In recent years, we have come a long way in understanding how to help people heal more effectively. Here are some directions and avenues where deeper healing can take place.
 
 One of the pernicious things about childhood trauma is that it can be with you for so long that you come to believe it’s part of who you are.
 
@@ -123,8 +138,8 @@ There's also a lot you can do on your own.
 ### Meditation & Spirituality
 Meditation is very powerful and can be used to [reduce the symptoms of PTSD](https://www.psychologytoday.com/blog/the-athletes-way/201601/meditation-reduces-post-traumatic-stress-disorder-symptoms) by calming the nervous system.
 
-[Meditating with PTSD](https://www.headspace.com/blog/2016/12/11/meditating-with-ptsd/)
-[The Mind Illuminated](https://www.amazon.com/dp/B01INMZKAQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)   
+[Meditating with PTSD](https://www.headspace.com/blog/2016/12/11/meditating-with-ptsd/)  
+Book: [The Mind Illuminated](https://www.amazon.com/dp/B01INMZKAQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)   
 [Oak meditation app](https://www.oakmeditation.com/)  
 [Insight Timer](https://insighttimer.com/)  
 
@@ -144,8 +159,7 @@ Bring in regular motivation and reminders for self-care:
 
 ### Celebrated Therapists, Healers & Spiritual Guides
 [Bessel van der Kolk](http://besselvanderkolk.net/index.html) ([podcast](https://onbeing.org/programs/bessel-van-der-kolk-how-trauma-lodges-in-the-body-mar2017/) interview)  
-Peter Levine  
-Byron Katie ([videos](https://www.youtube.com/user/TheWorkofBK/videos))  
+[Byron Katie](https://thework.com/) ([videos](https://www.youtube.com/user/TheWorkofBK/videos))  
 [Adyashanti](https://www.adyashanti.org/) ([videos](https://www.youtube.com/user/Adyashanti/videos))  
 [Gangaji](https://gangaji.org/) ([videos](https://www.youtube.com/channel/UCuu1iS63Zl-57fceuzoPzZw))  
 [Mooji](http://mooji.org) ([videos](https://www.youtube.com/channel/UCpw2gh99XM6Mwsbksv0feEg))  
@@ -210,7 +224,3 @@ There is a lot of religious shame and oppression. If you’re religious, does th
 Some [United Methodist](http://www.umc.org/) churches (there is an ongoing dispute about LGBT rights within the UMC)  
 
 Book: [Pray the Gay Away](https://www.amazon.com/Pray-Gay-Away-Extraordinary-Lives/dp/0814786375) by Bernadette Barton is a study of present-day religious oppression of LGBT people in the US  
-
-## Other resource guides and communities
-[Gaysi Family](http://gaysifamily.com/) — safe space for LGBTQIA+ desis
-
