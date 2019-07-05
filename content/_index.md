@@ -21,7 +21,7 @@ People want to help you. Even if you are feeling lonely and you just want someon
 🌏 [List of suicide crisis lines](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines)
 
 {{< columns >}}
-## Youth
+### Youth
 🇺🇸 [Trevor](https://www.thetrevorproject.org/) Lifeline 866.488.7386  
 🇺🇸 [Trevor](https://www.thetrevorproject.org/) Text. Text START to 678678  
 🇺🇸 LGBT Youth Talkline 800.246.7743  
@@ -32,17 +32,17 @@ People want to help you. Even if you are feeling lonely and you just want someon
 🇬🇧 Crisis Text Line: Text SHOUT to 85258
 
 <--->
-## Trans* & Genderqueer
+### Trans* & Genderqueer
 [Trans LifeLine](http://www.translifeline.org/)  
 🇺🇸 877.565.8860  
 🇨🇦 877.330.6366
 
-## Seniors
+### Seniors
 🇺🇸 LGBT Senior Hotline 888.234.7243  
 
 {{< /columns >}}
 
-## Self-harm prevention
+### Self-harm prevention
 
 Hurting?
 
@@ -51,13 +51,13 @@ Hurting?
 [Alternatives to cutting and self-harm](https://www.glbthotline.org/self-harm-prevention.html#professional)  
 [Self-harm prevention workbook](https://www.glbthotline.org/self-harm-prevention.html)
 
-## HIV/AIDS support
+### HIV/AIDS support
 Just tested positive? Feeling isolated? Worried about your medications? Wondering about your risk? Caring for someone with HIV?
 
 🇺🇸 [HIV Nightline](https://www.sfsuicide.org/our-programs/hiv-nightlines/) (24-hours) 415.434.2437 or 800.628.9240  
 🇺🇸 HIV Textline (24-hours) 415.200.2920  
 
-## Addiction support
+### Addiction support
 
 [LGBTQ Addiction Guide](https://www.drugrehab.com/guides/lgbtq/)
 
