@@ -48,15 +48,7 @@ HIV Textline (24-hours) 415.200.2920
 
 ## "But I’m already fine, I don’t need healing."
 
-Everyone is damanged by their parents in one way or another. That's why queer healing is for everyone.  There's an opportunitiy for even the most "healthy" of us to heal in ways that we didn't even know we were broken.
-
-For me, the breakthroughs in healing as an adult have all started when I humbly began to question a lot of assumptions I had long made about myself (the biggest one being, “I’m already fine”). This process of self-inquiry has helped me gradually uncover the parts of myself that were long suppressed.
-
-One of the pernicious things about childhood trauma is that it can stay with you for so long that you completely believe it’s part of who you are. Maybe you don’t even remember the time when we weren’t traumatized.
-
-I don’t mean to make you paranoid. My point is, even if you feel fully healed, you may still get something out of the resources here. It certainly won’t hurt.
-
-
+No matter how loving and well-intentioned our household is growing up, everyone emerges from childhood damaged by their parents, by their schooling, and by society in one way or another. Which means there's an opportunitiy for even the most "healthy" of us to heal in ways that we didn't even know we were broken.
 
 ## Coming out
 
@@ -75,7 +67,13 @@ Most queer people in the world have been programmed by society about what it mea
 > “You can be fully in charge of your life only if you can acknowledge the reality of your body, in all its visceral dimensions.”  
 > — Bessel van der Kolk, “The Body Keeps the Score”
 
-PTSD and adverse childhood experiences (ACEs) are more common among queer people. Internalized queerphobias are also common and often unconscious. In recent years, we have come a long way in understanding how to help people heal more effectively. Here are some directions and avenues where deeper healing can take place. 
+Everyone has emotional trauma in their past. A negative memory that you keep returning to. Sometimes it's simply the sense that you cannot seem to get out of your head, that your mind is on overdrive all the time and you can't focus, or that you often feel unsafe or triggered. If a negative memory is something that you think should be "no big deal," that you believe shouldn't be a problem, and that you wish you could just get over, but it keeps coming up, that is trauma.
+
+Some people have a history of trauma with a lowercase t. Some have Trauma with a capital T. Some have both going on. It's possible to heal from all kinds of trauma. Several lowercase-t traumas spread out through childhood can be more debilitating than one capital-T trauma.
+
+Trauma, PTSD and [adverse childhood experiences (ACEs)](https://www.cdc.gov/violenceprevention/childabuseandneglect/acestudy/index.html) are more common among queer people. Internalized queerphobias are also common and often unconscious. In recent years, we have come a long way in understanding how to help people heal more effectively. Here are some directions and avenues where deeper healing can take place. 
+
+One of the pernicious things about childhood trauma is that it can stay with you for so long that you completely believe it’s part of who you are. Maybe you don’t even remember the time when we weren’t traumatized.
 
 ### EMDR Therapy
 [The Body Keeps the Score](https://www.amazon.com/Body-Keeps-Score-Healing-Trauma/dp/0143127748/ref=pd_bxgy_14_img_2?_encoding=UTF8&pd_rd_i=0143127748&pd_rd_r=E77WSHZ3GQWMTJGADVET&pd_rd_w=A0qUV&pd_rd_wg=lJoLK&psc=1&refRID=E77WSHZ3GQWMTJGADVET&dpID=51HZpvdVMjL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=detail) by Bessel van der Kolk talks about the power of EMDR and somatic therapies for treating PTSD  
