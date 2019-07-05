@@ -13,7 +13,9 @@
 
 
 
-<link rel="stylesheet" href="/book.min.64544121c46b29b8c326e8b7470055c5d611c9423eb179a6eda24e32e3994eea.css">
+<link rel="stylesheet" href="/book.min.2907a7e0ce5e7d016bfff3eca2deaacb86e633d784f52bd540ffa6f252de83e3.css">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.min.js"></script>
 
 
 <link rel="icon" href="/favicon.png" type="image/x-icon">
@@ -33,7 +35,6 @@
 
 <meta itemprop="name" content="San Francisco resources | Queer Healing Resources">
 <meta itemprop="description" content="heal.lgbt is a website dedicated to LGBTQIA&#43; healing, coming out, mental health, physical and mental health, self-care and community care, personal growth, and allyship.">
-
 
 
 
@@ -232,35 +233,26 @@ Lisette Lahana, LCSW — Oakland EMDR gender specialist<br />
   
 
   <aside class="book-toc level-3 fixed">
-    <nav id="TableOfContents">
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li><a href="#trauma-informed-spiritual-groups">Trauma-informed spiritual groups</a></li>
-<li><a href="#immersion-learning-retreat-centers">Immersion Learning &amp; Retreat Centers</a></li>
-<li><a href="#hiv-aids-support">HIV/AIDS Support</a></li>
-<li><a href="#recovery-groups">Recovery Groups</a></li>
-<li><a href="#san-francisco-local-meetups">San Francisco Local Meetups</a></li>
-<li><a href="#gender-sexual-health-clinics">Gender/Sexual Health Clinics</a></li>
-<li><a href="#lgbt-centers">LGBT Centers</a></li>
-<li><a href="#lgbt-retreats">LGBT retreats</a></li>
-<li><a href="#therapists">Therapists</a></li>
-<li><a href="#emdr-therapists">EMDR Therapists</a></li>
-<li><a href="#somatic-experiencing-therapists">Somatic Experiencing Therapists</a></li>
-<li><a href="#trauma-sensitive-yoga">Trauma Sensitive Yoga</a></li>
-</ul></li>
-</ul></li>
-</ul>
-</nav>
+      <nav id="TableOfContents" class="toc">
+      </nav>
   </aside>
 
 
 
   </main>
   
-  
+  <script>
+    tocbot.init({
+        
+        tocSelector: '#TableOfContents',
+        
+        contentSelector: 'article.markdown',
+        
+        headingSelector: 'h1, h2, h3',
+        orderedList: false,
+    });
+</script>
+
   
 </body>
 

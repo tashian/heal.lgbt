@@ -13,7 +13,9 @@
 
 
 
-<link rel="stylesheet" href="/book.min.64544121c46b29b8c326e8b7470055c5d611c9423eb179a6eda24e32e3994eea.css">
+<link rel="stylesheet" href="/book.min.2907a7e0ce5e7d016bfff3eca2deaacb86e633d784f52bd540ffa6f252de83e3.css">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.min.js"></script>
 
 
 <link rel="icon" href="/favicon.png" type="image/x-icon">
@@ -33,7 +35,6 @@
 
 <meta itemprop="name" content="Docs | Queer Healing Resources">
 <meta itemprop="description" content="heal.lgbt is a website dedicated to LGBTQIA&#43; healing, coming out, mental health, physical and mental health, self-care and community care, personal growth, and allyship.">
-
 
 
 
@@ -137,11 +138,27 @@ https://github.com/alex-shpak/hugo-book
     
   
 
+  <aside class="book-toc level-3 fixed">
+      <nav id="TableOfContents" class="toc">
+      </nav>
+  </aside>
+
 
 
   </main>
   
-  
+  <script>
+    tocbot.init({
+        
+        tocSelector: '#TableOfContents',
+        
+        contentSelector: 'article.markdown',
+        
+        headingSelector: 'h1, h2, h3',
+        orderedList: false,
+    });
+</script>
+
   
 </body>
 

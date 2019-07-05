@@ -13,7 +13,9 @@
 
 
 
-<link rel="stylesheet" href="/book.min.64544121c46b29b8c326e8b7470055c5d611c9423eb179a6eda24e32e3994eea.css">
+<link rel="stylesheet" href="/book.min.2907a7e0ce5e7d016bfff3eca2deaacb86e633d784f52bd540ffa6f252de83e3.css">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.min.js"></script>
 
 
 <link rel="icon" href="/favicon.png" type="image/x-icon">
@@ -33,7 +35,6 @@
 
 <meta itemprop="name" content="Trans* &amp; Genderqueer Resources | Queer Healing Resources">
 <meta itemprop="description" content="heal.lgbt is a website dedicated to LGBTQIA&#43; healing, coming out, mental health, physical and mental health, self-care and community care, personal growth, and allyship.">
-
 
 
 
@@ -246,48 +247,26 @@ Jack Halberstam - Female Masculinity</p>
   
 
   <aside class="book-toc level-3 fixed">
-    <nav id="TableOfContents">
-<ul>
-<li><a href="#trans-101">Trans 101</a>
-<ul>
-<li><a href="#learning-about-your-identity">Learning about your identity</a></li>
-<li><a href="#being-an-ally">Being an ally</a></li>
-</ul></li>
-<li><a href="#transitioning">Transitioning</a>
-<ul>
-<li><a href="#changing-id-documents">Changing ID Documents</a></li>
-<li><a href="#health">Health</a>
-<ul>
-<li><a href="#insurance-providers">Insurance &amp; Providers</a></li>
-</ul></li>
-<li><a href="#hormones">Hormones</a>
-<ul>
-<li><a href="#background-reading-on-the-world-of-hormones">Background reading on the world of hormones</a></li>
-</ul></li>
-<li><a href="#grs-srs">GRS/SRS</a></li>
-<li><a href="#voice">Voice</a></li>
-<li><a href="#managing-gender-dysphoria">Managing Gender Dysphoria</a></li>
-<li><a href="#fashion">Fashion</a>
-<ul>
-<li><a href="#clothes">Clothes</a></li>
-<li><a href="#wigs">Wigs</a></li>
-<li><a href="#tucking">Tucking</a></li>
-</ul></li>
-<li><a href="#binding">Binding</a></li>
-</ul></li>
-<li><a href="#online-communities-resource-guides">Online communities &amp; resource guides</a></li>
-<li><a href="#youtube-channels-podcasts-etc">YouTube Channels, Podcasts, etc.</a></li>
-<li><a href="#resources-for-allies">Resources for Allies</a></li>
-<li><a href="#gender-related-books">Gender-related Books</a></li>
-</ul>
-</nav>
+      <nav id="TableOfContents" class="toc">
+      </nav>
   </aside>
 
 
 
   </main>
   
-  
+  <script>
+    tocbot.init({
+        
+        tocSelector: '#TableOfContents',
+        
+        contentSelector: 'article.markdown',
+        
+        headingSelector: 'h1, h2, h3',
+        orderedList: false,
+    });
+</script>
+
   
 </body>
 

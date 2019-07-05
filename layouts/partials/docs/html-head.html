@@ -6,6 +6,8 @@
 {{ $styles := resources.Get "book.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
 <link rel="stylesheet" href="{{ $styles.RelPermalink }}">
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.min.js"></script>
+
 <!-- Favicon -->
 <link rel="icon" href="{{ "favicon.png" | relURL }}" type="image/x-icon">
 
@@ -24,7 +26,6 @@
 
 <meta itemprop="name" content="{{- template "title" . }}">
 <meta itemprop="description" content="{{ .Site.Params.Description }}">
-
 
 
 <!-- RSS -->
