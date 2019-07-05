@@ -9,3 +9,16 @@ a.btn {
    border-color: #007bff;
    cursor: pointer;
 }
+
+.markdown h4 {
+    font-weight: bold;
+}
+
+.book-toc a {
+    color: #637282;
+}
+
+.book-toc a:hover {
+    opacity: 1;
+    color: #0070e0;
+}
