@@ -1,6 +1,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{{- template "title" . -}}</title>
+<title>{{- template "display_title" . -}}</title>
 
 <!-- Theme stylesheet, you can customize scss by creatig `assets/custom.scss` in your website -->
 {{ $styles := resources.Get "book.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
@@ -12,7 +12,7 @@
 <link rel="icon" href="{{ "favicon.png" | relURL }}" type="image/x-icon">
 
 <!-- social media -->
-<meta property="og:title" content="{{- template "title" . -}}" />
+<meta property="og:title" content="{{- template "display_title" . -}}" />
 <meta property="og:description" content="{{ .Site.Params.Description }}" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="{{ .Permalink }}" />
@@ -24,7 +24,7 @@
 <meta name="twitter:title" content="{{- template "title" . }}" />
 <meta name="twitter:description" content="{{ .Site.Params.Description }}"/>
 
-<meta itemprop="name" content="{{- template "title" . }}">
+<meta itemprop="name" content="{{- template "display_title" . }}">
 <meta itemprop="description" content="{{ .Site.Params.Description }}">
 
 

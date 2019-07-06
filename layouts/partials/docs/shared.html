@@ -1,7 +1,15 @@
 {{/*These templates contains some more complex logic and shared between partials*/}}
 {{ define "title" -}}
   {{- if .IsHome }}
-  {{ .Site.Title }}
+    {{ .Site.Title }}
+  {{- else }}
+    {{- .Title }}
+  {{- end }}
+{{- end }}
+
+{{ define "display_title" -}}
+  {{- if .IsHome }}
+    {{ .Site.Title }}
   {{- else }}
     {{- .Title }} | {{ .Site.Title -}}
   {{- end }}
