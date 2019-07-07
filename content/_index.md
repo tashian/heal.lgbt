@@ -21,17 +21,30 @@ type: docs
 
 There are two-spirit native healers in New Mexico. There are bisexual cis men in traditional marriages who live in rural China. There are black trans boys in Queens and Taiwanese trans girls in Taipei. There are people who don't have any word for what they are, but they know something different is going on. Point is, "queer" is a big tent and there are many kinds of people inside. None of these people need anyone's permission to be who they are. If you think you're queer enough, you are queer enough. If you're not sure, that's fine too, just keep reading.
 
+## Who am I anyway, and what do I want?
+
+That's the real question, isn't it. Forget about coming out to your family. What about coming out to yoursef? You may not even know what you would come out _as_. "Am I a lesbian?" "Am I nonbinary?" "Am I a butch trans girl?"
+
+Give it a minute. Give it a year if you have to. What's really happening is an internal discovery process. We are all discovering more about who we are. So, instead of trying to understand yourself perfectly in all of your magical dimensions, it's okay to just sit with the confusion for a bit.
+
+You might gain some new understanding of yourself by describing what you feel to a supportive listener. You might have safe and close and supportive enough friends or family or therapist or chat group where you can talk even when you're really confused about yourself.
+
+At some point, things will become interally as clear to you as they can be without taking some further steps externally. Maybe you found a few words that seem to describe your gender and/or sexuality, and you tried them on and, a year later, you see that they still ring true. Good. Might this change? Yes, but that's the beauty of self-discovery. Years from now, you might come out to yourself in new ways. Coming out to yourself never really ends. But after you've lived with a new discovery for a while, you may want to take action. Because you only live once, after all.
+
 ## Coming out
 
-Coming out of the closet is not a singular moment where the hero fabulously steps out on stage, loudly and confidently proclaiming their truth. It’s a lifelong journey of self-discovery, acceptance, and sharing. It begins with learning to accept an inner truth about yourself, and over time the decision to accept and share this truth ripples through many parts of your life. There are many discoveries to be made about yourself, too. Queerphobia is so widespread that most people discover over time the ways they have bought into and internalized society's phobias, evne unconsciously. This process of rewiring the phobias is a process of learning to celebrate and love parts of ourselves we were taught to hate, or to believe was unnatural, evil, against God, and so on.
+Coming out of the closet is not a singular moment where the hero fabulously steps out on stage, loudly and confidently proclaiming their truth. It’s a lifelong journey of self-discovery (as you come out in new ways to yourself) and sharing (as you come out to new people in your life).
+
+Will they accept me? That's always the question when coming out to others.
+
+Queerphobia is so widespread that most people discover over time the ways they have bought into and internalized society's phobias, evne unconsciously. This process of rewiring the phobias is a process of learning to celebrate and love parts of ourselves we were taught to hate, or to believe was unnatural, evil, against God, and so on.
 
 [HRC: Resource Guide to Coming Out](https://assets2.hrc.org/files/assets/resources/resource_guide_april_2014.pdf?_ga=2.126552526.2109471886.1562269796-438205338.1562269796) (PDF)   
 [The Trevor Project: Coming Out As YOU](https://www.thetrevorproject.org/wp-content/uploads/2017/09/ComingOutAsYou.pdf) (PDF)  
 
-
 #### Internalized queerphobia can be unconscious
 
-Most queer people in the world have been programmed by society about what it means to be queer. This stuff is deeply wired into us. The messages that are most hateful are usually the easiest ones to spot within ourselves, but there are subtler phobias that are harder for us to become aware of. [Watch this video](https://www.youtube.com/watch?v=98ApKUqb-RQ) to see someone beginning to notice and come to terms with their own unconscious queerphobias.
+Most queer people in the world have been programmed with some negative ideas and messages from society about queerness, gender, gender roles, mannerisms, and sexuality. This stuff is often so deeply wired that you can't even see it. But the sooner you can spot how you've been socialized with toxic ideas from misinformed people, the sooner we can let it go. [Watch this video](https://www.youtube.com/watch?v=98ApKUqb-RQ) to see someone beginning to notice and come to terms with their own unconscious queerphobias.
 
 ## Mental Health
 
@@ -95,6 +108,10 @@ Can't afford a therapist right now? There are many ways to get free therapy, so 
 
 There's also a lot you can do on your own.
 
+### Apps
+
+* [Sanvello](https://www.sanvello.com/) is an app that helps you relieve symptoms of stress, anxiety, and depression
+
 ### Meditation & Spirituality
 Meditation is very powerful and can be used to [reduce the symptoms of PTSD](https://www.psychologytoday.com/blog/the-athletes-way/201601/meditation-reduces-post-traumatic-stress-disorder-symptoms) by calming the nervous system.
 
@@ -114,7 +131,7 @@ Here's a few general books about reconnecting to yourself and your spirituality 
 Bring in regular motivation and reminders for self-care:
 
 [@onbeinginyourbody](https://www.instagram.com/onbeinginyourbody/?hl=en) insta love  
-
+[Aloe Bud](https://aloebud.com) self care reminders (iPhone)
 
 
 ### Celebrated Therapists, Healers & Spiritual Guides

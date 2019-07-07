@@ -3,8 +3,9 @@ title: Trans* & Genderqueer Resources
 type: docs
 ---
 
-# Trans 101
-Check out the excellent [Trans 101](https://www.youtube.com/watch?v=VRH0pwENbx8&list=PL7SgbxvTR7N5-jYeT2Coj99qnRQTIArKP&index=1) YouTube series.
+# Trans & gender 101
+[Trans 101](https://www.youtube.com/watch?v=VRH0pwENbx8&list=PL7SgbxvTR7N5-jYeT2Coj99qnRQTIArKP&index=1) YouTube series  
+[Transger Map](https://www.transgendermap.com/) website
 
 ## Learning about your identity
 [Nonbinary Flowchart](http://philome.la/likearcsouffle/nb-flowchart/play) &mdash; what's my gender?
@@ -63,21 +64,29 @@ Outside the US:
 
 * Don't bind if you have breast implants
 
+# Legal Resources
+🇺🇸 [Lambda Legal](www.lambdalegal.org)  
+🇺🇸 [Transgender Law Center](http://www.transgenderlawcenter.org/)
 
-# Online communities & resource guides
+
+
+# Media
+
+## Online communities & resource guides
 [Transpeak](https://discord.me/transpeak) is a supportive Discord community  
 [Susan's Place](https://www.susans.org/) is a peer support website with very active forum  
 [transgender teen survival guide](https://transgenderteensurvivalguide.tumblr.com) great and supportive Tumblr with many resources  
 [FTM Resource Guide](http://ftmguide.org/)
+[Trans In The South](https://southernequality.org/wp-content/uploads/2017/10/TransintheSouth_October2017.pdf) guide from [The Campaign for Southern Equality](https://southernequality.org/)
 
-# YouTube Channels, Podcasts, etc.
+## YouTube Channels, Podcasts, etc.
 [BlackTransTV](https://www.youtube.com/channel/UCeO9e-YaxVnhm9KVOvw9kgQ/videos)
 
-# Resources for Allies
+## Resources for Allies
 [Trans Allyship Workbook](https://www.amazon.com/Trans-Allyship-Workbook-Building-Support/dp/0990636917)  
 [Transwhat?](http://transwhat.org/) &mdash; an online guide towards allyship
 
-# Gender-related Books
+## Gender-related Books
 [Gender: Your Guide](https://www.simonandschuster.com/books/Gender-Your-Guide/Lee-Airton/9781507210703)  
 [Gender Outlaw](https://www.amazon.com/Gender-Outlaw-Men-Women-Rest/dp/1101973242/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=1101973242&pd_rd_r=GMSXYTV2V04N63WMSHRF&pd_rd_w=ZfFJ4&pd_rd_wg=Ev1Pd&psc=1&refRID=GMSXYTV2V04N63WMSHRF)  
 [Women on the Edge of Time](https://www.amazon.com/Woman-Edge-Time-Marge-Piercy/dp/044900094X/ref=sr_1_1?ie=UTF8&qid=1508441968&sr=8-1&keywords=Woman+on+the+Edge+of+Time) (novel)  
