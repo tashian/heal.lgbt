@@ -116,7 +116,8 @@ Can't afford a therapist right now? There are many ways to get free therapy, so 
 
 There's also a lot you can do on your own.
 
-### Apps
+### Therapy apps
+
 
 ### Meditation & Spirituality
 Meditation is very powerful and can be used to [reduce the symptoms of PTSD](https://www.psychologytoday.com/blog/the-athletes-way/201601/meditation-reduces-post-traumatic-stress-disorder-symptoms) by calming the nervous system.
@@ -136,11 +137,36 @@ Here's a few general books about reconnecting to yourself and your spirituality 
 ### Good feels, motivation, and inspiration
 Bring in regular motivation and reminders for self-care:
 
-[@onbeinginyourbody](https://www.instagram.com/onbeinginyourbody/?hl=en) insta love  
+[@onbeinginyourbody](https://www.instagram.com/onbeinginyourbody/?hl=en) insta love   
 [Aloe Bud](https://aloebud.com) self care reminders (iPhone)
 
 
-### Celebrated Therapists, Healers & Spiritual Guides
+### Religion & Spirituality
+
+There is a lot of religious shame and oppression. If you’re religious, does this mean you have to stop being religious? No. There are lots of options for you, and many inclusive churches and spiritual communities.
+
+[Unity](http://www.unity.org/resources/lgbtq)  
+[Unitarian Universalist](https://www.uua.org/)  
+Some [United Methodist](http://www.umc.org/) churches (there is an ongoing dispute about LGBT rights within the UMC)  
+
+Book: [Pray the Gay Away](https://www.amazon.com/Pray-Gay-Away-Extraordinary-Lives/dp/0814786375) by Bernadette Barton is a study of present-day religious oppression of LGBT people in the US  
+
+### Follow a Dead Teacher
+Many queer people have suffered from religious shame and oppression growing up, and are now untrusting of all religious and spiritual guides, philosophers and teachers of all kinds.
+
+This is unfortunate, because having your own spiritual life is incredibly valuable and healing. One way to proceed and reclaim your own sense of consciousness or spirituality is to follow a dead teacher. A dead teacher has no possible incentive or means to harm you or take anything away from you, so you may find it easier to listen to them.
+
+The best dead teachers, in my opinion, are recently dead teachers who lived during contemporary times. Because you do not need anyone else who is currently alive to help you interpret the words of a recently dead teacher. You can have your own relationship with them, and listen to them directly, and decide for yourself how you want to apply their teachings in your life.
+
+#### Dead teachers to check out
+[J. Krishnamurti](https://www.youtube.com/user/KFoundation), Indian philosopher and writer  
+[Alan Watts](https://www.youtube.com/results?search_query=alan+watts), an English philosopher  
+[Suzuki Roshi](http://suzukiroshi.sfzc.org/dharma-talks/), spiritual teacher who brought Zen to the United States  
+[S.N. Goenka](https://www.youtube.com/results?search_query=sn+goenka), Burmese-Indian teacher of Vipassana meditation—a no-dogma practice of self-directed meditation
+
+### Living teachers to check out
+All of the people listed below have offered free media online that can help you. Watch and listen to each of them and see if you connect with any of their messages. All of the people below have your wellbeing in mind.  
+
 [Bessel van der Kolk](http://besselvanderkolk.net/index.html) ([podcast](https://onbeing.org/programs/bessel-van-der-kolk-how-trauma-lodges-in-the-body-mar2017/) interview)  
 [Byron Katie](https://thework.com/) ([videos](https://www.youtube.com/user/TheWorkofBK/videos))  
 [Adyashanti](https://www.adyashanti.org/) ([videos](https://www.youtube.com/user/Adyashanti/videos))  
@@ -148,7 +174,6 @@ Bring in regular motivation and reminders for self-care:
 [Mooji](http://mooji.org) ([videos](https://www.youtube.com/channel/UCpw2gh99XM6Mwsbksv0feEg))  
 [Pia Mellody](http://www.piamellody.com/index.html) ([videos](https://www.youtube.com/watch?v=bFtHq7-dvHs))  
 [Eckhart Tolle](https://www.eckharttolle.com/) ([videos](https://www.youtube.com/channel/UCj9fPezLH1HUh7mSo-tB1Mg))  
-[J. Krishnamurti](https://www.youtube.com/user/KFoundation)  
 [Sri Prem Baba](https://www.sriprembaba.org/en/)  
 
 
@@ -199,11 +224,4 @@ As for being a helper or balancing the role of a helper, these books are fantast
 [Loving Someone with PTSD](https://www.amazon.com/Loving-Someone-PTSD-Understanding-Connecting/dp/1608827860)  
 [Help for the Helper](https://www.amazon.com/Help-Helper-Psychophysiology-Compassion-Professional/dp/039370422X)  
 
-### Religion & Spirituality
-There is a lot of religious shame and oppression. If you’re religious, does this mean you have to stop being religious? No. There are lots of options for you, and many inclusive churches and spiritual communities.
 
-[Unity](http://www.unity.org/resources/lgbtq)  
-[Unitarian Universalist](https://www.uua.org/)  
-Some [United Methodist](http://www.umc.org/) churches (there is an ongoing dispute about LGBT rights within the UMC)  
-
-Book: [Pray the Gay Away](https://www.amazon.com/Pray-Gay-Away-Extraordinary-Lives/dp/0814786375) by Bernadette Barton is a study of present-day religious oppression of LGBT people in the US  
