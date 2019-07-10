@@ -53,7 +53,7 @@ Most queer people in the world have been programmed with some negative ideas and
 
 No matter how loving and well-intentioned our childhood home was (or is), we all emerge from childhood damaged by our parents, by our schooling, and by society in one way or another. Which means there's an opportunitiy for even the most "healthy" of us to heal in ways that we didn't even know we were broken.
 
-Everyone has emotional trauma in their past. A negative memory that you keep returning to. Sometimes it's simply the sense that you cannot seem to get out of your head, that your mind is on overdrive all the time and you can't focus, or that you often feel unsafe or triggered. If a negative memory is something that you think should be "no big deal," that you believe shouldn't be a problem, and that you wish you could just get over, but it keeps coming up, that is trauma.
+Everyone has emotional trauma in their past. It may feel like a negative memory that you keep returning to. Sometimes it's simply the sense that you cannot seem to get out of your head, that your mind is on overdrive all the time and you can't focus, or that you often feel unsafe or triggered. If a negative memory is something that you think should be "no big deal," that you believe shouldn't be a problem, and that you wish you could just get over, but it keeps coming up, that is trauma.
 
 Some people have a history of trauma with a lowercase t. Some have Trauma with a capital T. Some have both going on. It's possible to heal from all kinds of trauma. A few lowercase-t traumas spread out throughout childhood can be more debilitating than one capital-T trauma.
 
@@ -63,7 +63,7 @@ One of the pernicious things about childhood trauma is that it can be with you f
 
 Therapy means so many things. There are many kinds of therapists. So, it's worth learning about various modalities (there are many) and talking to several therapists so that your work will be effective. With the wrong kind of therapy, it's easy to waste a lot of money. But the right kind of therapy is absolutely life changing and is worth every penny.
 
-### EMDR Therapy
+### Eye Movement Desensitization and Reprocessing (EMDR) Therapy
 EMDR is used for PTSD, depression, anxiety, addiction, and phobias. It is different from talk therapy. It uses eye movement (or sounds or vibrations). When you recall a traumatic memory while doing these calming eye movements, the memory gradually loses its charge.
 
 No one knows quite why it works, but the eye movement is similar to what happens during deep sleep. The theory is that trauma is stored in the part of the brain that isn't accessible via talking, so while talk therapy may feel good at the time, it doesn't always have a lasting impact. EMDR makes it possible to truly heal old trauma, sometimes in just a few sessions.
@@ -81,13 +81,21 @@ Somatic Experiencing is a body-oriented approach to PTSD healing. It attempts to
 Book: [Waking the Tiger](https://www.amazon.com/Waking-Tiger-Healing-Peter-Levine/dp/155643233X/ref=pd_sbs_14_7?_encoding=UTF8&pd_rd_i=155643233X&pd_rd_r=c2da41bd-7da5-11e9-9473-d5397df71b98&pd_rd_w=E4tiC&pd_rd_wg=fpQ9D&pf_rd_p=588939de-d3f8-42f1-a3d8-d556eae5797d&pf_rd_r=SMTW2FW4RM80CGJVQ1D5&psc=1&refRID=SMTW2FW4RM80CGJVQ1D5) by Peter Levine, creator of SE  
 Book: [In An Unspoken Voice](https://www.amazon.com/Unspoken-Voice-Releases-Restores-Goodness/dp/1556439431/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=1556439431&pd_rd_r=XZECHX8BCPBDP7EYXV8P&pd_rd_w=WJCAo&pd_rd_wg=jBCzT&psc=1&refRID=XZECHX8BCPBDP7EYXV8P) by Peter Levine  
 
+### Cognitive Behavioral Therapy (CBT)
+Aside from EMDR, Cognitive Behavioral Therapy has been shown to help with trauma release. It is a more traditional talk-centered approach that aims to rewrite the underlying beliefs that lead to depression and anxiety.
+
+App: [Sanvello](https://www.sanvello.com/) is an app that helps you relieve symptoms of stress, anxiety, and depression  
+Video: [Feeling Good](https://www.youtube.com/watch?v=H1T5uMeYv9Q) TED talk by CBT practitioner David Burns  
+Book: [Feeling Good](https://www.amazon.com/dp/B009UW5X4C/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) very popular book that has helped a lot of people with mood disorders, by David Burns
+
 ### Psychadelics
-There’s a growing belief that psychadelics, when used in therapy or with a guide, are among the fastest and most effective treatments for complex PTSD. But they come with risks. This is an area of ongoing exploration and recent expiermentation.
+There’s a growing belief that psychadelics, when used in therapy or with a guide, are among the fastest and most effective treatments for complex PTSD. But they come with risks. This is an area of ongoing exploration and recent expiermentation, with the FDA currently in stage 3 trials of MDMA-assisted psychotherapy. If all goes as expected, psychadelics will become legal for PTSD therapy in several countries by 2021.
 
 [MAPS](https://maps.org/) &mdash; Multidisciplinary Association for Psychedelic Studies  
 [Psychadelic Integration](https://integration.maps.org/) &mdash; MAPS directory of therapists who help people integrate a psychadelic experience  
 
 Book: [How to Change Your Mind](https://www.amazon.com/dp/B076GPJXWZ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Michael Pollan  
+Video: [The future of psychadelic-assisted psychotherapy](https://www.ted.com/talks/rick_doblin_the_future_of_psychedelic_assisted_psychotherapy) TED talk by Rick Doblin, head of MAPS  
 Movie: [MDMA: The Movie](https://mdmathemovie.com/)  
 Movie: [Trip of Compassion](https://vimeo.com/ondemand/tripofcompassion), about MDMA trials in Isreal for trauma release  
 
@@ -109,8 +117,6 @@ Can't afford a therapist right now? There are many ways to get free therapy, so 
 There's also a lot you can do on your own.
 
 ### Apps
-
-* [Sanvello](https://www.sanvello.com/) is an app that helps you relieve symptoms of stress, anxiety, and depression
 
 ### Meditation & Spirituality
 Meditation is very powerful and can be used to [reduce the symptoms of PTSD](https://www.psychologytoday.com/blog/the-athletes-way/201601/meditation-reduces-post-traumatic-stress-disorder-symptoms) by calming the nervous system.
