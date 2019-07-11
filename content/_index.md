@@ -161,7 +161,8 @@ The best dead teachers, in my opinion, are recently dead teachers who lived duri
 #### Dead teachers to check out
 [J. Krishnamurti](https://www.youtube.com/user/KFoundation), Indian philosopher and writer  
 [Alan Watts](https://www.youtube.com/results?search_query=alan+watts), an English philosopher  
-[Suzuki Roshi](http://suzukiroshi.sfzc.org/dharma-talks/), spiritual teacher who brought Zen to the United States  
+[Suzuki Roshi](http://suzukiroshi.sfzc.org/dharma-talks/), spiritual teacher who brought Zen to the United States 
+[H. W. L. Poonja ("Papaji")](https://www.youtube.com/user/hansaji), Indian sage who taught self-enquiry  
 [S.N. Goenka](https://www.youtube.com/results?search_query=sn+goenka), Burmese-Indian teacher of Vipassana meditation—a no-dogma practice of self-directed meditation
 
 ### Living teachers to check out
