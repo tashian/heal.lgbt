@@ -152,6 +152,7 @@ Some [United Methodist](http://www.umc.org/) churches (there is an ongoing dispu
 Book: [Pray the Gay Away](https://www.amazon.com/Pray-Gay-Away-Extraordinary-Lives/dp/0814786375) by Bernadette Barton is a study of present-day religious oppression of LGBT people in the US  
 
 ### Follow a Dead Teacher
+
 Many queer people have suffered from religious shame and oppression growing up, and are now untrusting of all religious and spiritual guides, philosophers and teachers of all kinds.
 
 This is unfortunate, because having your own spiritual life is incredibly valuable and healing. One way to proceed and reclaim your own sense of consciousness or spirituality is to follow a dead teacher. A dead teacher has no possible incentive or means to harm you or take anything away from you, so you may find it easier to listen to them.
@@ -161,8 +162,8 @@ The best dead teachers, in my opinion, are recently dead teachers who lived duri
 #### Dead teachers to check out
 [J. Krishnamurti](https://www.youtube.com/user/KFoundation), Indian philosopher and writer  
 [Alan Watts](https://www.youtube.com/results?search_query=alan+watts), an English philosopher  
-[Suzuki Roshi](http://suzukiroshi.sfzc.org/dharma-talks/), spiritual teacher who brought Zen to the United States 
-[H. W. L. Poonja ("Papaji")](https://www.youtube.com/user/hansaji), Indian sage who taught self-enquiry  
+[Suzuki Roshi](http://suzukiroshi.sfzc.org/dharma-talks/), spiritual teacher who brought Zen to the United States  
+[H. W. L. Poonja ("Papaji")](https://www.youtube.com/user/hansaji), Indian sage who taught self-enquiry.  
 [S.N. Goenka](https://www.youtube.com/results?search_query=sn+goenka), Burmese-Indian teacher of Vipassana meditation—a no-dogma practice of self-directed meditation
 
 ### Living teachers to check out
@@ -184,6 +185,7 @@ It seems so simple but breath work and cold exposure can be very powerful for he
 [Max Strom / Breathe to Heal](https://breathetoheal.maxstrom.com/)  
 [Wim Hof Method](https://www.wimhofmethod.com/) (cold exposure)  
 [Holotropic Breathwork](http://www.holotropic.com), created by Stan Grof as a way of experiencing non-ordinary states of consciousness through breathing  
+[Biodynamic Breathwork](https://www.biodynamicbreath.com/)
 
 ### More Tools
 [TRE Trauma Release](https://traumaprevention.com/) therapy  
