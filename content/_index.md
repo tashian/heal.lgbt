@@ -37,6 +37,8 @@ Coming out of the closet is not a singular moment where the hero fabulously step
 
 Will they accept me? That's always the question when coming out to others.
 
+Coming out will, at some point, make someone around you feel uncomfortable. It's not your fault. But that doesn't make it feel any better to, for example, have someone scowl at you when you come out to them. Learning to weather other people's issues around sexuality is part of the journey.
+
 Queerphobia is so widespread that most people discover over time the ways they have bought into and internalized society's phobias, evne unconsciously. This process of rewiring the phobias is a process of learning to celebrate and love parts of ourselves we were taught to hate, or to believe was unnatural, evil, against God, and so on.
 
 [HRC: Resource Guide to Coming Out](https://assets2.hrc.org/files/assets/resources/resource_guide_april_2014.pdf?_ga=2.126552526.2109471886.1562269796-438205338.1562269796) (PDF)   
