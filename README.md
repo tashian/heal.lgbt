@@ -2,11 +2,27 @@
 
 [heal.lgbt](https://heal.lgbt) is a website dedicated to LGBTQIA+ healing, coming out, mental health, physical and mental health, self-care and community care, personal growth, and allyship.
 
-# Contributing
+# Want to help?
 
-Thanks for taking an interest in this guide. You can contribute to the guide right here on GitHub. If you have small copy edits or a resource to add, visit the [content folder](https://github.com/tashian/heal.lgbt/tree/master/content) and make edits there. The content is written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), which is an [easy-to-learn syntax](https://www.markdownguide.org/basic-syntax) for writing. You can learn the basics in a single setting.
+We would especially love to see contributions in the following areas:
 
-Before making any major changes, please [open an issue](https://github.com/tashian/heal.lgbt/issues/new) and send us your idea before you get started. We'd love to hear from you.
+- The practicals of coming out
+- Assessing where you're at and creating a "DIY treatment center"
+- How to discover and unlearn hidden queer phobias
+- Overcoming religious oppression and guilt
+- Creating a sanctuary for yourself
+- Finding a chosen family
+- Trans style & health tips
+- Becoming a haven
+- Getting into dating and having sex
+- How to take care of your body
+- Gender and the medical system
+- Queer history!
+- Resources for life planning, personal finance, legal support, etc.
+
+Or something else! Please [open an issue](https://github.com/tashian/heal.lgbt/issues/new) and send us your idea before you get started. We'd love to hear from you.
+
+You can contribute to the guide right here on GitHub. If you have small copy edits or a resource to add, visit the [content folder](https://github.com/tashian/heal.lgbt/tree/master/content) and make edits there. The content is written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), which is an [easy-to-learn syntax](https://www.markdownguide.org/basic-syntax) for writing. You can learn the basics in a single sitting.
 
 # Code of Conduct
 
