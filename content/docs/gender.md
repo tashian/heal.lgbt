@@ -51,16 +51,25 @@ Outside the US:
 ## Fashion
 
 ### Clothes
-[Long Tall Sally](https://www.longtallsally.com/us/) fashion for tall girls  
+Shop: [Long Tall Sally](https://www.longtallsally.com/us/) fashion for tall girls  
 
 ### Wigs
-[The Hair Shop](https://www.thehairshop.com/)
+Shop: [The Hair Shop](https://www.thehairshop.com/)
 
-### Tucking
-[Tucking: A Comprehensive Guide](https://www.youtube.com/watch?v=dKMO-ZA7tTE)
+### Enby underwear
+Shop: [Tomboyx](https://tomboyx.com/)  
+Shop: [Rebirth Garments](http://rebirthgarments.com/)  
+Shop: [Origami Customs](https://origamicustoms.com/)  
+
+### Tucking & gaffs
+[Tucking: A Comprehensive Guide](https://www.youtube.com/watch?v=dKMO-ZA7tTE)  
+Shop: [Chrysalis Lingerie](https://chrysalislingerie.bigcartel.com/)  
+Shop: [GI Collection](https://gicollection.co.uk)  
 
 ## Binding
-[Your Friendly Neighborhood Binding Safety Guide](http://www.idontdoboxes.org/your-friendly-neighborhood-binding-safety-guide/)
+[Your Friendly Neighborhood Binding Safety Guide](http://www.idontdoboxes.org/your-friendly-neighborhood-binding-safety-guide/)  
+Shop: [all is fair in love and wear](https://www.allisfairinloveandwear.com/)  
+
 
 * Don't bind if you have breast implants
 
