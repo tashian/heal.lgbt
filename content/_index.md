@@ -19,17 +19,17 @@ type: docs
 
 ## Am I queer enough for this website?
 
-There are two-spirit native healers in New Mexico. There are bisexual cis men in traditional marriages who live in rural China. There are black trans boys in Queens and Taiwanese trans girls in Taipei. There are people who don't have any word for what they are, but they know something different is going on. Point is, "queer" is a big tent and there are many kinds of people inside. None of these people need anyone's permission to be who they are. If you think you're queer enough, you are queer enough. If you're not sure, that's fine too, just keep reading.
+There are two-spirit native healers in New Mexico. There are bisexual cis men in traditional marriages who live in rural China. There are black trans boys in Queens and Taiwanese trans girls in Taipei. There are people who don't have any word for what they are, but they know something different is going on. Point is, "queer" is a big tent and there are many kinds of people inside. None of these people need anyone's permission to be who they are. If you think you're queer enough, you are queer enough. If you're not sure, that's fine too.
 
 ## Who am I anyway, and what do I want?
 
 That's the real question, isn't it. Forget about coming out to your family. What about coming out to yoursef? You may not even know what you would come out _as_. "Am I a lesbian?" "Am I nonbinary?" "Am I a butch trans girl?"
 
-Give it a minute. Give it a year if you have to. What's really happening is an internal discovery process. We are all discovering more about who we are. So, instead of trying to understand yourself perfectly in all of your magical dimensions, it's okay to just sit with the confusion for a bit.
+Give it a minute. Give it a year. What's really happening is an internal discovery process. We are all discovering more about who we are. So, instead of trying to understand yourself perfectly in all of your magical dimensions, it's okay to just sit with the confusion.
 
 You might gain some new understanding of yourself by describing what you feel to a supportive listener. You might have safe and close and supportive enough friends or family or therapist or chat group where you can talk even when you're really confused about yourself.
 
-At some point, things will become interally as clear to you as they can be without taking some further steps externally. Maybe you found a few words that seem to describe your gender and/or sexuality, and you tried them on and, a year later, you see that they still ring true. Good. Might this change? Yes, but that's the beauty of self-discovery. Years from now, you might come out to yourself in new ways. Coming out to yourself never really ends. But after you've lived with a new discovery for a while, you may want to take action. Because you only live once, after all.
+Or you may not feel ready for that. But at some point, things will become interally as clear to you as they can be without you taking some further steps externally. Maybe you found a few words that seem to describe your gender and/or sexuality, and you tried them on and, a year later, you see that they still ring true. Good. Might this change? Yes, but that's the beauty of self-discovery. Years from now, you might come out to yourself in new ways. I'm not sure if these discoveries ever really end. But after you've lived with a new discovery internally for a while, taking action in the world is the best way to learn more about yourself. Because you only live once, after all.
 
 ## Coming out
 
@@ -118,9 +118,6 @@ Can't afford a therapist right now? There are many ways to get free therapy, so 
 
 There's also a lot you can do on your own.
 
-### Therapy apps
-
-
 ### Meditation & Spirituality
 Meditation is very powerful and can be used to [reduce the symptoms of PTSD](https://www.psychologytoday.com/blog/the-athletes-way/201601/meditation-reduces-post-traumatic-stress-disorder-symptoms) by calming the nervous system.
 
@@ -142,20 +139,21 @@ Bring in regular motivation and reminders for self-care:
 [@onbeinginyourbody](https://www.instagram.com/onbeinginyourbody/?hl=en) insta love   
 [Aloe Bud](https://aloebud.com) self care reminders (iPhone)
 
-
 ### Religion & Spirituality
 
-There is a lot of religious shame and oppression. If you’re religious, does this mean you have to stop being religious? No. There are lots of options for you, and many inclusive churches and spiritual communities.
+A lot of LGBTQ oppression comes from religious organizations. So if you come from a religious background, does this mean you have to stop being religious? Not at all. There are lots of options, and many inclusive churches and spiritual communities.
 
 [Unity](http://www.unity.org/resources/lgbtq)  
 [Unitarian Universalist](https://www.uua.org/)  
-Some [United Methodist](http://www.umc.org/) churches (there is an ongoing dispute about LGBT rights within the UMC)  
+Many [United Methodist](http://www.umc.org/) churches (there is an ongoing dispute about LGBTQ rights within the UMC)  
 
-Book: [Pray the Gay Away](https://www.amazon.com/Pray-Gay-Away-Extraordinary-Lives/dp/0814786375) by Bernadette Barton is a study of present-day religious oppression of LGBT people in the US  
+Book: [Pray the Gay Away](https://www.amazon.com/Pray-Gay-Away-Extraordinary-Lives/dp/0814786375) by Bernadette Barton is a study of present-day religious oppression of LGBTQ people in the US  
+Film: [Believer](https://g.co/kgs/gJ4pe3) about the Mormon Church's inner struggle with LGBTQ rights, featuring Dan Reynolds (Imagine Dragons' front man)
+[Affirmation](https://affirmation.org/), an independent org supporting LGBTQ Mormons
 
 ### Follow a Dead Teacher
 
-Many queer people have suffered from religious shame and oppression growing up, and are now untrusting of all religious and spiritual guides, philosophers and teachers of all kinds.
+Many queer people have suffered from religious shame and oppression growing up. So as adults, it makes sense that they may become untrusting of all religious and spiritual guides, philosophers and teachers of all kinds.
 
 This is unfortunate, because having your own spiritual life is incredibly valuable and healing. One way to proceed and reclaim your own sense of consciousness or spirituality is to follow a dead teacher. A dead teacher has no possible incentive or means to harm you or take anything away from you, so you may find it easier to listen to them.
 
