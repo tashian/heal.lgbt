@@ -18,7 +18,11 @@ People want to help you. Even if you are feeling lonely and you just want someon
 🇨🇦 [LGBT Youthline](https://www.youthline.ca/) txt 647.694.4275  
 🌏 [TrevorSpace](https://www.trevorspace.org/) social network  
 🇨🇦 Crisis Text Line: Text HOME to 686868  
-🇬🇧 Crisis Text Line: Text SHOUT to 85258
+🇬🇧 Crisis Text Line: Text SHOUT to 85258  
+
+## Kicked out of your house?
+See HRC's step-by-step guide [On Our Own (PDF)](https://assets2.hrc.org/files/assets/resources/HRC-OnOurOwn-LGBTQYouth.pdf?_ga=2.32591486.1913620520.1565743654-198396838.1565743654) and [/r/lgbtHavens](https://www.reddit.com/r/lgbtHavens/)
+Here's a list of [LGBT community centers](https://www.lgbtcenters.org/LgbtCenters) in the US. Contact the center closest to you and they should be able to help you.  
 
 ## Trans* & Genderqueer
 [Trans LifeLine](http://www.translifeline.org/)  

@@ -3,6 +3,8 @@ title: San Francisco resources
 type: docs
 ---
 
+See also: [SF LGBT Center Resources directory](https://www.sfcenter.org/resources/)  
+
 ### Trauma-informed spiritual groups
 [SF Dharma Collective](https://sfdharmacollective.org/)  
 [SF Zen Center](http://sfzc.org/)  
@@ -38,6 +40,9 @@ Pacific Center [Transgender Support Group](http://pacificcenter.org/transgendert
 [PFLAG Oakland-East Bay](http://pflag-eastbay.org/)  
 [TransGender SF](http://tgsf.org/) support & social group  
 
+### Volunteering
+[SF LGBTQ Speakers Bureau](https://sfspeakersbureau.org/)
+
 ### Gender/Sexual Health Clinics
 [Lyon-Martin](http://lyon-martin.org/)  
 [UCSF Trans Health](http://transhealth.ucsf.edu)  
@@ -48,8 +53,8 @@ Pacific Center [Transgender Support Group](http://pacificcenter.org/transgendert
 SF City Clinic gives out [free PrEP](http://www.sfcityclinic.org/services/prep.asp)  
 
 ### LGBT Centers
-[Oakland LGBTQ Center](https://www.oaklandlgbtqcenter.org/)  
 [SF LGBT Center](http://www.sfcenter.org/)  
+[Oakland LGBTQ Center](https://www.oaklandlgbtqcenter.org/)  
 [Qulture Collective](http://www.qulturecollective.com/) downtown Oakland cafe & safe space  
 [LYRIC](http://lyric.org/) SF center & housing for queer youth  
 [Rainbow Community Center](http://rainbowcc.org/) - Contra Costa  

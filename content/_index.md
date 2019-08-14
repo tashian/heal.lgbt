@@ -9,7 +9,7 @@ type: docs
 🌈 This page is a resource guide for queer healing.  
 🔥 The goal is to help you move from surviving, to thriving, to helping others thrive.  
 💅 To help you learn self-love and self-care.  
-🧒 To help you connect with your inner child and learn to feel more at home in your body.  
+🧒 To help you connect with your inner child and learn to feel more at home with yourself.  
 ☔️ To help you become more resilient and adaptable.  
 💪 To help you find power in vulnerability and community.  
 
@@ -17,13 +17,31 @@ type: docs
     <img src="/img/arrow.gif">&nbsp;&nbsp;<a href="/docs/fml">Feeling awful Right Now? click here</a>
 </div>
 
+## Why this guide exists
+
+There's a lot of survival guides out there for queer people. This guide is about thriving.
+
+The major resources for the queer community—the crisis hotlines and support groups—are geared toward making it through the most difficult moments. They provide a critical safety net. But what happens after that? Beyond getting basic needs met, what does it mean to thrive?
+
+Learning how to love even more. Living an integrated life. Setting yourself up for the future. Focusing on normal, boring everyday things like exercise and diet and household budgeting. And, of course, inventing new structures and forms for belonging, relationships, family, home, intimacy, resiliency, liberation, and world peace in the 21st century. Because that's what we do.
+
+## Scope & Notes
+
+* This guide takes the long view on queer healing. It attempts to answer: What are the keys to a healthy life, and the foundations for ongoing growth and liberation, in the face of queer oppression?
+* The goal is to cover everything you need to thrive as a queer person: Coming out, making a home, dating, sex, queer family, mental and physical health, spirituality, being in your body, domestic practices, gender transitions, legal issues, financial planning, and, of course, queer interior design.
+* This guide is a broad collection of resources. It is designed to be practical, with lots of links, good advice, and time-tested folk knowledge. It is not a substitute for therapist, or a financial planner, or an estate lawyer, or an interior designer... it's more like a concierge. Maybe it will get you where you need to go.
+* This guide uses the word "queer" and sometimes "LGBT" as shorthand for LGBTQIA*. Using the word "queer" within our community is a way of reclaiming what might be considered an insult and using it for empowerment. It's a clever reappropriation. And it's a nice word because it starts with Q, and that will get you a lot of points in Scrabble. 
+* This is a work in progress, and it is village property. We hope you'll consider dropping some knowledge upon these pages. (See the [Contributor's Guide](https://github.com/tashian/heal.lgbt/blob/master/README.md) for details)
+
 ## Am I queer enough for this website?
 
 There are two-spirit native healers in New Mexico. There are bisexual cis men in traditional marriages who live in rural China. There are black trans boys in Queens and Taiwanese trans girls in Taipei. There are people who don't have any word for what they are, but they know something different is going on. Point is, "queer" is a big tent and there are many kinds of people inside. None of these people need anyone's permission to be who they are. If you think you're queer enough, you are queer enough. If you're not sure, that's fine too.
 
-## Who am I anyway, and what do I want?
+## Coming out
 
-That's the real question, isn't it. Forget about coming out to your family. What about coming out to yoursef? You may not even know what you would come out _as_. "Am I a lesbian?" "Am I nonbinary?" "Am I a butch trans girl?"
+Coming out is a great place to start.
+
+What am I? That's the real question, isn't it. Forget about coming out to your family. What about coming out to yoursef? You may not even know what you would come out _as_. "Am I a lesbian?" "Am I nonbinary?" "Am I a butch trans girl?"
 
 Give it a minute. Give it a year. What's really happening is an internal discovery process. We are all discovering more about who we are. So, instead of trying to understand yourself perfectly in all of your magical dimensions, it's okay to just sit with the confusion.
 
@@ -31,7 +49,6 @@ You might gain some new understanding of yourself by describing what you feel to
 
 Or you may not feel ready for that. But at some point, things will become interally as clear to you as they can be without you taking some further steps externally. Maybe you found a few words that seem to describe your gender and/or sexuality, and you tried them on and, a year later, you see that they still ring true. Good. Might this change? Yes, but that's the beauty of self-discovery. Years from now, you might come out to yourself in new ways. I'm not sure if these discoveries ever really end. But after you've lived with a new discovery internally for a while, taking action in the world is the best way to learn more about yourself. Because you only live once, after all.
 
-## Coming out
 
 Coming out of the closet is not a singular moment where the hero fabulously steps out on stage, loudly and confidently proclaiming their truth. It’s a lifelong journey of self-discovery (as you come out in new ways to yourself) and sharing (as you come out to new people in your life).
 
