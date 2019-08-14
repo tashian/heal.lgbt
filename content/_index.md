@@ -41,13 +41,13 @@ There are two-spirit native healers in New Mexico. There are bisexual cis men in
 
 Coming out is a great place to start.
 
-What am I? That's the real question, isn't it. Forget about coming out to your family. What about coming out to yoursef? You may not even know what you would come out _as_. "Am I a lesbian?" "Am I nonbinary?" "Am I a butch trans girl?"
+What am I? That's the real question, isn't it. Forget about coming out to your family. What about coming out to yourself? You may not even know what you would come out _as_. "Am I a lesbian?" "Am I nonbinary?" "Am I a butch trans girl?"
 
 Give it a minute. Give it a year. What's really happening is an internal discovery process. We are all discovering more about who we are. So, instead of trying to understand yourself perfectly in all of your magical dimensions, it's okay to just sit with the confusion.
 
 You might gain some new understanding of yourself by describing what you feel to a supportive listener. You might have safe and close and supportive enough friends or family or therapist or chat group where you can talk even when you're really confused about yourself.
 
-Or you may not feel ready for that. But at some point, things will become interally as clear to you as they can be without you taking some further steps externally. Maybe you found a few words that seem to describe your gender and/or sexuality, and you tried them on and, a year later, you see that they still ring true. Good. Might this change? Yes, but that's the beauty of self-discovery. Years from now, you might come out to yourself in new ways. I'm not sure if these discoveries ever really end. But after you've lived with a new discovery internally for a while, taking action in the world is the best way to learn more about yourself. Because you only live once, after all.
+Or you may not feel ready for that. But at some point, things will become internally as clear to you as they can be without you taking some further steps externally. Maybe you found a few words that seem to describe your gender and/or sexuality, and you tried them on and, a year later, you see that they still ring true. Good. Might this change? Yes, but that's the beauty of self-discovery. Years from now, you might come out to yourself in new ways. I'm not sure if these discoveries ever really end. But after you've lived with a new discovery internally for a while, taking action in the world is the best way to learn more about yourself. Because you only live once, after all.
 
 
 Coming out of the closet is not a singular moment where the hero fabulously steps out on stage, loudly and confidently proclaiming their truth. It’s a lifelong journey of self-discovery (as you come out in new ways to yourself) and sharing (as you come out to new people in your life).
@@ -56,7 +56,7 @@ Will they accept me? That's always the question when coming out to others.
 
 Coming out will, at some point, make someone around you feel uncomfortable. It's not your fault. But that doesn't make it feel any better to, for example, have someone scowl at you when you come out to them. Learning to weather other people's issues around sexuality is part of the journey.
 
-Queerphobia is so widespread that most people discover over time the ways they have bought into and internalized society's phobias, evne unconsciously. This process of rewiring the phobias is a process of learning to celebrate and love parts of ourselves we were taught to hate, or to believe was unnatural, evil, against God, and so on.
+Queerphobia is so widespread that most people discover over time the ways they have bought into and internalized society's phobias, even unconsciously. This process of rewiring the phobias is a process of learning to celebrate and love parts of ourselves we were taught to hate, or to believe was unnatural, evil, against God, and so on.
 
 [HRC: Resource Guide to Coming Out](https://assets2.hrc.org/files/assets/resources/resource_guide_april_2014.pdf?_ga=2.126552526.2109471886.1562269796-438205338.1562269796) (PDF)   
 [The Trevor Project: Coming Out As YOU](https://www.thetrevorproject.org/wp-content/uploads/2017/09/ComingOutAsYou.pdf) (PDF)  
@@ -70,7 +70,7 @@ Most queer people in the world have been programmed with some negative ideas and
 > “You can be fully in charge of your life only if you can acknowledge the reality of your body, in all its visceral dimensions.”  
 > — Bessel van der Kolk, “The Body Keeps the Score”
 
-No matter how loving and well-intentioned our childhood home was (or is), we all emerge from childhood damaged by our parents, by our schooling, and by society in one way or another. Which means there's an opportunitiy for even the most "healthy" of us to heal in ways that we didn't even know we were broken.
+No matter how loving and well-intentioned our childhood home was (or is), we all emerge from childhood damaged by our parents, by our schooling, and by society in one way or another. Which means there's an opportunity for even the most "healthy" of us to heal in ways that we didn't even know we were broken.
 
 Everyone has emotional trauma in their past. It may feel like a negative memory that you keep returning to. Sometimes it's simply the sense that you cannot seem to get out of your head, that your mind is on overdrive all the time and you can't focus, or that you often feel unsafe or triggered. If a negative memory is something that you think should be "no big deal," that you believe shouldn't be a problem, and that you wish you could just get over, but it keeps coming up, that is trauma.
 
@@ -107,27 +107,27 @@ App: [Sanvello](https://www.sanvello.com/) is an app that helps you relieve symp
 Video: [Feeling Good](https://www.youtube.com/watch?v=H1T5uMeYv9Q) TED talk by CBT practitioner David Burns  
 Book: [Feeling Good](https://www.amazon.com/dp/B009UW5X4C/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) very popular book that has helped a lot of people with mood disorders, by David Burns
 
-### Psychadelics
-There’s a growing belief that psychadelics, when used in therapy or with a guide, are among the fastest and most effective treatments for complex PTSD. But they come with risks. This is an area of ongoing exploration and recent expiermentation, with the FDA currently in stage 3 trials of MDMA-assisted psychotherapy. If all goes as expected, psychadelics will become legal for PTSD therapy in several countries by 2021.
+### Psychedelics
+There’s a growing belief that psychedelics, when used in therapy or with a guide, are among the fastest and most effective treatments for complex PTSD. But they come with risks. This is an area of ongoing exploration and recent experimentation, with the FDA currently in stage 3 trials of MDMA-assisted psychotherapy. If all goes as expected, psychedelics will become legal for PTSD therapy in several countries by 2021.
 
 [MAPS](https://maps.org/) &mdash; Multidisciplinary Association for Psychedelic Studies  
-[Psychadelic Integration](https://integration.maps.org/) &mdash; MAPS directory of therapists who help people integrate a psychadelic experience  
+[Psychedelic Integration](https://integration.maps.org/) &mdash; MAPS directory of therapists who help people integrate a psychedelic experience  
 
 Book: [How to Change Your Mind](https://www.amazon.com/dp/B076GPJXWZ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Michael Pollan  
-Video: [The future of psychadelic-assisted psychotherapy](https://www.ted.com/talks/rick_doblin_the_future_of_psychedelic_assisted_psychotherapy) TED talk by Rick Doblin, head of MAPS  
+Video: [The future of psychedelic-assisted psychotherapy](https://www.ted.com/talks/rick_doblin_the_future_of_psychedelic_assisted_psychotherapy) TED talk by Rick Doblin, head of MAPS  
 Movie: [MDMA: The Movie](https://mdmathemovie.com/)  
-Movie: [Trip of Compassion](https://vimeo.com/ondemand/tripofcompassion), about MDMA trials in Isreal for trauma release  
+Movie: [Trip of Compassion](https://vimeo.com/ondemand/tripofcompassion), about MDMA trials in Israel for trauma release  
 
 ### Neurofeedback
-Neurofeedback uses EEG monitoring to improve brain functioning as you learn to alter your brain activity. By using computer imaging, you receive direct feedback through a “brain map” that indicates areas of your brain with excessive activity associated with PTSD, such as your fear centers. Here you learn how to relax your body and mind to activate the outermost layer of your brain; that which is associated with thinking and decision-making. Typically, 20 sessions will give you enough feedback to understand how to facilitate regulation of your body and mind on your own.
+Neurofeedback uses EEG monitoring to improve brain functioning as you learn to alter your brain activity. By using computer imaging, you receive direct feedback through a “brain map” that indicates areas of your brain with excessive activity associated with PTSD, such as your fear center. Here you learn how to relax your body and mind to activate the outermost layer of your brain; that which is associated with thinking and decision-making. Typically, 20 sessions will give you enough feedback to understand how to facilitate regulation of your body and mind on your own.
 
-### Keto diet
+### Ketogenic diet
 Could be promising for PTSD, but there's not a whole lot of research here.  
 [PTSD UK](https://www.ptsduk.org/ketogenic-diet/) | [Reddit](https://www.reddit.com/r/keto/comments/8r02yz/my_psychiatrist_recommended_keto_to_help_control/)  
 Either way, it seems [good for the brain](https://www.psychologytoday.com/us/blog/diagnosis-diet/201706/ketogenic-diets-psychiatric-disorders-new-2017-review).
 
 ### Drawing
-In the act of drawing, the patient makes an initial reorganisation of the form of the trauma, and begins to differentiate the adaptive ego, which has the tools and the ability to restructure the experiences, and the traumatic emotional part that suffers those experiences in a condition of impotence and passivity. The person may rapidly access preverbal and motor-sensory language, activating inborn creative skills. The use of this tool enables us to access the traumatic material gently, limiting dissociative reactions, bypassing avoidance and flight behaviour and setting a distance from pain by objectivizing. A protective space is created between the self and the part that holds the suffering. A voice to the inner child. The patient is offered the possibility of drawing what is occurring in the self's here and now, and given a choice of different graphic materials. At the end of the drawing and assessment phase the person is asked to note what has emerged, and a brief space of time may be allowed for description without interpretation.
+In the act of drawing, the patient makes an initial reorganisation of the form of the trauma, and begins to differentiate the adaptive ego, which has the tools and the ability to restructure the experiences, and the traumatic emotional part that suffers those experiences in a condition of impotence and passivity. The person may rapidly access pre-verbal and motor-sensory language, activating inborn creative skills. The use of this tool enables us to access the traumatic material gently, limiting dissociative reactions, bypassing avoidance and flight behaviour and setting a distance from pain by objectivizing. A protective space is created between the self and the part that holds the suffering. A voice to the inner child. The patient is offered the possibility of drawing what is occurring in the self's here and now, and given a choice of different graphic materials. At the end of the drawing and assessment phase the person is asked to note what has emerged, and a brief space of time may be allowed for description without interpretation.
 
 ## DIY Healing
 
@@ -166,7 +166,7 @@ Many [United Methodist](http://www.umc.org/) churches (there is an ongoing dispu
 
 Book: [Pray the Gay Away](https://www.amazon.com/Pray-Gay-Away-Extraordinary-Lives/dp/0814786375) by Bernadette Barton is a study of present-day religious oppression of LGBTQ people in the US  
 Film: [Believer](https://g.co/kgs/gJ4pe3) about the Mormon Church's inner struggle with LGBTQ rights, featuring Dan Reynolds (Imagine Dragons' front man)
-[Affirmation](https://affirmation.org/), an independent org supporting LGBTQ Mormons
+[Affirmation](https://affirmation.org/), an independent organization supporting LGBTQ Mormons
 
 ### Follow a Dead Teacher
 
