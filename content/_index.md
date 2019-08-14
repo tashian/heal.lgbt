@@ -244,7 +244,7 @@ As for being a helper or balancing the role of a helper, these books are fantast
 [Loving Someone with PTSD](https://www.amazon.com/Loving-Someone-PTSD-Understanding-Connecting/dp/1608827860)  
 [Help for the Helper](https://www.amazon.com/Help-Helper-Psychophysiology-Compassion-Professional/dp/039370422X)  
 
-## Disclaimer
+## Disclaimer & License
 
 USE HEAL.LGBT AND THE INFORMATION CONTAINED HEREIN AT YOUR OWN RISK. INFORMATION ON THIS SITE MAY BE INCORRECT. HEAL.LGBT CANNOT GUARANTEE THE VALIDITY OF THE INFORMATION FOUND HERE.
 
@@ -254,7 +254,11 @@ The authors and contributors to this content cannot guarantee the validity of th
 
 The contributors may not be qualified to provide complete and accurate information. Therefore, please be advised that nothing found here has necessarily been reviewed by professionals with the expertise necessary to provide you with complete, accurate or reliable information.
 
-## License
+### No warranty
+
+All information read or presented here is without an express or implied warranty of any kind, including any implied warranty of fitness for a particular purpose, and the entire risk as to satisfactory quality, performance, accuracy, completeness and effort is with you. No damages, consequential or otherwise, can be sought against heal.lgbt or anyone associated with it. It is a voluntary association of individuals developed freely to create an open source online informational resource. 
+
+### License
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
