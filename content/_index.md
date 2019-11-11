@@ -165,7 +165,8 @@ A lot of LGBTQ oppression comes from religious organizations. So if you come fro
 Many [United Methodist](http://www.umc.org/) churches (there is an ongoing dispute about LGBTQ rights within the UMC)  
 
 Book: [Pray the Gay Away](https://www.amazon.com/Pray-Gay-Away-Extraordinary-Lives/dp/0814786375) by Bernadette Barton is a study of present-day religious oppression of LGBTQ people in the US  
-Film: [Believer](https://g.co/kgs/gJ4pe3) about the Mormon Church's inner struggle with LGBTQ rights, featuring Dan Reynolds (Imagine Dragons' front man)
+Film: [Believer](https://g.co/kgs/gJ4pe3) about the Mormon Church's inner struggle with LGBTQ rights, featuring Dan Reynolds of Imagine Dragons  
+Film: [Trembling Before G-d](https://en.wikipedia.org/wiki/Trembling_Before_G-d), a 2001 American documentary film about gay and lesbian Orthodox Jews trying to reconcile their sexuality with their faith.  
 [Affirmation](https://affirmation.org/), an independent organization supporting LGBTQ Mormons
 
 ### Follow a Dead Teacher
