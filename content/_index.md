@@ -121,6 +121,10 @@ Movie: [Trip of Compassion](https://vimeo.com/ondemand/tripofcompassion), about 
 ### Neurofeedback
 Neurofeedback uses EEG monitoring to improve brain functioning as you learn to alter your brain activity. By using computer imaging, you receive direct feedback through a “brain map” that indicates areas of your brain with excessive activity associated with PTSD, such as your fear center. Here you learn how to relax your body and mind to activate the outermost layer of your brain; that which is associated with thinking and decision-making. Typically, 20 sessions will give you enough feedback to understand how to facilitate regulation of your body and mind on your own.
 
+Note: Current research does not support conclusive resultes about the efficacy of neurofeedback.  
+
+Article: [The weird science of neurofeedback](https://www.theverge.com/2013/4/18/4226506/can-you-train-your-brain-to-heal-your-health)   
+
 ### Ketogenic diet
 Could be promising for PTSD, but there's not a whole lot of research here.  
 [PTSD UK](https://www.ptsduk.org/ketogenic-diet/) | [Reddit](https://www.reddit.com/r/keto/comments/8r02yz/my_psychiatrist_recommended_keto_to_help_control/)  
