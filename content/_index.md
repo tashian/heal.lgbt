@@ -91,6 +91,8 @@ Video: [Healing Trauma with EMDR](https://vimeo.com/179500047)
 Book: [The Body Keeps the Score](https://www.amazon.com/Body-Keeps-Score-Healing-Trauma/dp/0143127748/ref=pd_bxgy_14_img_2?_encoding=UTF8&pd_rd_i=0143127748&pd_rd_r=E77WSHZ3GQWMTJGADVET&pd_rd_w=A0qUV&pd_rd_wg=lJoLK&psc=1&refRID=E77WSHZ3GQWMTJGADVET&dpID=51HZpvdVMjL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=detail) by Bessel van der Kolk talks about the power of EMDR and somatic therapies for treating PTSD  
 [Parnell Institute](http://parnellemdr.com/) directory of EMDR therapists   
 Article: ["Does EMDR Work?"](https://www.theguardian.com/lifeandstyle/2018/sep/10/mel-b-is-watching-flashing-lights-to-help-with-trauma-but-does-emdr-therapy-really-work) (The Guardian, 2018)
+Article: ["EMDR Therapy - What Is It and How Does It Work?"](https://www.trilliumcounselling.ca/emdr)
+EMDR Effectiveness Infographic ["Does EMDR Therapy Work?"](https://www.trilliumcounselling.ca/blog/doesemdrtherapywork)
 
 
 ### Somatic Experiencing
