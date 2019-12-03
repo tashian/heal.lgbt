@@ -92,6 +92,8 @@ Book: [The Body Keeps the Score](https://www.amazon.com/Body-Keeps-Score-Healing
 [Parnell Institute](http://parnellemdr.com/) directory of EMDR therapists   
 Article: ["Does EMDR Work?"](https://www.theguardian.com/lifeandstyle/2018/sep/10/mel-b-is-watching-flashing-lights-to-help-with-trauma-but-does-emdr-therapy-really-work) (The Guardian, 2018)
 
+Article: ["EMDR - What is it and how does it work?"](https://www.trilliumcounselling.ca/emdr)
+EMDR Effectiveness Infographic: [Does EMDR Work?"](https://www.trilliumcounselling.ca/blog/doesemdrtherapywork)
 
 ### Somatic Experiencing
 Somatic Experiencing is a body-oriented approach to PTSD healing. It attempts to promote body awareness and release the residual physical tension that remains in the aftermath of trauma. It is sometimes used in combination with EMDR.
