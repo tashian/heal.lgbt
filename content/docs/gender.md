@@ -5,7 +5,7 @@ type: docs
 
 # Trans & gender 101
 [Trans 101](https://www.youtube.com/watch?v=VRH0pwENbx8&list=PL7SgbxvTR7N5-jYeT2Coj99qnRQTIArKP&index=1) YouTube series  
-[Transger Map](https://www.transgendermap.com/) website
+[Transgender Map](https://www.transgendermap.com/) website is a nice way to get a understanding of options and pathways in transition
 
 ## Learning about your identity
 [Nonbinary Flowchart](http://philome.la/likearcsouffle/nb-flowchart/play) &mdash; what's my gender?

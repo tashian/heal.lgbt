@@ -1,0 +1,48 @@
+# markdown-spellcheck spelling configuration file
+# Format - lines beginning # are comments
+# global dictionary is at the start, file overrides afterwards
+# one word per line, to define a file override use ' - filename'
+# where filename is relative to this configuration file
+lgbt
+lgbtqia
+reappropriation
+nonbinary
+queerphobia
+HRC
+queerphobias
+der
+lowercase
+PTSD
+EMDR
+Parnell
+behavioral
+Pollan
+MDMA
+center
+ketogenic
+Adyashanti
+LGBTQ
+UMC
+Krishnamurti
+Roshi
+Poonja
+Papaji
+Goenka
+Vipassana
+wellbeing
+Gangaji
+Mooji
+Pia
+Mellody
+Tolle
+Baba
+Wim
+Hof
+holotropic
+breathwork
+Grof
+TRE
+Brainspotting
+Craniosacral
+OSHO
+movies

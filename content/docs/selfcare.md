@@ -43,4 +43,12 @@ In fact, a lot of self-care comes down to listening to yourself in ways you may 
 
 If you want to get really fancy, [determine your skin type](https://theacidqueenblog.com/2016/06/23/skin-types-proclivities-and-conditions/).
 
+### Take care of plants
+
+A cursory look at #boyswithplants on Instagram will show that queers and plants have always been in a symbiotic relationship. If you aren't taking care of a plant, get one plant. If you have one and are successfully taking care of it, get another. If you keep killing plants, keep getting more plants and trying not to kill them. And they're cheap af—often free.
+
+Why is this self-care? Because taking care of another helps you take care of yourself. A plant will force some stability in your schedule and your living situation, and stability is a foundation of self-care. Plants require you to slow down to Plant Time. To follow the rhythm of another creature, one that moves slowly and does one thing very well. What can you learn from that?
+
+Plants will make your home feel cozier and more inviting. Only plants can fill a space with such beautiful shapes, colors, and life energy. Plants are affordable elegance.
+
 
