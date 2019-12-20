@@ -31,14 +31,19 @@ Here's a list of [LGBT community centers](https://www.lgbtcenters.org/LgbtCenter
 
 ## Seniors
 🇺🇸 LGBT Senior Hotline 888.234.7243  
+🇺🇸 [SAGE](https://www.sageusa.org/) Helpline 877.360.5428
 
-## Self-harm prevention
-Hurting?
+## Lonely & isolated?
+
+
+## Hurting?
+Are you hurting?
 
 🇺🇸 Text CONNECT to 741741 to get free help from [Crisis Text Line](https://www.crisistextline.org/selfharm)
 
 [Alternatives to cutting and self-harm](https://www.glbthotline.org/self-harm-prevention.html#professional)  
 [Self-harm prevention workbook](https://www.glbthotline.org/self-harm-prevention.html)
+
 
 ### HIV/AIDS support
 Just tested positive? Feeling isolated? Worried about your medications? Wondering about your risk? Caring for someone with HIV?
