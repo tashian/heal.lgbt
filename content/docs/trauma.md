@@ -179,6 +179,7 @@ Yelling and screaming and beating sticks against trees
 Treating yourself to a local spa / sauna / massage / steam room  
 Ecstatic dance  
 Tai Chi, Qi Gong, or other body / movement practices  
+Video: [Qi Gong](https://www.youtube.com/watch?v=5NHZdqEzAtE&feature=youtu.be) — a 30 minute yogic qi gong routine with instruction  
 
 
 #### Somatic Experiencing
