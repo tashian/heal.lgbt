@@ -43,7 +43,8 @@ As for being a helper or balancing the role of a helper, these books are fantast
 [Loving Someone with PTSD](https://www.amazon.com/Loving-Someone-PTSD-Understanding-Connecting/dp/1608827860)  
 [Help for the Helper](https://www.amazon.com/Help-Helper-Psychophysiology-Compassion-Professional/dp/039370422X)  
 
-## Top-down Trauma Healing (eg. talk therapy)
+## Top-down Healing
+By "top-down" we simply mean using cognitive approaches like psychotherapy or mindfulness meditation to heal trauma.
 
 Group support sessions  
 Mindfulness Meditation — Insight Meditation & Vipassana retreats  
@@ -110,7 +111,6 @@ Building a circle of trust
 Creative writing and journaling  
 
 ### Reduced-rate therapy
-
 Can't afford a therapist right now? There are many ways to get free therapy, so don't give up the search. You can go to a training clinic at a university, for a reduced rate. If you're in the US, you may be able to use Medicaid. Call [SAMHSA](https://findtreatment.samhsa.gov/) at 800.662.4357 to speak with someone, confidentially, who can help you find options.
 
 ### Meditation & Spirituality
@@ -127,12 +127,6 @@ Here's a few general books about reconnecting to yourself and your spirituality 
 [The Untethered Soul](https://www.amazon.com/dp/B003TU29WA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Michael Singer  
 [Waking Up](https://www.amazon.com/Waking-Up-Spirituality-Without-Religion-ebook/dp/B00GEEB9YC/ref=pd_sim_351_4/141-1672324-3364658?_encoding=UTF8&pd_rd_i=B00GEEB9YC&pd_rd_r=494f7db1-7da6-11e9-8740-41568e48106d&pd_rd_w=QilcK&pd_rd_wg=q1iHF&pf_rd_p=90485860-83e9-4fd9-b838-b28a9b7fda30&pf_rd_r=07VFDCEKSQDH2HMJ2SM5&psc=1&refRID=07VFDCEKSQDH2HMJ2SM5) by Sam Harris  
 [The End of Your World](https://www.amazon.com/End-Your-World-Uncensored-Enlightenment/dp/1591797799) by Adyashanti  
-
-### Good feels, motivation, and inspiration
-Bring in regular motivation and reminders for self-care:
-
-[@onbeinginyourbody](https://www.instagram.com/onbeinginyourbody/?hl=en) insta love   
-[Aloe Bud](https://aloebud.com) self care reminders (iPhone)
 
 ### Religion & Spirituality
 
@@ -175,7 +169,9 @@ All of the people listed below have offered free media online that can help you.
 [Sri Prem Baba](https://www.sriprembaba.org/en/)  
 
 
-## Bottom-up Trauma Healing (body-centered)
+## Bottom-up Healing
+The bottom-up approach starts with the idea that trauma is stored in the body, for example as tension or sterss in the belly, shoulders, neck, jaw, chest, etc. Advocates for bottom-up therapy say that if we reduce stress in the body, our emotions will follow suit and improve.
+
 Article: [Reiki, Tantra, and the Healing Power of Touch](http://blog.lighthouse.lgbt/reiki-tantra-healing-power-touch-queer-community-can-benefit/)  
 [Trauma Sensitive Yoga](https://www.traumasensitiveyoga.com/)  
 [TRE Trauma Release](https://traumaprevention.com/) therapy  
@@ -183,9 +179,9 @@ Article: [Reiki, Tantra, and the Healing Power of Touch](http://blog.lighthouse.
 [OSHO Dynamic Meditation](https://www.osho.com/meditate/active-meditations/dynamic-meditation)  
 [Craniosacral Therapy](https://en.m.wikipedia.org/wiki/Craniosacral_therapy)  
 Yelling and screaming and beating sticks against trees  
+Ecstatic dance  
 [Laughter Meditation](https://www.youtube.com/watch?v=XzktEXmKYCY)  
 Treating yourself to a local spa / sauna / massage / steam room  
-Ecstatic dance  
 Tai Chi, Qi Gong, or other body / movement practices  
 Video: [Qi Gong](https://www.youtube.com/watch?v=5NHZdqEzAtE&feature=youtu.be) — a 30 minute yogic qi gong routine with instruction  
 
@@ -214,6 +210,3 @@ Of course, having sex is fun. But sexuality also has a spiritual component for t
 Video: [Sacred Masturbation 101](https://www.youtube.com/watch?v=fIdbyeydGvc)  
 Video: [Healthy Sexuality](https://www.youtube.com/watch?v=lE8wJ79eZ3s)  
 
-### Healing with nature
-Ocean adventures: surfing, swimming, kayaking  
-Wilderness therapy including backpacking, mountain climbing  

@@ -51,4 +51,14 @@ Why is this self-care? Because taking care of another helps you take care of you
 
 Plants will make your home feel cozier and more inviting. Only plants can fill a space with such beautiful shapes, colors, and life energy. Plants are affordable elegance.
 
+### Good feels, motivation, and inspiration
+Bring in regular motivation and reminders for self-care:
+
+[@onbeinginyourbody](https://www.instagram.com/onbeinginyourbody/?hl=en) insta love   
+[Aloe Bud](https://aloebud.com) self care reminders (iPhone)
+
+### Healing with nature
+Ocean adventures: surfing, swimming, kayaking  
+Wilderness therapy including backpacking, mountain climbing  
+
 
