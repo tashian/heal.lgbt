@@ -1,6 +1,7 @@
 ---
 title: fml 😭😭😭
 type: docs
+bookToC: false
 ---
 
 # If you are in crisis

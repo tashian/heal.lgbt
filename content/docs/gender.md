@@ -1,6 +1,7 @@
 ---
 title: Trans* & Genderqueer Resources
 type: docs
+bookToC: false
 ---
 
 # Trans & gender 101

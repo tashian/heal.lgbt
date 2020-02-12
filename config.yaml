@@ -5,7 +5,10 @@ publishDir: docs/
 googleAnalytics: UA-125560-7
 languageCode: en-us
 enableEmoji: true
+enableGitInfo: true
 disableKinds: ['taxonomy', 'taxonomyTerm']
 params:
-    BookToC: 3
+    BookToC: true
+    BookSearch: false
+    BookComments: false
     description: heal.lgbt is a website dedicated to LGBTQIA+ healing, coming out, mental health, physical and mental health, self-care and community care, personal growth, and allyship.

@@ -1,6 +1,7 @@
 ---
 Title: 💅 self-care protips
 Type: docs
+bookToC: false
 ---
 
 ## Self-care PRO TIPS!!

@@ -1,6 +1,7 @@
 ---
 title: Queer Healing Resources
 type: docs
+bookToC: false
 ---
 
 > "Death is not the biggest fear we have; our biggest fear is taking the risk to be alive — the risk to be alive and express what we really are."  
