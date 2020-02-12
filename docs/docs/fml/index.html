@@ -1,11 +1,4 @@
 <!DOCTYPE html>
-
-
-
-
-
-
-
 <html lang="en">
 
 <head>
@@ -15,7 +8,7 @@
 
 
 
-<link rel="stylesheet" href="/book.min.c1955f9568d41e2f83552af6b65602f8e870d17320d8e76e450fc9768dd9f699.css">
+<link rel="stylesheet" href="/book.min.a20319089e09196714a63a9540fa7dec5ed0ead5311770b1fb2b90148b8fefa2.css">
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.min.js"></script>
 
@@ -49,18 +42,22 @@ https://github.com/alex-shpak/hugo-book
 </head>
 
 <body>
-  <input type="checkbox" style="display: none" id="menu-control" />
-  <main class="flex container">
-
-    <aside class="book-menu fixed">
-      <nav>
+  <input type="checkbox" class="hidden" id="menu-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      
+  <nav>
 <h2 class="book-brand">
-  <a href="https://heal.lgbt/">Queer Healing Resources</a>
+  <a href="/"><span>Queer Healing Resources</span>
+  </a>
 </h2>
 
 
 
-    
+
+
+
+  
 
   
   
@@ -73,60 +70,65 @@ https://github.com/alex-shpak/hugo-book
   
     
 
+
+
+
+  
   <ul>
     
-    
-    <li>
       
+        <li>
 
   <a href="/docs/fml/"  class="active">
-    fml 😭😭😭
+      fml 😭😭😭
   </a>
 
-
-    </li>
-    
-    <li>
+</li>
       
+    
+      
+        <li>
 
   <a href="/docs/trauma/" >
-    Healing Your Trauma
+      Healing Your Trauma
   </a>
 
-
-    </li>
-    
-    <li>
+</li>
       
+    
+      
+        <li>
 
   <a href="/docs/bayarea/" >
-    San Francisco resources
+      San Francisco resources
   </a>
 
-
-    </li>
-    
-    <li>
+</li>
       
+    
+      
+        <li>
 
   <a href="/docs/gender/" >
-    Trans* &amp; Genderqueer Resources
+      Trans* &amp; Genderqueer Resources
   </a>
 
-
-    </li>
-    
-    <li>
+</li>
       
+    
+      
+        <li>
 
   <a href="/docs/selfcare/" >
-    💅 self-care protips
+      💅 self-care protips
   </a>
 
-
-    </li>
+</li>
+      
     
   </ul>
+  
+
 
 
   
@@ -156,15 +158,32 @@ https://github.com/alex-shpak/hugo-book
 
 
 
+
+  <script>(function(){var menu=document.querySelector("aside.book-menu nav");addEventListener("beforeunload",function(event){localStorage.setItem("menu.scrollTop",menu.scrollTop);});menu.scrollTop=localStorage.getItem("menu.scrollTop");})();</script>
+
+
+ 
     </aside>
 
     <div class="book-page">
-      <header class="align-center justify-between book-header">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
   <label for="menu-control">
-    <img src="/svg/menu.svg" alt="Menu" />
+    <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
   </label>
+
   <strong>fml 😭😭😭</strong>
-</header>
+
+  <label for="toc-control">
+    <img src="/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+  </label>
+</div>
+
+
+  
+ 
+      </header>
 
       
 <article class="markdown"><h1 id="if-you-are-in-crisis">If you are in crisis</h1>
@@ -204,24 +223,29 @@ Here&rsquo;s a list of <a href="https://www.lgbtcenters.org/LgbtCenters">LGBT co
 <h3 id="addiction-support">Addiction support</h3>
 <p><a href="https://www.drugrehab.com/guides/lgbtq/">LGBTQ Addiction Guide</a></p>
 </article>
+ 
 
-      
+      <footer class="book-footer">
+        
+  <div class="flex justify-between">
 
+
+
+
+
+</div>
+
+ 
+        
+  
+ 
+      </footer>
       
     </div>
 
     
-  
-
-  <aside class="book-toc level-3 fixed">
-      <nav id="TableOfContents" class="toc">
-      </nav>
-  </aside>
-
-
-
   </main>
-  
+
   <script>
     tocbot.init({
         
@@ -234,18 +258,18 @@ Here&rsquo;s a list of <a href="https://www.lgbtcenters.org/LgbtCenters">LGBT co
     });
 </script>
 
-  
-<script type="application/javascript">
-var doNotTrack = false;
-if (!doNotTrack) {
-	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-	ga('create', 'UA-125560-7', 'auto');
-	
-	ga('send', 'pageview');
-}
-</script>
-<script async src='https://www.google-analytics.com/analytics.js'></script>
-
 </body>
 
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
