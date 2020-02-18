@@ -55,12 +55,12 @@ Expressive arts eg. painting, photography, film and scriptwriting
 Therapy means so many things. There are many kinds of therapists. So, it's worth learning about various modalities (there are many) and talking to several therapists so that your work will be effective. With the wrong kind of therapy, it's easy to waste a lot of money. But the right kind of therapy is absolutely life changing and is worth every penny.
 
 ### Eye Movement Desensitization and Reprocessing (EMDR) Therapy
-EMDR is used for PTSD, depression, anxiety, addiction, and phobias. It is different from talk therapy. It uses eye movement (or sounds or vibrations). When you recall a traumatic memory while doing these calming eye movements, the memory gradually loses its charge.
+EMDR is used for healing trauma, depression, anxiety, addiction, and phobias. It is different from talk therapy. It uses eye movement (or sounds or vibrations). When you recall a traumatic memory while doing these calming eye movements, the memory gradually loses its charge.
 
 No one knows quite why it works, but the eye movement is similar to what happens during deep sleep. The theory is that trauma is stored in the part of the brain that isn't accessible via talking, so while talk therapy may feel good at the time, it doesn't always have a lasting impact. EMDR makes it possible to truly heal old trauma, sometimes in just a few sessions.
 
 Video: [Healing Trauma with EMDR](https://vimeo.com/179500047)  
-Book: [The Body Keeps the Score](https://www.amazon.com/Body-Keeps-Score-Healing-Trauma/dp/0143127748/ref=pd_bxgy_14_img_2?_encoding=UTF8&pd_rd_i=0143127748&pd_rd_r=E77WSHZ3GQWMTJGADVET&pd_rd_w=A0qUV&pd_rd_wg=lJoLK&psc=1&refRID=E77WSHZ3GQWMTJGADVET&dpID=51HZpvdVMjL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=detail) by Bessel van der Kolk talks about the power of EMDR and somatic therapies for treating PTSD  
+Book: [The Body Keeps the Score](https://www.amazon.com/Body-Keeps-Score-Healing-Trauma/dp/0143127748/ref=pd_bxgy_14_img_2?_encoding=UTF8&pd_rd_i=0143127748&pd_rd_r=E77WSHZ3GQWMTJGADVET&pd_rd_w=A0qUV&pd_rd_wg=lJoLK&psc=1&refRID=E77WSHZ3GQWMTJGADVET&dpID=51HZpvdVMjL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=detail) by Bessel van der Kolk talks about the power of EMDR and somatic therapies for healing trauma  
 [Parnell Institute](http://parnellemdr.com/) directory of EMDR therapists   
 Article: ["Does EMDR Work?"](https://www.theguardian.com/lifeandstyle/2018/sep/10/mel-b-is-watching-flashing-lights-to-help-with-trauma-but-does-emdr-therapy-really-work) (The Guardian, 2018)
 
@@ -72,7 +72,7 @@ Video: [Feeling Good](https://www.youtube.com/watch?v=H1T5uMeYv9Q) TED talk by C
 Book: [Feeling Good](https://www.amazon.com/dp/B009UW5X4C) very popular book that has helped a lot of people with mood disorders, by David Burns
 
 ### Psychedelic and psychoactive drugs
-There’s a growing belief that drugs like MDMA (ecstacy/molly), psychedelic mushrooms, ayahuasca, and LSD, when used in therapy or with a guide, are among the fastest and most effective treatments for complex PTSD. But they come with risks. This is an area of ongoing exploration and recent experimentation, with the FDA currently in stage 3 trials of MDMA-assisted psychotherapy. If all goes as expected, MDMA will become legal for PTSD therapy in several countries by 2021.
+There’s a growing belief that drugs like MDMA (ecstacy/molly), psychedelic mushrooms, ayahuasca, and LSD, when used in therapy or with a guide, are among the fastest and most effective treatments for complex PTSD. But they come with risks. This is an area of ongoing exploration and recent experimentation, with the FDA currently in stage 3 trials of MDMA-assisted psychotherapy. If all goes as expected, MDMA will become legal for trauma therapy in several countries by 2021.
 
 [MAPS](https://maps.org/) &mdash; Multidisciplinary Association for Psychedelic Studies  
 [Psychedelic Integration](https://integration.maps.org/) &mdash; MAPS directory of therapists who help people integrate a psychedelic experience  
@@ -194,7 +194,7 @@ It seems so simple but breath work and cold exposure can be very powerful for he
 [Biodynamic Breathwork](https://www.biodynamicbreath.com/)
 
 ### Somatic Experiencing
-Somatic Experiencing is a body-oriented approach to PTSD healing. It attempts to promote body awareness and release the residual physical tension that remains in the aftermath of trauma. It is sometimes used in combination with EMDR.
+Somatic Experiencing is a body-oriented approach to trauma healing. It attempts to promote body awareness and release the residual physical tension that remains in the aftermath of trauma. It is sometimes used in conjunction with EMDR or other modalities.
 
 [Somatic Experiencing Trauma Institute](https://traumahealing.org/) directory of SE therapists  
 Book: [Waking the Tiger](https://www.amazon.com/Waking-Tiger-Healing-Peter-Levine/dp/155643233X/ref=pd_sbs_14_7?_encoding=UTF8&pd_rd_i=155643233X&pd_rd_r=c2da41bd-7da5-11e9-9473-d5397df71b98&pd_rd_w=E4tiC&pd_rd_wg=fpQ9D&pf_rd_p=588939de-d3f8-42f1-a3d8-d556eae5797d&pf_rd_r=SMTW2FW4RM80CGJVQ1D5&psc=1&refRID=SMTW2FW4RM80CGJVQ1D5) by Peter Levine, creator of SE  
