@@ -175,8 +175,9 @@ The bottom-up approach starts with the idea that trauma is stored in the body, f
 Article: [Reiki, Tantra, and the Healing Power of Touch](http://blog.lighthouse.lgbt/reiki-tantra-healing-power-touch-queer-community-can-benefit/)  
 [Trauma Sensitive Yoga](https://www.traumasensitiveyoga.com/)  
 [TRE Trauma Release](https://traumaprevention.com/) therapy  
+Video: TRE At-Home Exercises [1](https://www.youtube.com/watch?v=FeUioDuJjFI) [2](https://www.youtube.com/watch?v=26zoFKZzbQc)
 [Rolfing](https://www.rolf.org/rolfing.php) is a massage technique that is about balancing the body.  
-[OSHO Dynamic Meditation](https://www.osho.com/meditate/active-meditations/dynamic-meditation)  
+[OSHO Dynamic Meditation](http://oshodynamic.com/)  
 [Craniosacral Therapy](https://en.m.wikipedia.org/wiki/Craniosacral_therapy)  
 Yelling and screaming and beating sticks against trees  
 Ecstatic dance  
