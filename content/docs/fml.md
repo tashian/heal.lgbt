@@ -21,7 +21,7 @@ People want to help you. Even if you are feeling lonely and you just want someon
 🇨🇦 Crisis Text Line: Text HOME to 686868  
 🇬🇧 Crisis Text Line: Text SHOUT to 85258  
 
-## Kicked out of your house?
+## Kicked out? Left home?
 See HRC's step-by-step guide [On Our Own (PDF)](https://assets2.hrc.org/files/assets/resources/HRC-OnOurOwn-LGBTQYouth.pdf?_ga=2.32591486.1913620520.1565743654-198396838.1565743654) and [/r/lgbtHavens](https://www.reddit.com/r/lgbtHavens/)
 Here's a list of [LGBT community centers](https://www.lgbtcenters.org/LgbtCenters) in the US. Contact the center closest to you and they should be able to help you.  
 
@@ -36,7 +36,6 @@ Here's a list of [LGBT community centers](https://www.lgbtcenters.org/LgbtCenter
 
 ## Lonely & isolated?
 
-
 ## Hurting?
 Are you hurting?
 
@@ -45,9 +44,16 @@ Are you hurting?
 [Alternatives to cutting and self-harm](https://www.glbthotline.org/self-harm-prevention.html#professional)  
 [Self-harm prevention workbook](https://www.glbthotline.org/self-harm-prevention.html)
 
+## Domestic Violence
+
+🇺🇸 [National Domestic Violence Hotline](https://www.thehotline.org/is-this-abuse/) 1.800.799.SAFE
 
 ### HIV/AIDS support
-Just tested positive? Feeling isolated? Worried about your medications? Wondering about your risk? Caring for someone with HIV?
+Just tested positive?  
+Feeling isolated?  
+Worried about your medications?  
+Wondering about your risk?  
+Caring for someone with HIV?  
 
 🇺🇸 [HIV Nightline](https://www.sfsuicide.org/our-programs/hiv-nightlines/) (24-hours) 415.434.2437 or 800.628.9240  
 🇺🇸 HIV Textline (24-hours) 415.200.2920  
