@@ -208,6 +208,8 @@ Either way, it seems [good for the brain](https://www.psychologytoday.com/us/blo
 ### Spiritual Sex
 Of course, having sex is fun. But sexuality also has a spiritual component for those who are willing to explore it. It can be very healing, can help you develop self-acceptance and validation of your body. It can help you _be_ in your body more fully.
 
+Activity: [Sensate Focus](https://health.cornell.edu/sites/health/files/pdf-library/sensate-focus.pdf) is a way of experiencing touch in a non-goal-directed way (not trying to have an orgasm) that is focused on the experience and sensations, rather than on evaluation. It allows people to practice intimacy by thinking less, and feeling more.
+
 Video: [Sacred Masturbation 101](https://www.youtube.com/watch?v=fIdbyeydGvc)  
 Video: [Healthy Sexuality](https://www.youtube.com/watch?v=lE8wJ79eZ3s)  
 

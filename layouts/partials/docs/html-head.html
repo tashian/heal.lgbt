@@ -4,7 +4,7 @@
 
 <!-- Theme stylesheet, you can customize scss by creatig `assets/custom.scss` in your website -->
 {{ $styles := resources.Get "book.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
-<link rel="stylesheet" href="{{ $styles.RelPermalink }}">
+<link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}">
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.min.js"></script>
 
@@ -27,6 +27,7 @@
 <meta itemprop="name" content="{{- template "display_title" . }}">
 <meta itemprop="description" content="{{ .Site.Params.Description }}">
 
+{{- template "_internal/google_analytics_async.html" . -}}
 
 <!-- RSS -->
 {{ with .OutputFormats.Get "rss" -}}

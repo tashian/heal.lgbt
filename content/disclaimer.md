@@ -11,6 +11,8 @@ The authors and contributors to this content cannot guarantee the validity of th
 
 The contributors may not be qualified to provide complete and accurate information. Therefore, please be advised that nothing found here has necessarily been reviewed by professionals with the expertise necessary to provide you with complete, accurate or reliable information.
 
+This website is not a substitute for professional advice by legal, mental health, medical, financial or other qualified professionals.
+
 ### No warranty
 
 All information read or presented here is without an express or implied warranty of any kind, including any implied warranty of fitness for a particular purpose, and the entire risk as to satisfactory quality, performance, accuracy, completeness and effort is with you. No damages, consequential or otherwise, can be sought against heal.lgbt or anyone associated with it. It is a voluntary association of individuals developed freely to create an open source online informational resource. 
