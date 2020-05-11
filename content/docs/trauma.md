@@ -1,31 +1,35 @@
 ---
-title: Healing Your Trauma
+title: Heal Your Trauma
 type: docs
 ---
 
-# Healing Your Trauma
+# Heal Your Trauma
 
-## Why this is important
-
-> “You can be fully in charge of your life only if you can acknowledge the reality of your body, in all its visceral dimensions.”  
-> — Bessel van der Kolk, “The Body Keeps the Score”
-
-No matter how loving and well-intentioned our parents were and no matter how safe our home was, we all emerge from childhood damaged by our parents, by our schooling, and by society in one way or another. Which means there's an opportunity for all of us to heal in ways that we didn't even know we were broken.
-
-Trauma is part of life. Everyone has it in their past. It may feel like a negative memory that you keep returning to. An inner habit of self judgement that clouds your ability to be present. Sometimes it's simply the sense that you cannot seem to get out of your head, that your mind is on overdrive all the time and you can't focus, or that you often feel unsafe or triggered. If a negative memory is something that you believe shouldn't be a problem, and that you wish you could just "get over it," but it keeps coming up, that is trauma. It doesn't matter how it compares to anyone else's trauma. If it hurts for you, if it limits you, if it dogs you, it is real.
+## Assume you are traumatized
 
 > "We see gay men who have never been sexually or physically assaulted with similar post-traumatic stress symptoms to people who have been in combat situations or who have been raped."  
 > — Alex Keuroghlian, a psychiatrist at the Fenway Institute's Center for Population Research in LGBT Health.
 
-Trauma, PTSD and [adverse childhood experiences (ACEs)](https://www.cdc.gov/violenceprevention/childabuseandneglect/acestudy/index.html) are more common among queer people. Internalized queerphobias are also common. It's easy to see it in others, but harder to see how it exists unconsciously within yourself. It's possible to heal trauma and triggers. An in recent years, we have come a long way in understanding trauma and how to help people heal.
+Emotional trauma is part of being alive. Every newborn has had to endure the trauma of separation from their parent. And then a lot of things happen after that. Parents unwittingly carry forward intergenerational wounds. Children are cruel to each other. We are damaged by our upbringing. We make coping mechanisms. And the challenge of adulthood is to get ourselves sorted out, to become whole again, to let go of the old childhood structures that simply don't serve us anymore.
 
-One of the pernicious things about childhood trauma is that it can be with you for so long that you come to believe it’s just part of who you are, something you have to deal with and carry around every day. Healing is possible, and healing can be life changing! I don't mean life changing like matcha ice cream. I mean Life. Changing. Truly improving forever how you relate to your own mind and body in every moment.
+To make matters worse, trauma can be hard to detect within oneself. We are very good at hiding things from ourselves. We numb. We make up stories to explain why we are how we are, and that it is permanent. We may even learn to love our trauma, in a way, because we identify so closely with it.
 
----
+Here's a suggestion: If you're queer, _assume you are traumatized_ and make healing an ongoing project in your life. Others may think it's self-indulgent, but not you. You know you're worth it. Because when you bring a better you to the world, everyone benefits.
 
-Everyone's path through healing trauma is different, even if the outcome is the same. Here are some directions and avenues where this deeper healing can take place. Some people have a history of trauma with a lowercase t. Some have Trauma with a capital T. Some have both going on. It's possible to heal from all kinds of trauma. A few lowercase-t traumas spread out throughout childhood can be more debilitating than one capital-T trauma.
+----
 
-## Trauma Bibliography
+## Healing is possible
+
+> “You can be fully in charge of your life only if you can acknowledge the reality of your body, in all its visceral dimensions.”  
+> — Bessel van der Kolk, “The Body Keeps the Score”
+
+The good news: It _is_ possible to heal trauma and triggers! We know a lot more about it than we did even 10 years ago, and new tools are opening up possibilities foe deep healing.
+
+The bad news: It's a long journey. Everyone's path through healing trauma is different. Some people have a history of traumas with a lowercase t. Some have Traumas with a capital T. It's possible to heal from all kinds of trauma. A few lowercase-t traumas spread out throughout childhood can be more debilitating than one capital-T trauma.
+
+There are many tools listed below. Start anywhere that feels like it might be compelling. Don't give up on an approach if you're not seeing immediate results. It takes time for some of these approaches to really be effective.
+
+## Learn more about trauma
 
 ### DIY trauma workbooks
 [The Complex PTSD Workbook](https://www.amazon.com/Complex-PTSD-Workbook-Mind-Body-Regaining/dp/1623158249)  
@@ -68,11 +72,12 @@ Article: ["Does EMDR Work?"](https://www.theguardian.com/lifeandstyle/2018/sep/1
 Aside from EMDR, Cognitive Behavioral Therapy has been shown to help with trauma release. It is a more traditional talk-centered approach that aims to rewrite the underlying beliefs that lead to depression and anxiety.
 
 App: [Sanvello](https://www.sanvello.com/) is an app that helps you relieve symptoms of stress, anxiety, and depression  
+App: [Woebot](https://apps.apple.com/gb/app/woebot-your-self-care-expert/id1305375832) is a self-care bot that helps with anxiety and depression using CBT techniques  
 Video: [Feeling Good](https://www.youtube.com/watch?v=H1T5uMeYv9Q) TED talk by CBT practitioner David Burns  
 Book: [Feeling Good](https://www.amazon.com/dp/B009UW5X4C) very popular book that has helped a lot of people with mood disorders, by David Burns
 
 ### Psychedelic and psychoactive drugs
-There’s a growing belief that drugs like MDMA (ecstacy/molly), psychedelic mushrooms, ayahuasca, and LSD, when used in therapy or with a guide, are among the fastest and most effective treatments for complex PTSD. But they come with risks. This is an area of ongoing exploration and recent experimentation, with the FDA currently in stage 3 trials of MDMA-assisted psychotherapy. If all goes as expected, MDMA will become legal for trauma therapy in several countries by 2021.
+There’s strong evidence that drugs like MDMA (ecstacy/molly), psychedelic mushrooms, ayahuasca, and LSD, when used in therapy or with a guide, are among the fastest and most effective treatments for complex PTSD. Yes, they come with risks. This is an area of ongoing exploration and recent experimentation, with the FDA currently in stage 3 trials of MDMA-assisted psychotherapy. If all goes as expected, MDMA will become legal for trauma therapy in several countries by 2021.
 
 [MAPS](https://maps.org/) &mdash; Multidisciplinary Association for Psychedelic Studies  
 [Psychedelic Integration](https://integration.maps.org/) &mdash; MAPS directory of therapists who help people integrate a psychedelic experience  
@@ -151,7 +156,7 @@ The best dead teachers, in my opinion, are recently dead teachers who lived duri
 
 #### Dead spiritual teachers
 [J. Krishnamurti](https://www.youtube.com/user/KFoundation), Indian philosopher and writer  
-[Alan Watts](https://www.youtube.com/results?search_query=alan+watts), an English philosopher  
+[Alan Watts](https://www.youtube.com/results?search_query=alan+watts), an eloquent English philosopher  
 [Suzuki Roshi](http://suzukiroshi.sfzc.org/dharma-talks/), spiritual teacher who brought Zen to the United States  
 [H. W. L. Poonja ("Papaji")](https://www.youtube.com/user/hansaji), Indian sage who taught self-enquiry.  
 [S.N. Goenka](https://www.youtube.com/results?search_query=sn+goenka), Burmese-Indian teacher of Vipassana meditation—a no-dogma practice of self-directed meditation
