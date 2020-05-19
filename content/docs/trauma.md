@@ -14,7 +14,7 @@ Emotional trauma is part of being alive. Every newborn has had to endure the tra
 
 To make matters worse, trauma can be hard to detect within oneself. We are very good at hiding things from ourselves. We numb. We make up stories to explain why we are how we are, and that it is permanent. We may even learn to love our trauma, in a way, because we identify so closely with it.
 
-Here's a suggestion: If you're queer, _assume you are traumatized_ and make healing an ongoing project in your life. Others may think it's self-indulgent, but not you. You know you're worth it. Because when you bring a better you to the world, everyone benefits.
+Here's a suggestion: If you're queer, _assume you are traumatized_ and make healing an ongoing project in your life. Others may think it's self-indulgent, but it's not. When you put in the effort to improve yourself, you make more of yourself available to others. When you bring a better you to the world, everyone benefits.
 
 ----
 
@@ -178,9 +178,8 @@ All of the people listed below have offered free media online that can help you.
 The bottom-up approach starts with the idea that trauma is stored in the body, for example as tension or sterss in the belly, shoulders, neck, jaw, chest, etc. Advocates for bottom-up therapy say that if we reduce stress in the body, our emotions will follow suit and improve.
 
 Article: [Reiki, Tantra, and the Healing Power of Touch](http://blog.lighthouse.lgbt/reiki-tantra-healing-power-touch-queer-community-can-benefit/)  
-[Trauma Sensitive Yoga](https://www.traumasensitiveyoga.com/)  
 [TRE Trauma Release](https://traumaprevention.com/) therapy  
-Video: TRE At-Home Exercises [1](https://www.youtube.com/watch?v=FeUioDuJjFI) [2](https://www.youtube.com/watch?v=26zoFKZzbQc)
+Video: TRE At-Home Exercises [1](https://www.youtube.com/watch?v=FeUioDuJjFI) [2](https://www.youtube.com/watch?v=26zoFKZzbQc)  
 [Rolfing](https://www.rolf.org/rolfing.php) is a massage technique that is about balancing the body.  
 [OSHO Dynamic Meditation](http://oshodynamic.com/)  
 [Craniosacral Therapy](https://en.m.wikipedia.org/wiki/Craniosacral_therapy)  
@@ -189,13 +188,20 @@ Ecstatic dance
 [Laughter Meditation](https://www.youtube.com/watch?v=XzktEXmKYCY)  
 Treating yourself to a local spa / sauna / massage / steam room  
 Tai Chi, Qi Gong, or other body / movement practices  
+
+### Yoga
+Yoga is a huge world and there are so many styles that are different from each other. Some deeply spiritual, some that feel like an exercise class. Some are fast and sweaty and hot, and others are slow and deliberate and restorative. Every body needs something different. Here are a few yoga styles:
+
+[Trauma Sensitive Yoga](https://www.traumasensitiveyoga.com/)  
+[Yin Yoga](https://www.youtube.com/watch?v=IK9k5y_47cA) for deep emotional release  
+[aad yog](https://www.youtube.com/channel/UCn2ZwNbSE0QGWoT4ESc7JmA) is an ancient form of yoga without alteration and adulteration  
 Video: [Qi Gong](https://www.youtube.com/watch?v=5NHZdqEzAtE&feature=youtu.be) — a 30 minute yogic qi gong routine with instruction  
 
 ### Breath Work and Cold Exposure
 It seems so simple but breath work and cold exposure can be very powerful for healing. For example, reducing inflammation via cold exposure can be incredibly helpful for depression.
 
 [Max Strom / Breathe to Heal](https://breathetoheal.maxstrom.com/)  
-[Wim Hof Method](https://www.wimhofmethod.com/) (cold exposure)  
+[Wim Hof Method](https://www.wimhofmethod.com/) is about the healing power of cold and breath  
 [Holotropic Breathwork](http://www.holotropic.com), created by Stan Grof as a way of experiencing non-ordinary states of consciousness through breathing  
 [Biodynamic Breathwork](https://www.biodynamicbreath.com/)
 
@@ -205,6 +211,7 @@ Somatic Experiencing is a body-oriented approach to trauma healing. It attempts 
 [Somatic Experiencing Trauma Institute](https://traumahealing.org/) directory of SE therapists  
 Book: [Waking the Tiger](https://www.amazon.com/Waking-Tiger-Healing-Peter-Levine/dp/155643233X/ref=pd_sbs_14_7?_encoding=UTF8&pd_rd_i=155643233X&pd_rd_r=c2da41bd-7da5-11e9-9473-d5397df71b98&pd_rd_w=E4tiC&pd_rd_wg=fpQ9D&pf_rd_p=588939de-d3f8-42f1-a3d8-d556eae5797d&pf_rd_r=SMTW2FW4RM80CGJVQ1D5&psc=1&refRID=SMTW2FW4RM80CGJVQ1D5) by Peter Levine, creator of SE  
 Book: [In An Unspoken Voice](https://www.amazon.com/Unspoken-Voice-Releases-Restores-Goodness/dp/1556439431/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=1556439431&pd_rd_r=XZECHX8BCPBDP7EYXV8P&pd_rd_w=WJCAo&pd_rd_wg=jBCzT&psc=1&refRID=XZECHX8BCPBDP7EYXV8P) by Peter Levine  
+
 ### Ketogenic diet
 Could be promising for PTSD, but there's not a whole lot of research here.  
 [PTSD UK](https://www.ptsduk.org/ketogenic-diet/) | [Reddit](https://www.reddit.com/r/keto/comments/8r02yz/my_psychiatrist_recommended_keto_to_help_control/)  
