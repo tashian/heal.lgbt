@@ -193,8 +193,8 @@ Tai Chi, Qi Gong, or other body / movement practices
 Yoga is a huge world and there are so many styles that are different from each other. Some deeply spiritual, some that feel like an exercise class. Some are fast and sweaty and hot, and others are slow and deliberate and restorative. Every body needs something different. Here are a few yoga styles:
 
 [Trauma Sensitive Yoga](https://www.traumasensitiveyoga.com/)  
-[Yin Yoga](https://www.youtube.com/watch?v=IK9k5y_47cA) for deep emotional release  
-[aad yog](https://www.youtube.com/channel/UCn2ZwNbSE0QGWoT4ESc7JmA) is an ancient form of yoga without alteration and adulteration  
+Video: [Yin Yoga](https://www.youtube.com/watch?v=IK9k5y_47cA) for deep emotional release  
+YouTube Channel: [aad yog](https://www.youtube.com/channel/UCn2ZwNbSE0QGWoT4ESc7JmA) is an ancient form of yoga without alteration and adulteration  
 Video: [Qi Gong](https://www.youtube.com/watch?v=5NHZdqEzAtE&feature=youtu.be) — a 30 minute yogic qi gong routine with instruction  
 
 ### Breath Work and Cold Exposure
