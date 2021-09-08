@@ -15,7 +15,7 @@ title: heal.lgbt
 
 🚨 &nbsp;&nbsp;**Are you in crisis? If so, [read this](/fml)**&nbsp;&nbsp; 🚨
 
-[License and disclaimer](disclaimer) &middot; [Edit this page](https://github.com/tashian/heal.lgbt)  
+[License and disclaimer](disclaimer) &middot; [Edit this page](https://github.com/tashian/heal.lgbt) &middot; [Contributor's Guide](https://github.com/tashian/heal.lgbt) 
 
 {{< toc >}}
 
