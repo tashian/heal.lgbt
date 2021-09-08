@@ -1,7 +1,5 @@
 ---
 title: San Francisco resources
-type: docs
-bookToC: false
 ---
 
 See also: [SF LGBT Center Resources directory](https://www.sfcenter.org/resources/)  

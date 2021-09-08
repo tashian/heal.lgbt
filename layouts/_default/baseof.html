@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png">
+        <link href="https://fonts.googleapis.com/css?family=Karla:700|IBM+Plex+Sans|IBM+Plex+Serif:400,400i,500&display=swap" rel="stylesheet"> 
+
+		<title>{{ .Site.Title }}</title>
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:title" content="{{ .Site.Title }}" />
+        <meta property="og:title"  content="{{ .Site.Title }}" />
+        
+        <meta name="description"         content="An open-source resource guide to help queer people thrive." />
+        <meta name="twitter:description" content="An open-source resource guide to help queer people thrive." />
+        <meta property="og:description"  content="An open-source resource guide to help queer people thrive." />
+        {{ $style := resources.Get "main.scss" | toCSS }}
+        {{ if (.Site.IsServer) }}
+            <link rel="stylesheet" href="{{ $style.Permalink }}">
+        {{ else }}
+            <style>{{ ($style | minify).Content | safeCSS }}</style>
+        {{ end }}
+    </head>
+    <body>
+        {{- block "main" . }}{{- end }}
+    </body>
+</html>

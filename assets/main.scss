@@ -1,0 +1,97 @@
+$allow-dark-mode: false;
+$font-stack-serif: 'IBM Plex Serif', Georgia, serif;
+
+h2, b, strong {
+    font-weight: 500;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Karla', Arial, sans-serif;
+}
+
+header h1 {
+    font-weight: bold;
+    font-size: 4em;
+    display: inline-block;
+}
+
+h2 {
+    font-size: 1.8em;
+}
+
+p, li {
+    line-height: 1.7em;
+}
+
+blockquote {
+    margin: 50px 30px;
+    font-size: 1.3em;
+    p { 
+        line-height: 1.5em;
+    }
+    font-style: italic;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+nav#TableOfContents > ul {
+    list-style: none;
+    padding-left: 0;
+    & > li {
+        padding-bottom: 10px;
+    }
+}
+
+body {
+	margin: 0;
+    font-family: $font-stack-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
+.smallcaps {
+    font-variant: small-caps;
+}
+
+a {
+    text-decoration: none;
+}
+li {
+}
+.hidden {
+        display: none;
+}
+.rarr {
+    display: inline-block;
+    width: 10px;
+    svg {
+            fill: currentColor;
+    }
+}
+
+@if $allow-dark-mode {
+    @media (prefers-color-scheme: dark) {
+        body {
+            background-color: #444;
+            color: #f3f3f3;
+        }
+        a {
+            color: #e39777;
+        }
+        img {
+            filter: grayscale(30%);
+        }
+    }
+}
+
+
+// Main Article Grid
+// Extra small devices (portrait phones, less than 576px)
+// No media query since this is the default
+
+article {
+    width: 550px;
+    margin-right: auto;
+    margin-left: auto;
+}
