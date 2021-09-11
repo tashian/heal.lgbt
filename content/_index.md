@@ -1,11 +1,11 @@
 ---
-title: heal.lgbt
+title: 🌈 heal.lgbt
 ---
 
 > "Death is not the biggest fear we have; our biggest fear is taking the risk to be alive — the risk to be alive and express what we really are."  
 > — Don Miguel Ruiz
 
-🌈 &nbsp;&nbsp;This is a resource guide for queer healing.  
+🏳️‍🌈 &nbsp;&nbsp;This is a resource guide for queer healing.  
 🧙 &nbsp;&nbsp;It's for everyone—especially queer people and those who love them.  
 🔥 &nbsp;&nbsp;To move from surviving, to thriving.  
 🧒 &nbsp;&nbsp;To feel more at home with yourself.  
@@ -15,78 +15,112 @@ title: heal.lgbt
 
 🚨 &nbsp;&nbsp;**Are you in crisis? If so, [read this](/fml)**&nbsp;&nbsp; 🚨
 
-[License and disclaimer](disclaimer) &middot; [Edit this page](https://github.com/tashian/heal.lgbt) &middot; [Contributor's Guide](https://github.com/tashian/heal.lgbt) 
+[License and disclaimer](disclaimer) &middot; [Contributor's Guide](https://github.com/tashian/heal.lgbt) 
 
 {{< toc >}}
 
 ## Introduction
 
-The major resources for the queer community—the crisis hotlines and support groups—are geared toward making it through the most difficult moments. They provide a critical safety net for survival. But, what happens after that? What does it mean to thrive as a queer person?
+A lot of resources for the queer community—the crisis hotlines, LGBT centers, and support groups—are geared toward survival.  
+But, what happens once you have survived?  
+What does it mean to thrive as a queer person?
 
-### What does it mean to thrive?
+### What does it mean to thrive as a queer person?
 
 To survive, you have to cope in the darkness.
-And coping in the darkness requires a lot of energy.
-And you build habits of survival, because you have to.
+It's not an easy path at all, but it's the only one you know.
+Along the way you build habits of survival:
 
-To thrive, you have to let go of the habits of survival and form a new way of being.
-What worked for you for survival starts working against you.
-For example, for a lot of poeple coping is very self-involved.
-A roiling volcano of inner confusion.
-Fractured selves. Feeling lost.
-It's hard to focus on others when you do not feel whole yourself.
+* habits of pushing down or numbing your pain;
+* habits of relating to the stress and anxiety you manufactured in order to navigate a scary world;
+* habits of relating to (or dissociating from) your own queer body;
+* habits of relating to others through the fog of your own inner war;
 
-In healing, there are inflection points.
-Moments where a new self has emerged, with so many new capacities.
-Trauma has been released and is gone forever.
+You build these because they are necessary.
+
+And as you move toward emotional safety and stability in your life,
+the survival habits start working against you.
+You struggle against their limitations.
+
+Eventually you discover that in order to thrive, you have to molt.
+You have to shed these habits that don't serve you anymore,
+and emerge into a new way of being.
+A new self.
+
+On the journey of queer healing there are inflection points.
+Thresholds of liberation, where many new capacities open up.
+It can happen in an instant.
+A thorn of queer trauma is finally, blessedly dislodged.
+And so much of what you thought you knew of yourself, and the world aroud you, changes immediately.
 It's a rebirth.
-A new chapter opens.
-And as hard as it may have been to get here, this is when a lot of the real work begins.
+
+All the energy that was required for you to push down and repress the pain now bursts forth,
+ready to be repurposed toward being alive in the present moment.
+
 Learning to thrive is like learning a new language.
-You may have judgements about people who are thriving.
-Thriving may seem too wholesome. Too healthy. Too serene and safe.
-How can people live like that?
-They just spending a whole afternoon in the park, eating cherries in the sun?
+Being at peace after so much war is jarring.
+At first it may seem too wholesome. Too healthy. Too serene and safe.
+Boring, even.
 
-"Follow your bliss," they say. "Face each day with a sense of wonder."
-It just doesn't have the same urgency as the fight did.
+You didn't make a habit of following your bliss.
+You didn't make a habit of facing each moment with wonder and curiosity and love.
+You made other habits.
+And sometimes you miss the war.
+Though it was horrific,
+there was something so reliable about the pain.
+It offered a stable point that you could focus on while living in the darkness.
+
+Now you can finally breathe,
+yet you also may feel unmoored.
+Floating.
 You're not trying to swim to the surface as hard as you can.
-You're not getting pushed down every time you try to surface.
-Now you're just riding a wave, enjoying the feeling of flow,
-the sun kissing your skin, the sweet air.
-
+You're not getting pummeled by waves every time you try to surface.
+Now you have a surfboard.
+You have the opportunity to ride on top of the wave,
+enjoy the blissful feeling of flow,
+the sun kissing your skin,
+the sweet air.
 All the sweeter because of how much you fought for it.
 
-And then. Learning how to love even more. Living an integrated life as a whole person. Setting yourself up for the future. Focusing on normal, boring everyday things like exercise and diet and household budgeting. And, of course, inventing new structures and forms for belonging, relationships, family, home, intimacy, resiliency, liberation, and world peace in the 21st century. Because that's what we do.
+But you don't quite know how to surf yet.
+You don't know what you're capable of.
+
+You start learning in earnest.
+You make new discoveries every day, and some of them really astound you.
+You learn how to love beyond what you were taught or knew was possible.
+You learn to live an integrated life, an untrammaled life.
+
+And as your cup continues to overflow, you create. You create new structures and forms for belonging, relationships, family, home, intimacy, resiliency, liberation, love, and peace.
+
+Because that's what queers do.
 
 ### Scope & Notes
 
 * This guide takes the long view on queer healing. It attempts to answer: What are the keys to a healthy life, and the foundations for ongoing growth and liberation, in the face of queer oppression?
 * The goal is to cover everything you need to thrive as a queer person: Coming out, making a home, dating, sex, queer family, mental and physical health, spirituality, being in your body, domestic practices, gender transitions, legal issues, financial planning, and, of course, queer interior design.
-* This guide is a broad collection of resources. It is designed to be practical, with lots of links, good advice, and time-tested folk knowledge. It is not a substitute for therapist, or a financial planner, or an estate lawyer, or an interior designer... it's more like a concierge. Maybe it will get you where you need to go.
+* This guide is a broad collection of resources. It is designed to be practical, but it is not a substitute for therapist, or a financial planner, or an estate lawyer, or an interior designer... it's more like a concierge. May it get you where you need to go.
 * This guide uses the word "queer" and sometimes "LGBT" as shorthand for LGBTQIA*. Using the word "queer" within our community is a way of reclaiming what might be considered an insult and using it for empowerment. It's a clever reappropriation. And it's a nice word because it starts with Q, and that will get you a lot of points in Scrabble. 
-* This is a work in progress, and it is village property. We hope you'll consider dropping some knowledge upon these pages. (See the [Contributor's Guide](https://github.com/tashian/heal.lgbt/blob/master/README.md) for details)
+* This is a work in progress, and it is village property. We hope you'll consider dropping some knowledge here. (See the [Contributor's Guide](https://github.com/tashian/heal.lgbt/blob/master/README.md) for details)
 
 ## Coming out
 
-Coming out is a great place to start.
-
-What am I? That's the real question, isn't it. Forget about coming out to your family. What about coming out to yourself? You may not even know what you would come out _as_. "Am I a lesbian?" "Am I nonbinary?" "Am I a butch trans girl?"
-
-Give it a minute. Give it a year. What's really happening is an internal discovery process. We are all discovering more about who we are. So, instead of trying to understand yourself perfectly in all of your magical dimensions, it's okay to just sit with the confusion.
-
-You might gain some new understanding of yourself by describing what you feel to a supportive listener. You might have safe and close and supportive enough friends or family or therapist or chat group where you can talk even when you're really confused about yourself.
-
-Or you may not feel ready for that. But at some point, things will become internally as clear to you as they can be without you taking some further steps externally. Maybe you found a few words that seem to describe your gender and/or sexuality, and you tried them on and, a year later, you see that they still ring true. Good. Might this change? Yes, but that's the beauty of self-discovery. Years from now, you might come out to yourself in new ways. I'm not sure if these discoveries ever really end. But after you've lived with a new discovery internally for a while, taking action in the world is the best way to learn more about yourself. Because you only live once, after all.
-
-
 Coming out of the closet is not a singular moment where the hero fabulously steps out on stage, loudly and confidently proclaiming their truth. It’s a lifelong journey of self-discovery (as you come out in new ways to yourself) and sharing (as you come out to new people in your life).
 
-Will they accept me? That's always the question when coming out to others.
+What am I? That's the real question, isn't it.
+Which of these boxes that society has laid out for gender and sexuality apply to me?
+
+Forget about coming out to your family. First you have to come out to yourself.
+You may not even know what you would come out _as_. "Am I a lesbian?" "Am I nonbinary?" "Am I a butch trans girl?"
+
+It's okay to just be confused for a while. You can even come out as confused. "I know I'm ... different."
+
+You might gain some new understanding of yourself by describing what you feel to a supportive listener. Or simply by having experiences. Because we learn experientially, not by trying to "figure it out" alone. Google won't tell you who you are.
+
+You may not feel ready to come out as confused, even. That's okay. Just know that your own inner imagination will only get you so far. Maybe you found a few words that seem to describe your gender and/or sexuality, and you tried them on and, a year later, you see that they still ring true. Good. Might this change? Yes, but that's the beauty of self-discovery. Years from now, you might come out to yourself again, in some new ways. I'm not sure if these discoveries ever really end. But after you've lived with a new discovery internally for a while, taking action in the world is the best way to learn more about yourself. Because you only live once, after all.
 
 Coming out will, at some point, make someone around you feel uncomfortable. It's not your fault. But that doesn't make it feel any better to, for example, have someone scowl at you when you come out to them. Learning to weather other people's issues around sexuality is part of the journey.
 
-Queerphobia is so widespread that most people discover over time the ways they have bought into and internalized society's phobias, even unconsciously. This process of rewiring the phobias is a process of learning to celebrate and love parts of ourselves we were taught to hate, or to believe was unnatural, evil, against God, and so on.
+Queerphobia is so embedded in our collective consciousness that most people need time to discover the ways they have bought into and internalized society's phobias. This process of rewiring the phobias is a process of learning to celebrate and love parts of ourselves we were taught to hate, or to believe was unnatural, evil, against God, and so on.
 
 [HRC: Resource Guide to Coming Out](https://assets2.hrc.org/files/assets/resources/resource_guide_april_2014.pdf?_ga=2.126552526.2109471886.1562269796-438205338.1562269796) (PDF)   
 [The Trevor Project: Coming Out As YOU](https://www.thetrevorproject.org/wp-content/uploads/2017/09/ComingOutAsYou.pdf) (PDF)  

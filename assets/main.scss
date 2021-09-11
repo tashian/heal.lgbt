@@ -13,6 +13,8 @@ header h1 {
     font-weight: bold;
     font-size: 4em;
     display: inline-block;
+    margin-top: .7em;
+    margin-bottom: .3em;
 }
 
 h2 {
@@ -90,8 +92,17 @@ li {
 // Extra small devices (portrait phones, less than 576px)
 // No media query since this is the default
 
-article {
-    width: 550px;
+main {
+    max-width: 650px;
     margin-right: auto;
-    margin-left: auto;
+    margin-left: auto;    
+}
+
+article {
+    display: grid;    
+    grid-template-columns: 20px 1fr 20px;
+
+    & > * {
+        grid-column: 2;
+    }
 }
