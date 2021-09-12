@@ -102,6 +102,29 @@ Because that's what queers do.
 * This guide uses the word "queer" and sometimes "LGBT" as shorthand for LGBTQIA*. Using the word "queer" within our community is a way of reclaiming what might be considered an insult and using it for empowerment. It's a clever reappropriation. And it's a nice word because it starts with Q, and that will get you a lot of points in Scrabble. 
 * This is a work in progress, and it is village property. We hope you'll consider dropping some knowledge here. (See the [Contributor's Guide](https://github.com/tashian/heal.lgbt/blob/master/README.md) for details)
 
+## Assume you are traumatized.
+
+> "We see gay men who have never been sexually or physically assaulted with similar post-traumatic stress symptoms to people who have been in combat situations or who have been raped."  
+> — Alex Keuroghlian, a psychiatrist at the Fenway Institute's Center for Population Research in LGBT Health.
+
+Emotional trauma is part of being alive. Every newborn has had to endure the trauma of separation from their parent. And then a lot of things happen after that. Parents unwittingly carry forward intergenerational wounds. Children are cruel to each other. We are damaged by our upbringing. And one challenge of adulthood is to get ourselves sorted out, to resolve our core dilemmas, to become whole again, to let go of the old childhood structures that hold us back as adults.
+
+Trauma isn't always obvious to ourselves. We are very good at hiding things from ourselves. We numb. We make up stories to explain why we are how we are, and that it is permanent. We may even learn to love our trauma, in a way, because we identify so closely with it.
+
+Here's a suggestion: If you're queer, _assume you are traumatized_ and make healing an ongoing project in your life. Others may think it's self-indulgent, but it's not. When you put in the effort to improve yourself, you make more of yourself available to others. When you bring a better you to the world, everyone benefits.
+
+### Healing is possible
+
+> “You can be fully in charge of your life only if you can acknowledge the reality of your body, in all its visceral dimensions.”  
+> — Bessel van der Kolk, “The Body Keeps the Score”
+
+The good news: It _is_ possible to heal trauma and triggers! We know a lot more about it than we did even 10 years ago, and new tools are opening up possibilities foe deep healing.
+
+The bad news: It's a long journey. Everyone's path through healing trauma is different. Some people have a history of traumas with a lowercase t. Some have Traumas with a capital T. It's possible to heal from all kinds of trauma. A few lowercase-t traumas spread out throughout childhood can be more debilitating than one capital-T trauma.
+
+There are many tools listed below. Start anywhere that feels like it might be compelling. Don't give up on an approach if you're not seeing immediate results. It takes time for some of these approaches to really be effective.
+
+
 ## Coming out
 
 Coming out of the closet is not a singular moment where the hero fabulously steps out on stage, loudly and confidently proclaiming their truth. It’s a lifelong journey of self-discovery (as you come out in new ways to yourself) and sharing (as you come out to new people in your life).
@@ -129,29 +152,7 @@ Queerphobia is so embedded in our collective consciousness that most people need
 
 Most queer people in the world have been programmed with some negative ideas and messages from society about queerness, gender, gender roles, mannerisms, and sexuality. This stuff is often so deeply wired that you can't even see it. But the sooner you can spot how you've been socialized with toxic ideas from misinformed people, the sooner we can let it go. [Watch this video](https://www.youtube.com/watch?v=98ApKUqb-RQ) to see someone beginning to notice and come to terms with their own unconscious queerphobias.
 
-## Assume you are traumatized?
-
-> "We see gay men who have never been sexually or physically assaulted with similar post-traumatic stress symptoms to people who have been in combat situations or who have been raped."  
-> — Alex Keuroghlian, a psychiatrist at the Fenway Institute's Center for Population Research in LGBT Health.
-
-Emotional trauma is part of being alive. Every newborn has had to endure the trauma of separation from their parent. And then a lot of things happen after that. Parents unwittingly carry forward intergenerational wounds. Children are cruel to each other. We are damaged by our upbringing. We make coping mechanisms. And the challenge of adulthood is to get ourselves sorted out, to become whole again, to let go of the old childhood structures that simply don't serve us anymore.
-
-To make matters worse, trauma can be hard to detect within oneself. We are very good at hiding things from ourselves. We numb. We make up stories to explain why we are how we are, and that it is permanent. We may even learn to love our trauma, in a way, because we identify so closely with it.
-
-Here's a suggestion: If you're queer, _assume you are traumatized_ and make healing an ongoing project in your life. Others may think it's self-indulgent, but it's not. When you put in the effort to improve yourself, you make more of yourself available to others. When you bring a better you to the world, everyone benefits.
-
-## Healing is possible
-
-> “You can be fully in charge of your life only if you can acknowledge the reality of your body, in all its visceral dimensions.”  
-> — Bessel van der Kolk, “The Body Keeps the Score”
-
-The good news: It _is_ possible to heal trauma and triggers! We know a lot more about it than we did even 10 years ago, and new tools are opening up possibilities foe deep healing.
-
-The bad news: It's a long journey. Everyone's path through healing trauma is different. Some people have a history of traumas with a lowercase t. Some have Traumas with a capital T. It's possible to heal from all kinds of trauma. A few lowercase-t traumas spread out throughout childhood can be more debilitating than one capital-T trauma.
-
-There are many tools listed below. Start anywhere that feels like it might be compelling. Don't give up on an approach if you're not seeing immediate results. It takes time for some of these approaches to really be effective.
-
-## Learn more about trauma
+## More about trauma
 
 ### DIY trauma workbooks
 [The Complex PTSD Workbook](https://www.amazon.com/Complex-PTSD-Workbook-Mind-Body-Regaining/dp/1623158249)  
