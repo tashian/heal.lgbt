@@ -102,30 +102,9 @@ Because that's what queers do.
 * This guide uses the word "queer" and sometimes "LGBT" as shorthand for LGBTQIA*. Using the word "queer" within our community is a way of reclaiming what might be considered an insult and using it for empowerment. It's a clever reappropriation. And it's a nice word because it starts with Q, and that will get you a lot of points in Scrabble. 
 * This is a work in progress, and it is village property. We hope you'll consider dropping some knowledge here. (See the [Contributor's Guide](https://github.com/tashian/heal.lgbt/blob/master/README.md) for details)
 
-## Assume you are traumatized.
+## The path to thriving
 
-> "We see gay men who have never been sexually or physically assaulted with similar post-traumatic stress symptoms to people who have been in combat situations or who have been raped."  
-> — Alex Keuroghlian, a psychiatrist at the Fenway Institute's Center for Population Research in LGBT Health.
-
-Emotional trauma is part of being alive. Every newborn has had to endure the trauma of separation from their parent. And then a lot of things happen after that. Parents unwittingly carry forward intergenerational wounds. Children are cruel to each other. We are damaged by our upbringing. And one challenge of adulthood is to get ourselves sorted out, to resolve our core dilemmas, to become whole again, to let go of the old childhood structures that hold us back as adults.
-
-Trauma isn't always obvious to ourselves. We are very good at hiding things from ourselves. We numb. We make up stories to explain why we are how we are, and that it is permanent. We may even learn to love our trauma, in a way, because we identify so closely with it.
-
-Here's a suggestion: If you're queer, _assume you are traumatized_ and make healing an ongoing project in your life. Others may think it's self-indulgent, but it's not. When you put in the effort to improve yourself, you make more of yourself available to others. When you bring a better you to the world, everyone benefits.
-
-### Healing is possible
-
-> “You can be fully in charge of your life only if you can acknowledge the reality of your body, in all its visceral dimensions.”  
-> — Bessel van der Kolk, “The Body Keeps the Score”
-
-The good news: It _is_ possible to heal trauma and triggers! We know a lot more about it than we did even 10 years ago, and new tools are opening up possibilities foe deep healing.
-
-The bad news: It's a long journey. Everyone's path through healing trauma is different. Some people have a history of traumas with a lowercase t. Some have Traumas with a capital T. It's possible to heal from all kinds of trauma. A few lowercase-t traumas spread out throughout childhood can be more debilitating than one capital-T trauma.
-
-There are many tools listed below. Start anywhere that feels like it might be compelling. Don't give up on an approach if you're not seeing immediate results. It takes time for some of these approaches to really be effective.
-
-
-## Coming out
+### How to come out
 
 Coming out of the closet is not a singular moment where the hero fabulously steps out on stage, loudly and confidently proclaiming their truth. It’s a lifelong journey of self-discovery (as you come out in new ways to yourself) and sharing (as you come out to new people in your life).
 
@@ -150,9 +129,31 @@ Queerphobia is so embedded in our collective consciousness that most people need
 
 ### Internalized queerphobia can be unconscious
 
-Most queer people in the world have been programmed with some negative ideas and messages from society about queerness, gender, gender roles, mannerisms, and sexuality. This stuff is often so deeply wired that you can't even see it. But the sooner you can spot how you've been socialized with toxic ideas from misinformed people, the sooner we can let it go. [Watch this video](https://www.youtube.com/watch?v=98ApKUqb-RQ) to see someone beginning to notice and come to terms with their own unconscious queerphobias.
+We have been taught a lot of ideas and have been fed messages from society about queerness, gender, gender roles, and sexuality. We've been taught that gender is a binary and not a specturm. And, these ideas can be so deeply wired that you can't really see how you carry them around, and how they affect you. Discovering how you've been socialized with toxic ideas from misinformed people is the first step toward letting these ideas go and further embracing yourself and the people around you.
 
-## More about trauma
+## Healing your trauma
+
+### Assume you are traumatized
+
+> "We see gay men who have never been sexually or physically assaulted with similar post-traumatic stress symptoms to people who have been in combat situations or who have been raped."  
+> — Alex Keuroghlian, a psychiatrist at the Fenway Institute's Center for Population Research in LGBT Health.
+
+Emotional trauma is part of being alive. Every newborn has had to endure the trauma of separation from their parent. And then a lot of things happen after that. Parents unwittingly carry forward intergenerational wounds. Children are cruel to each other. We are damaged by our upbringing. And one challenge of adulthood is to get ourselves sorted out, to resolve our core dilemmas, to become whole again, to let go of the old childhood structures that hold us back as adults.
+
+Trauma isn't always obvious to ourselves. We numb. We make up stories to explain why we are how we are, and that it is permanent. We may even learn to love our trauma, in a way, because we identify so closely with it.
+
+Here's a suggestion: If you're queer, _assume you are traumatized_ and make healing an ongoing project in your life. Others may think it's self-indulgent, but it's not. When you put in the effort to improve yourself, you make more of yourself available to others. When you bring a better you to the world, everyone benefits.
+
+### Healing is possible
+
+> “You can be fully in charge of your life only if you can acknowledge the reality of your body, in all its visceral dimensions.”  
+> — Bessel van der Kolk, “The Body Keeps the Score”
+
+The good news: It _is_ possible to heal trauma and triggers! We know a lot more about it than we did even ten years ago, and new tools are opening up possibilities foe deep healing.
+
+The bad news: It's a long and sometimes bumpy journey. Everyone's path through healing trauma is different. Some people have a history of traumas with a lowercase t. Some have Traumas with a capital T. A few lowercase-t traumas spread out throughout childhood can be more debilitating than one capital-T trauma. It's possible to heal many kinds of trauma.
+
+Below is a list of trauma healing tools. Start anywhere that feels like it might be compelling. Don't give up on an approach if you're not seeing immediate results. It takes time for some of these approaches to really be effective.
 
 ### DIY trauma workbooks
 [The Complex PTSD Workbook](https://www.amazon.com/Complex-PTSD-Workbook-Mind-Body-Regaining/dp/1623158249)  
@@ -161,19 +162,19 @@ Most queer people in the world have been programmed with some negative ideas and
 [Trauma & Recovery](https://www.amazon.com/Trauma-Recovery-Aftermath-Violence-Political/dp/0465087302) — great book about the nature of trauma
 
 ### Movies to Watch
-[The Work](https://en.wikipedia.org/wiki/The_Work_(film)), about trauma release inside Folsom prison
+[The Work](https://en.wikipedia.org/wiki/The_Work_(film)) is a film about a trauma release group therapy program inside Folsom prison. It's very powerful.
 
-### Being a Helper
+### On Being a Helper
 As for being a helper or balancing the role of a helper, these books are fantastic when it comes to navigating your own trauma in relationship to a partner/family member/client/etc. Secondary trauma is real.
 
 [Trauma Stewardship](https://www.amazon.com/Trauma-Stewardship-Everyday-Caring-Others/dp/157675944X/ref=sr_1_1?ie=UTF8&qid=1542321862&sr=8-1&keywords=vicarious+trauma)  
 [Loving Someone with PTSD](https://www.amazon.com/Loving-Someone-PTSD-Understanding-Connecting/dp/1608827860)  
 [Help for the Helper](https://www.amazon.com/Help-Helper-Psychophysiology-Compassion-Professional/dp/039370422X)  
 
-## Top-down Healing
-By "top-down" we simply mean using cognitive approaches like psychotherapy or mindfulness meditation to heal trauma.
+### Healing from the mind outward
+How to use cognitive approaches like psychotherapy or mindfulness meditation to heal trauma.
 
-Group support sessions  
+Psychodynamic group therapy  
 Mindfulness Meditation — Insight Meditation & Vipassana retreats  
 [Organic Intelligence](https://organicintelligence.org/)  
 [Brainspotting](https://brainspotting.com/)  
@@ -181,7 +182,7 @@ Expressive arts eg. painting, photography, film and scriptwriting
 
 Therapy means so many things. There are many kinds of therapists. So, it's worth learning about various modalities (there are many) and talking to several therapists so that your work will be effective. With the wrong kind of therapy, it's easy to waste a lot of money. But the right kind of therapy is absolutely life changing and is worth every penny.
 
-### Eye Movement Desensitization and Reprocessing (EMDR) Therapy
+#### Eye Movement Desensitization and Reprocessing (EMDR) Therapy
 EMDR is used for healing trauma, depression, anxiety, addiction, and phobias. It is different from talk therapy. It uses eye movement (or sounds or vibrations). When you recall a traumatic memory while doing these calming eye movements, the memory gradually loses its charge.
 
 No one knows quite why it works, but the eye movement is similar to what happens during deep sleep. The theory is that trauma is stored in the part of the brain that isn't accessible via talking, so while talk therapy may feel good at the time, it doesn't always have a lasting impact. EMDR makes it possible to truly heal old trauma, sometimes in just a few sessions.
@@ -191,58 +192,13 @@ Book: [The Body Keeps the Score](https://www.amazon.com/Body-Keeps-Score-Healing
 [Parnell Institute](http://parnellemdr.com/) directory of EMDR therapists   
 Article: ["Does EMDR Work?"](https://www.theguardian.com/lifeandstyle/2018/sep/10/mel-b-is-watching-flashing-lights-to-help-with-trauma-but-does-emdr-therapy-really-work) (The Guardian, 2018)
 
-### Cognitive Behavioral Therapy (CBT)
+#### Cognitive Behavioral Therapy (CBT)
 Aside from EMDR, Cognitive Behavioral Therapy has been shown to help with trauma release. It is a more traditional talk-centered approach that aims to rewrite the underlying beliefs that lead to depression and anxiety.
 
 App: [Sanvello](https://www.sanvello.com/) is an app that helps you relieve symptoms of stress, anxiety, and depression  
 App: [Woebot](https://apps.apple.com/gb/app/woebot-your-self-care-expert/id1305375832) is a self-care bot that helps with anxiety and depression using CBT techniques  
 Video: [Feeling Good](https://www.youtube.com/watch?v=H1T5uMeYv9Q) TED talk by CBT practitioner David Burns  
 Book: [Feeling Good](https://www.amazon.com/dp/B009UW5X4C) very popular book that has helped a lot of people with mood disorders, by David Burns
-
-### Psychedelic and psychoactive drugs
-There’s strong evidence that drugs like MDMA (ecstacy/molly), psychedelic mushrooms, ayahuasca, and LSD, when used in therapy or with a guide, are among the fastest and most effective treatments for complex PTSD. Yes, they come with risks. This is an area of ongoing exploration and recent experimentation, with the FDA currently in stage 3 trials of MDMA-assisted psychotherapy. If all goes as expected, MDMA will become legal for trauma therapy in several countries by 2021.
-
-[MAPS](https://maps.org/) &mdash; Multidisciplinary Association for Psychedelic Studies  
-[Psychedelic Integration](https://integration.maps.org/) &mdash; MAPS directory of therapists who help people integrate a psychedelic experience  
-
-Book: [How to Change Your Mind](https://www.amazon.com/dp/B076GPJXWZ) by Michael Pollan  
-Book: [Trust Surrender Receive: How MDMA Can Release Us From Trauma and PTSD](https://www.amazon.com/Trust-Surrender-Receive-Release-Trauma/dp/1619617382) by Anne Other  
-Book: [The Wild Kindness: A Psilocybin Odyssey](https://www.amazon.com/gp/product/1948340313) by Bett Williams
-Video: [The future of psychedelic-assisted psychotherapy](https://www.ted.com/talks/rick_doblin_the_future_of_psychedelic_assisted_psychotherapy) TED talk by Rick Doblin, head of MAPS  
-Movie: [MDMA: The Movie](https://mdmathemovie.com/)  
-Movie: [Trip of Compassion](https://vimeo.com/ondemand/tripofcompassion), about MDMA trials in Israel for trauma release  
-
-#### Integration
-
-> "You are here. You survived. And regardless of any mistakes you may have made along the way,
-> you've been given the gift of the present moment to begin again and to continue on consciously.
-> So make the most of it and live in a way that makes your younger self proud." – Nelia Torkian
-
-When you have a powerful psychedelic experience, it's helpful to process the experience afterwards in order to integrate what you learned into your life. These experiences can bring up so much material and it can take a while to sort through it all and really get the benefit.
-
-Article: [How To Integrate a Psychedelic Experience](https://medium.com/@atheberge/how-to-integrate-a-psychedelic-experience-600704d8792a)  
-Article: [Intention Setting and Integration: How to Make the Most of a Psychedelic Expereince](https://psychedelictimes.com/intention-setting-and-integration-how-to-make-the-most-of-a-psychedelic-experience/)  
-Article: [Integration Tips](https://erowid.org/psychoactives/basics/basics_article2.shtml)  
-Article: [The Importance of Integrating a Psychedelic Experience](https://www.samwoolfe.com/2018/08/the-importance-of-integrating-the-psychedelic-experience.html)  
-
-### Neurofeedback
-Neurofeedback uses EEG monitoring to improve brain functioning as you learn to alter your brain activity. By using computer imaging, you receive direct feedback through a “brain map” that indicates areas of your brain with excessive activity associated with PTSD, such as your fear center. Here you learn how to relax your body and mind to activate the outermost layer of your brain; that which is associated with thinking and decision-making. Typically, 20 sessions will give you enough feedback to understand how to facilitate regulation of your body and mind on your own.
-
-Note: Current research does not support conclusive resultes about the efficacy of neurofeedback.  
-
-Article: [The weird science of neurofeedback](https://www.theverge.com/2013/4/18/4226506/can-you-train-your-brain-to-heal-your-health)   
-
-### Drawing
-In the act of drawing, the patient makes an initial reorganisation of the form of the trauma, and begins to differentiate the adaptive ego, which has the tools and the ability to restructure the experiences, and the traumatic emotional part that suffers those experiences in a condition of impotence and passivity. The person may rapidly access pre-verbal and motor-sensory language, activating inborn creative skills. The use of this tool enables us to access the traumatic material gently, limiting dissociative reactions, bypassing avoidance and flight behaviour and setting a distance from pain by objectivizing. A protective space is created between the self and the part that holds the suffering. A voice to the inner child. The patient is offered the possibility of drawing what is occurring in the self's here and now, and given a choice of different graphic materials. At the end of the drawing and assessment phase the person is asked to note what has emerged, and a brief space of time may be allowed for description without interpretation.
-
-### Social healing
-Good relationships are key to healing trauma.
-
-Queer community sports   
-Social Cooking  
-Dinners with queer family  
-Building a circle of trust  
-Creative writing and journaling  
 
 ### Reduced-rate therapy
 Can't afford a therapist right now? There are many ways to get free therapy, so don't give up the search. You can go to a training clinic at a university, for a reduced rate. If you're in the US, you may be able to use Medicaid. Call [SAMHSA](https://findtreatment.samhsa.gov/) at 800.662.4357 to speak with someone, confidentially, who can help you find options.
@@ -302,8 +258,63 @@ All of the people listed below have offered free media online that can help you.
 [Eckhart Tolle](https://www.eckharttolle.com/) ([videos](https://www.youtube.com/channel/UCj9fPezLH1HUh7mSo-tB1Mg))  
 [Sri Prem Baba](https://www.sriprembaba.org/en/)  
 
+#### Neurofeedback
+Neurofeedback uses EEG monitoring to improve brain functioning as you learn to alter your brain activity. By using computer imaging, you receive direct feedback through a “brain map” that indicates areas of your brain with excessive activity associated with PTSD, such as your fear center. Here you learn how to relax your body and mind to activate the outermost layer of your brain; that which is associated with thinking and decision-making. Typically, 20 sessions will give you enough feedback to understand how to facilitate regulation of your body and mind on your own.
 
-## Bottom-up Healing
+Note: Current research does not support conclusive resultes about the efficacy of neurofeedback.  
+
+Article: [The weird science of neurofeedback](https://www.theverge.com/2013/4/18/4226506/can-you-train-your-brain-to-heal-your-health)   
+
+#### Psychedelic and psychoactive drugs
+There’s strong evidence that drugs like MDMA (ecstacy/molly), psychedelic mushrooms, ayahuasca, and LSD, when used in therapy or with a guide, are among the fastest and most effective treatments for complex PTSD. Yes, they come with risks. This is an area of ongoing exploration and recent experimentation, with the FDA currently in stage 3 trials of MDMA-assisted psychotherapy. If all goes as expected, MDMA will become legal for trauma therapy in several countries by 2021.
+
+[MAPS](https://maps.org/) &mdash; Multidisciplinary Association for Psychedelic Studies  
+[Psychedelic Integration](https://integration.maps.org/) &mdash; MAPS directory of therapists who help people integrate a psychedelic experience  
+
+Book: [How to Change Your Mind](https://www.amazon.com/dp/B076GPJXWZ) by Michael Pollan  
+Book: [Trust Surrender Receive: How MDMA Can Release Us From Trauma and PTSD](https://www.amazon.com/Trust-Surrender-Receive-Release-Trauma/dp/1619617382) by Anne Other  
+Book: [The Wild Kindness: A Psilocybin Odyssey](https://www.amazon.com/gp/product/1948340313) by Bett Williams
+Video: [The future of psychedelic-assisted psychotherapy](https://www.ted.com/talks/rick_doblin_the_future_of_psychedelic_assisted_psychotherapy) TED talk by Rick Doblin, head of MAPS  
+Movie: [MDMA: The Movie](https://mdmathemovie.com/)  
+Movie: [Trip of Compassion](https://vimeo.com/ondemand/tripofcompassion), about MDMA trials in Israel for trauma release  
+
+### Integration
+
+> "You are here. You survived. And regardless of any mistakes you may have made along the way,
+> you've been given the gift of the present moment to begin again and to continue on consciously.
+> So make the most of it and live in a way that makes your younger self proud." – Nelia Torkian
+
+When you have a powerful trauma healing experience, it's helpful to process the experience afterwards in order to integrate what you learned into your life. These experiences can bring up so much material and it can take a while to sort through it all and really get the benefit.
+
+Integration is as simple as journaling, going on a hike, having a slow cup of tea, 
+
+Article: [How To Integrate a Psychedelic Experience](https://medium.com/@atheberge/how-to-integrate-a-psychedelic-experience-600704d8792a)  
+Article: [Intention Setting and Integration: How to Make the Most of a Psychedelic Expereince](https://psychedelictimes.com/intention-setting-and-integration-how-to-make-the-most-of-a-psychedelic-experience/)  
+Article: [Integration Tips](https://erowid.org/psychoactives/basics/basics_article2.shtml)  
+Article: [The Importance of Integrating a Psychedelic Experience](https://www.samwoolfe.com/2018/08/the-importance-of-integrating-the-psychedelic-experience.html)  
+
+#### Drawing
+
+In the act of drawing, the patient makes an initial reorganisation of the form of the trauma, and begins to differentiate the adaptive ego, which has the tools and the ability to restructure the experiences, and the traumatic emotional part that suffers those experiences in a condition of impotence and passivity. The person may rapidly access pre-verbal and motor-sensory language, activating inborn creative skills. The use of this tool enables us to access the traumatic material gently, limiting dissociative reactions, bypassing avoidance and flight behaviour and setting a distance from pain by objectivizing. A protective space is created between the self and the part that holds the suffering. A voice to the inner child. The patient is offered the possibility of drawing what is occurring in the self's here and now, and given a choice of different graphic materials. At the end of the drawing and assessment phase the person is asked to note what has emerged, and a brief space of time may be allowed for description without interpretation.
+
+#### Take care of plants
+
+A cursory look at #boyswithplants on Instagram will show that queers and plants have always been in a symbiotic relationship. If you aren't taking care of a plant, get one plant. If you have one and are successfully taking care of it, get another. If you keep killing plants, keep getting more plants and trying not to kill them. And they're cheap af—often free.
+
+Why is this self-care? Because taking care of another helps you take care of yourself. A plant will force some stability in your schedule and your living situation, and stability is a foundation of self-care. Plants require you to slow down to Plant Time. To follow the rhythm of another creature, one that moves slowly and does one thing very well. What can you learn from that?
+
+Plants will make your home feel cozier and more inviting. Only plants can fill a space with such beautiful shapes, colors, and life energy. Plants are affordable elegance.
+
+#### Social healing
+Good relationships are key to healing trauma.
+
+Queer community sports   
+Social Cooking  
+Dinners with queer family  
+Building a circle of trust  
+Creative writing and journaling  
+
+### Bottom-up Healing
 The bottom-up approach starts with the idea that trauma is stored in the body, for example as tension or sterss in the belly, shoulders, neck, jaw, chest, etc. Advocates for bottom-up therapy say that if we reduce stress in the body, our emotions will follow suit and improve.
 
 Article: [Reiki, Tantra, and the Healing Power of Touch](http://blog.lighthouse.lgbt/reiki-tantra-healing-power-touch-queer-community-can-benefit/)  
@@ -318,7 +329,7 @@ Ecstatic dance
 Treating yourself to a local spa / sauna / massage / steam room  
 Tai Chi, Qi Gong, or other body / movement practices  
 
-### Yoga
+#### Yoga
 Yoga is a huge world and there are so many styles that are different from each other. Some deeply spiritual, some that feel like an exercise class. Some are fast and sweaty and hot, and others are slow and deliberate and restorative. Every body needs something different. Here are a few yoga styles:
 
 [Trauma Sensitive Yoga](https://www.traumasensitiveyoga.com/)  
@@ -326,7 +337,7 @@ Video: [Yin Yoga](https://www.youtube.com/watch?v=IK9k5y_47cA) for deep emotiona
 YouTube Channel: [aad yog](https://www.youtube.com/channel/UCn2ZwNbSE0QGWoT4ESc7JmA) is an ancient form of yoga without alteration and adulteration  
 Video: [Qi Gong](https://www.youtube.com/watch?v=5NHZdqEzAtE&feature=youtu.be) — a 30 minute yogic qi gong routine with instruction  
 
-### Breath Work and Cold Exposure
+#### Breath Work and Cold Exposure
 It seems so simple but breath work and cold exposure can be very powerful for healing. For example, reducing inflammation via cold exposure can be incredibly helpful for depression.
 
 [Max Strom / Breathe to Heal](https://breathetoheal.maxstrom.com/)  
@@ -334,19 +345,19 @@ It seems so simple but breath work and cold exposure can be very powerful for he
 [Holotropic Breathwork](http://www.holotropic.com), created by Stan Grof as a way of experiencing non-ordinary states of consciousness through breathing  
 [Biodynamic Breathwork](https://www.biodynamicbreath.com/)
 
-### Somatic Experiencing
+#### Somatic Experiencing
 Somatic Experiencing is a body-oriented approach to trauma healing. It attempts to promote body awareness and release the residual physical tension that remains in the aftermath of trauma. It is sometimes used in conjunction with EMDR or other modalities.
 
 [Somatic Experiencing Trauma Institute](https://traumahealing.org/) directory of SE therapists  
 Book: [Waking the Tiger](https://www.amazon.com/Waking-Tiger-Healing-Peter-Levine/dp/155643233X/ref=pd_sbs_14_7?_encoding=UTF8&pd_rd_i=155643233X&pd_rd_r=c2da41bd-7da5-11e9-9473-d5397df71b98&pd_rd_w=E4tiC&pd_rd_wg=fpQ9D&pf_rd_p=588939de-d3f8-42f1-a3d8-d556eae5797d&pf_rd_r=SMTW2FW4RM80CGJVQ1D5&psc=1&refRID=SMTW2FW4RM80CGJVQ1D5) by Peter Levine, creator of SE  
 Book: [In An Unspoken Voice](https://www.amazon.com/Unspoken-Voice-Releases-Restores-Goodness/dp/1556439431/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=1556439431&pd_rd_r=XZECHX8BCPBDP7EYXV8P&pd_rd_w=WJCAo&pd_rd_wg=jBCzT&psc=1&refRID=XZECHX8BCPBDP7EYXV8P) by Peter Levine  
 
-### Ketogenic diet
+#### Ketogenic diet
 Could be promising for PTSD, but there's not a whole lot of research here.  
 [PTSD UK](https://www.ptsduk.org/ketogenic-diet/) | [Reddit](https://www.reddit.com/r/keto/comments/8r02yz/my_psychiatrist_recommended_keto_to_help_control/)  
 Either way, it seems [good for the brain](https://www.psychologytoday.com/us/blog/diagnosis-diet/201706/ketogenic-diets-psychiatric-disorders-new-2017-review).
 
-### Spiritual Sex
+#### Spiritual Sex
 Of course, having sex is fun. But sexuality also has a spiritual component for those who are willing to explore it. It can be very healing, can help you develop self-acceptance and validation of your body. It can help you _be_ in your body more fully.
 
 Activity: [Sensate Focus](https://health.cornell.edu/sites/health/files/pdf-library/sensate-focus.pdf) is a way of experiencing touch in a non-goal-directed way (not trying to have an orgasm) that is focused on the experience and sensations, rather than on evaluation. It allows people to practice intimacy by thinking less, and feeling more.
@@ -354,8 +365,7 @@ Activity: [Sensate Focus](https://health.cornell.edu/sites/health/files/pdf-libr
 Video: [Sacred Masturbation 101](https://www.youtube.com/watch?v=fIdbyeydGvc)  
 Video: [Healthy Sexuality](https://www.youtube.com/watch?v=lE8wJ79eZ3s)  
 
-
-## Self-care PRO TIPS!!
+## Self care
 
 "Yoga," they said. "You should do some yoga it will be great."  
 Whatever. I have better things to do.  
@@ -394,14 +404,6 @@ What products should you buy for this? [/r/skincareaddiction](https://www.reddit
 In fact, a lot of self-care comes down to listening to yourself in ways you may not be accustomed to, and simply responding to what you ntoice.
 
 If you want to get really fancy, [determine your skin type](https://theacidqueenblog.com/2016/06/23/skin-types-proclivities-and-conditions/).
-
-### Take care of plants
-
-A cursory look at #boyswithplants on Instagram will show that queers and plants have always been in a symbiotic relationship. If you aren't taking care of a plant, get one plant. If you have one and are successfully taking care of it, get another. If you keep killing plants, keep getting more plants and trying not to kill them. And they're cheap af—often free.
-
-Why is this self-care? Because taking care of another helps you take care of yourself. A plant will force some stability in your schedule and your living situation, and stability is a foundation of self-care. Plants require you to slow down to Plant Time. To follow the rhythm of another creature, one that moves slowly and does one thing very well. What can you learn from that?
-
-Plants will make your home feel cozier and more inviting. Only plants can fill a space with such beautiful shapes, colors, and life energy. Plants are affordable elegance.
 
 ### Good feels, motivation, and inspiration
 Bring in regular motivation and reminders for self-care:
@@ -456,6 +458,9 @@ Outside the US:
 [Healthcare of the Transgender Patient](https://drive.google.com/drive/folders/112o11ykp0H-8tU_SbIToT1aZwL6LCK0S) lecture notes by [Dr. William Powers](http://PowersFamilyMedicine.com)
 
 ### GRS/SRS
+
+#### Post-surgery
+* Hyperbaric oxygen therapy (HBOT) can help speed the healing of scars and tissue damage from GRS.
 
 ### Voice
 [Shortcut to female voice](http://lena.kiev.ua/voice/) guide for MtF
@@ -517,7 +522,6 @@ Shop: [all is fair in love and wear](https://www.allisfairinloveandwear.com/)
 Cleve Jones - When We Rise  
 James Baldwin - Giovanni’s Room  
 Jack Halberstam - Female Masculinity  
-
 
 ## Falling in love
 
