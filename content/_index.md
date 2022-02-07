@@ -537,7 +537,7 @@ Video: [Marshall Rosenburg NVC Workshop](https://www.youtube.com/watch?v=l7TONau
 
 Learning about attachment theory, and your attachment style, will help you answer some questions about how you show up to relationships and give you some tools to work on yourself so you can connect more deeply with others and be stable for them.
 
-Zine: [Queer Attachment: An Anti-Oppression Toolkit for Relational Healing](https://liberationandmedicine.wordpress.com/2019/12/12/queer-attachment-an-anti-oppression-toolkit-for-relational-healing/)
+Zine: [Queer Attachment: An Anti-Oppression Toolkit for Relational Healing](https://liberationandmedicine.wordpress.com/2019/12/12/queer-attachment-an-anti-oppression-toolkit-for-relational-healing/)  
 Blog post: [The Opposite of Rape Culture is Nurturance Culture](https://norasamaran.com/2016/02/11/the-opposite-of-rape-culture-is-nurturance-culture-2/)  
 Book: [Hold Me Tight: Seven Conversations for a Lifetime of Love](https://www.amazon.com/Hold-Me-Tight-Conversations-Lifetime-ebook/dp/B0011UGLQK/)  
 Book: [Turn This World Inside Out: The Emergence of Nurturance Culture](https://www.amazon.com/Turn-This-World-Inside-Out/dp/1849353581) by Nora Samaran
