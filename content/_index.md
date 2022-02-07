@@ -263,7 +263,8 @@ Neurofeedback uses EEG monitoring to improve brain functioning as you learn to a
 
 Note: Current research does not support conclusive resultes about the efficacy of neurofeedback.  
 
-Article: [The weird science of neurofeedback](https://www.theverge.com/2013/4/18/4226506/can-you-train-your-brain-to-heal-your-health)   
+Article: [Can Monitoring Brain Waves Boost Mental Health?](https://www.nytimes.com/2022/01/12/well/mind/neurofeedback-therapy-mental-health.html) (The New York Times, January 12, 2022)  
+Article: [Psychotherapy never cleared my ‘brain fog’ and mental health woes. So I tried neurofeedback.](https://www.washingtonpost.com/health/neurofeedback-brain-fog-mental-health/2021/09/17/d05e849a-e4e4-11eb-8aa5-5662858b696e_story.html) (Washington Post, September 18, 2021)  
 
 #### Psychedelic and psychoactive drugs
 There’s strong evidence that drugs like MDMA (ecstacy/molly), psychedelic mushrooms, ayahuasca, and LSD, when used in therapy or with a guide, are among the fastest and most effective treatments for complex PTSD. Yes, they come with risks. This is an area of ongoing exploration and recent experimentation, with the FDA currently in stage 3 trials of MDMA-assisted psychotherapy. If all goes as expected, MDMA will become legal for trauma therapy in several countries by 2021.
