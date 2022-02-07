@@ -4,11 +4,7 @@ title: LGBT Crisis Resources
 
 ## Are you in crisis?
 
-Many people have been through times that feel like the end.
-Where it seems like nothing will get better, ever.
-And when they come to the other side of it, they don't even 
-
-If so, people want to help you. Whether you are scared for your own safety or just feeling lonely and you want someone to text with, you can reach out any time day or night. There may also be local hotlines in your region or city.
+People want to help you. Whether you are scared for your own safety or just feeling lonely and you want someone to text with, you can reach out any time day or night. There may also be local hotlines in your region or city.
 
 🇺🇸 [LGBT National Hotline](https://www.glbthotline.org/) [888.843.4564](+18888434564)  
 🇺🇸 [National Suicide Hotline](https://suicidepreventionlifeline.org/chat/) (24-hours) [800.273.8255](tel:+18002738255) or [chat with them](https://suicidepreventionlifeline.org/chat/)  
