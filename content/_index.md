@@ -537,6 +537,7 @@ Video: [Marshall Rosenburg NVC Workshop](https://www.youtube.com/watch?v=l7TONau
 
 Learning about attachment theory, and your attachment style, will help you answer some questions about how you show up to relationships and give you some tools to work on yourself so you can connect more deeply with others and be stable for them.
 
+Zine: [Queer Attachment: An Anti-Oppression Toolkit for Relational Healing](https://liberationandmedicine.wordpress.com/2019/12/12/queer-attachment-an-anti-oppression-toolkit-for-relational-healing/)
 Blog post: [The Opposite of Rape Culture is Nurturance Culture](https://norasamaran.com/2016/02/11/the-opposite-of-rape-culture-is-nurturance-culture-2/)  
 Book: [Hold Me Tight: Seven Conversations for a Lifetime of Love](https://www.amazon.com/Hold-Me-Tight-Conversations-Lifetime-ebook/dp/B0011UGLQK/)  
 Book: [Turn This World Inside Out: The Emergence of Nurturance Culture](https://www.amazon.com/Turn-This-World-Inside-Out/dp/1849353581) by Nora Samaran
@@ -624,7 +625,7 @@ It's important to know what the red flags are. The lines that should never be cr
 
 Read more at [Is This Abuse?](https://www.thehotline.org/is-this-abuse/)
 
-Even if you can see all the clear warning signs of an abuser, it can be hard to say no!Maybe you don’t want to hurt their feelings, or you’re afraid they’ll get angry. If you're in the US, reach out to the [National Domestic Violence Hotline](http://thehotline.org/) for support.  If you are afraid your internet usage might be monitored, call them at 800.799.7233 or TTY 800.787.3224.
+Even if you can see all the clear warning signs of an abuser, it can be hard to say no! Maybe you don’t want to hurt their feelings, or you’re afraid they’ll get angry. If you're in the US, reach out to the [National Domestic Violence Hotline](http://thehotline.org/) for support.  If you are afraid your internet usage might be monitored, call them at 800.799.7233 or TTY 800.787.3224.
 
 #### How to leave a toxic relationship
 
@@ -640,7 +641,8 @@ Staying with them in an abusive relationship supports the wrong impulses and int
 
 Bring the tissues, you're gonna need em.
 
-[Trembling Before G-d](https://en.wikipedia.org/wiki/Trembling_Before_G-d), a 2001 American documentary film about gay and lesbian Orthodox Jews trying to reconcile their sexuality with their faith.  
+[Trembling Before G-d (2001)](https://en.wikipedia.org/wiki/Trembling_Before_G-d), an American documentary film about gay and lesbian Orthodox Jews trying to reconcile their sexuality with their faith.  
 [Moonlight (2016)](https://www.imdb.com/title/tt4975722/) portrays the twin oppression of being black and queer in America.  
 [Paris is Burning (1990)](https://en.wikipedia.org/wiki/Paris_Is_Burning_(film)) an amazing chronicle of ball culture and vogueing in NYC in the 1980s  
-
+[Love, Simon (2018)](https://en.wikipedia.org/wiki/Love,_Simon)
+[The Wise Kids (2011)](https://en.wikipedia.org/wiki/The_Wise_Kids) follows a group of young members of a South Carolina Baptist church as they confront issues of homosexuality and a crisis of faith.
