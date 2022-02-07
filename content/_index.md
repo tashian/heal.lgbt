@@ -546,13 +546,22 @@ Book: [Turn This World Inside Out: The Emergence of Nurturance Culture](https://
 
 As things are getting more serious, it's good to move into topical areas that a lot of people avoid, so you can get all the good (and uncomfortable) stuff out into the open.
 
-Don't wait until you're moving in together or committing really deeply to each other, talk about these things early: money, sex, partnerships, kinks, traumas, etc.
+Don't wait until you're moving in together or committing really deeply to each other, start talking about these things early: money, sex, partnerships, kinks, traumas, etc.
 
 Resource: [84 Questions to Ask Your Partner About Money](https://www.youneedabudget.com/84-questions-to-ask-your-partner-about-money/)
 
+### Consent
+
+Every relationship encounters challenges of consent and boundaries.
+Building a strong consent practice is a skill that will serve you well for your entire life.
+
+Book: [The Art of Receiving and Giving: The Wheel of Consent](https://www.amazon.com/Art-Receiving-Giving-Wheel-Consent/dp/1643883089) by Betty Martin and Robyn Dalzen  
+Videos: [Betty Martin, lessons on consent](https://bettymartin.org/videos/)
+Resource: [Mia Schachter](https://sharetheloadinc.com) offers an integrative, mind-body, non-binary approach with their online courses on boundaries and consent  
+
 ### Use the Gottman Model
 
-**In the [Gottman Model](https://checkup.gottman.com/assets/handouts/Sound%20Relationship%20House%20Flyer-ac63ee5feac2a6c548681939d064b3fe4bfc94d6eefcf0fd2553782c633e04b8.pdf), the sound relationship is like a house built from trust and commitment.**
+In the [Gottman Model](https://checkup.gottman.com/assets/handouts/Sound%20Relationship%20House%20Flyer-ac63ee5feac2a6c548681939d064b3fe4bfc94d6eefcf0fd2553782c633e04b8.pdf), the sound relationship is like a house built from trust and commitment. Many therapists have adopted this model for couples therapy.
 
 This section is an excerpt from [the Gottman Institute](https://www.gottman.com/)'s resource about healthy relationships. If you like it, you may enjoy their book ["Eight Dates: Essential Conversations for a Lifetime of Love"](https://www.amazon.com/gp/product/1523504463/).
 
