@@ -8,7 +8,8 @@ People want to help you. Whether you are scared for your own safety or just feel
 
 🇺🇸 [LGBT National Hotline](https://www.glbthotline.org/) [888.843.4564](+18888434564)  
 🇺🇸 [National Suicide Hotline](https://suicidepreventionlifeline.org/chat/) (24-hours) [800.273.8255](tel:+18002738255) or [chat with them](https://suicidepreventionlifeline.org/chat/)  
-🌏 [List of suicide crisis lines](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines)
+🇺🇸 [THRIVE Lifeline](https://thrivelifeline.org/index.html) (24-hours) Text "THRIVE" to [313.662.8209](tel:+13136628209)
+🌏 [List of suicide crisis lines](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines)  
 
 ### Under 24?
 🇺🇸 [Trevor](https://www.thetrevorproject.org/) Lifeline [866.488.7386](tel:+18664887386)  
@@ -26,7 +27,7 @@ Here's a list of [LGBT community centers](https://www.lgbtcenters.org/LgbtCenter
 
 ### Trans* & Genderqueer
 [Trans LifeLine](http://www.translifeline.org/)  
-🇺🇸 [877.565.8860](tel:+18775658860)
+🇺🇸 [877.565.8860](tel:+18775658860)  
 🇨🇦 [877.330.6366](tel:+18773306366)
 
 ### Seniors
