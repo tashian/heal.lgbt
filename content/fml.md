@@ -42,6 +42,8 @@ Are you hurting?
 [Alternatives to cutting and self-harm](https://www.glbthotline.org/self-harm-prevention.html#professional)  
 [Self-harm prevention workbook](https://www.glbthotline.org/self-harm-prevention.html)
 
+[NAMI HelpLine](https://nami.org/help) is for anyone navigating mental health challenges
+
 ### Domestic Violence
 
 🇺🇸 [National Domestic Violence Hotline](https://www.thehotline.org/is-this-abuse/) [800.799.SAFE](tel:+18007997233)

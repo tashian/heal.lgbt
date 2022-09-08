@@ -159,10 +159,17 @@ Below is a list of trauma healing tools. Start anywhere that feels like it might
 [The Complex PTSD Workbook](https://www.amazon.com/Complex-PTSD-Workbook-Mind-Body-Regaining/dp/1623158249)  
 [Complex PTSD: From Surviving to Thriving](https://www.amazon.com/dp/B00HJBMDXK/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)  
 [Trauma Survivors Strategies for Healing](https://www.amazon.com/Trauma-Survivors-Strategies-Healing-Workbook/dp/1641521333)  
-[Trauma & Recovery](https://www.amazon.com/Trauma-Recovery-Aftermath-Violence-Political/dp/0465087302) — great book about the nature of trauma
+[Trauma & Recovery](https://www.amazon.com/Trauma-Recovery-Aftermath-Violence-Political/dp/0465087302) — great book about the nature of trauma  
+[CPTSD: From Surviving to Thriving](https://www.amazon.com/Complex-PTSD-Surviving-RECOVERING-CHILDHOOD/dp/1492871842)  
 
 ### Movies to Watch
-[The Work](https://en.wikipedia.org/wiki/The_Work_(film)) is a film about a trauma release group therapy program inside Folsom prison. It's very powerful.
+[The Wisdom of Trauma](https://thewisdomoftrauma.com/) — How our deepest pain can be a doorway to healing.  
+[The Work](https://en.wikipedia.org/wiki/The_Work_(film)) is a film about a trauma release group therapy program inside Folsom prison. It's very powerful.  
+
+### General Trauma Resources
+[Trauma Research Foundation](https://traumaresearchfoundation.org/) is a community of researchers and clinicians who are committed to developing innovative methods for the treatment of people of all ages who have experienced trauma.  
+YouTube: [TRF Tuesday](https://www.youtube.com/c/TraumaResearchFoundation/videos) from Trauma Research Foundation  
+YouTube: [Crappy Childhood Fairy](https://www.youtube.com/c/CrappyChildhoodFairy)   
 
 ### On Being a Helper
 As for being a helper or balancing the role of a helper, these books are fantastic when it comes to navigating your own trauma in relationship to a partner/family member/client/etc. Secondary trauma is real.
@@ -170,6 +177,7 @@ As for being a helper or balancing the role of a helper, these books are fantast
 [Trauma Stewardship](https://www.amazon.com/Trauma-Stewardship-Everyday-Caring-Others/dp/157675944X/ref=sr_1_1?ie=UTF8&qid=1542321862&sr=8-1&keywords=vicarious+trauma)  
 [Loving Someone with PTSD](https://www.amazon.com/Loving-Someone-PTSD-Understanding-Connecting/dp/1608827860)  
 [Help for the Helper](https://www.amazon.com/Help-Helper-Psychophysiology-Compassion-Professional/dp/039370422X)  
+[National Alliance on Mental Illness (NAMI)](https://nami.org/Home) offers free peer-led family support groups for any adult with a loved one who has experienced symptoms of a mental health condition.  
 
 ### Healing from the mind outward
 How to use cognitive approaches like psychotherapy or mindfulness meditation to heal trauma.
@@ -230,6 +238,7 @@ Book: [Pray the Gay Away](https://www.amazon.com/Pray-Gay-Away-Extraordinary-Liv
 Film: [Believer](https://g.co/kgs/gJ4pe3) about the Mormon Church's inner struggle with LGBTQ rights, featuring Dan Reynolds of Imagine Dragons  
 Film: [Trembling Before G-d](https://en.wikipedia.org/wiki/Trembling_Before_G-d), a 2001 American documentary film about gay and lesbian Orthodox Jews trying to reconcile their sexuality with their faith.  
 [Affirmation](https://affirmation.org/), an independent organization supporting LGBTQ Mormons
+[Science and Nonduality](https://www.scienceandnonduality.com/) (SAND) encourages spirituality without religious dogma, bringing scientists together in dialog with spiritual teachers.
 
 ### Follow a Dead Teacher
 
