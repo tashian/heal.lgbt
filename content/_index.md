@@ -379,11 +379,10 @@ Video: [Healthy Sexuality](https://www.youtube.com/watch?v=lE8wJ79eZ3s)
 
 "Yoga," they said. "You should do some yoga it will be great."  
 Whatever. I have better things to do.  
-Not worth my time.  
-Downright silly.  
+That's a no from me.  
 "I'm not a yoga person," you say.  
 
-And then, when you finally get out of your own way and take a yoga class, you're like.. omg I feel so much better why didn't I do that all along?
+And then, when you finally get out of your own way and take a yoga class, you're like.. "omg I feel so much better why didn't I do that all along?"
 
 A lot of self-care can feel that way.
 
@@ -395,7 +394,10 @@ Self-care asks that we be present, stop running, come into our bodies and pay at
 
 So it's best to start simple. One day I decided to start making sure my feet were happy. I discovered that I had been buying size 12 shoes but my feet were actually size 13. So I bought some shoes that fit, for once. I started moisturizing my feet before bed. I got a little pumice stone and started to exfoliate them in the shower. I got cute colorful socks I liked. I started clipping my toenails a bit more often. And now I know that no matter what kind of crazy shit is going on in my life, my feet are taken care of.
 
-Self-care is a thousand tiny things that can elevate your mood and overall sense of wellbeing. None of them may seem particularly important, but they add up.
+Self-care is a thousand tiny things like this.
+A single self-care effort won't feel like much and may not seem important.
+But when combined, they become life changing.
+They elevate your mood and overall sense of wellbeing.
 
 ### Take care of your face
 
