@@ -6,7 +6,7 @@ title: LGBT Crisis Resources
 
 People want to help you. Whether you are scared for your own safety or just feeling lonely and you want someone to text with, you can reach out any time day or night. There may also be local hotlines in your region or city.
 
-🇺🇸 [LGBT National Hotline](https://www.glbthotline.org/) [888.843.4564](+18888434564)  
+🇺🇸 [LGBT National Hotline](https://www.glbthotline.org/) [888.843.4564](tel:+18888434564)  
 🇺🇸 [National Suicide Hotline](https://suicidepreventionlifeline.org/chat/) (24-hours) [800.273.8255](tel:+18002738255) or [chat with them](https://suicidepreventionlifeline.org/chat/)  
 🇺🇸 [THRIVE Lifeline](https://thrivelifeline.org/index.html) (24-hours) Text "THRIVE" to [313.662.8209](tel:+13136628209)  
 🌏 [List of suicide crisis lines](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines)  
