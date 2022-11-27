@@ -506,7 +506,7 @@ Shop: [all is fair in love and wear](https://www.allisfairinloveandwear.com/)
 * Don't bind if you have breast implants
 
 ## Legal Resources
-🇺🇸 [Lambda Legal](www.lambdalegal.org)  
+🇺🇸 [Lambda Legal](https://www.lambdalegal.org)  
 🇺🇸 [Transgender Law Center](http://www.transgenderlawcenter.org/)
 
 ## Media
