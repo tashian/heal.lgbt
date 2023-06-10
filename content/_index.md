@@ -347,8 +347,12 @@ Video: [Yin Yoga](https://www.youtube.com/watch?v=IK9k5y_47cA) for deep emotiona
 YouTube Channel: [aad yog](https://www.youtube.com/channel/UCn2ZwNbSE0QGWoT4ESc7JmA) is an ancient form of yoga without alteration and adulteration  
 Video: [Qi Gong](https://www.youtube.com/watch?v=5NHZdqEzAtE&feature=youtu.be) — a 30 minute yogic qi gong routine with instruction  
 
-#### Breath Work and Cold Exposure
-It seems so simple but breath work and cold exposure can be very powerful for healing. For example, reducing inflammation via cold exposure can be incredibly helpful for depression.
+#### Breath Work
+It seems so simple, but breath work can be very powerful for healing.
+
+4-4-8 Breathing: Take a breath in for four counts, hold your breath for four, and then exhale for eight counts. Repeat.
+
+Alternate Nostril Breathing: Close your right nostril and breathe in through your left side for a count of four. Now close your left nostril and breathe out from your right side for a count of four. Repeat.
 
 [Max Strom / Breathe to Heal](https://breathetoheal.maxstrom.com/)  
 [Wim Hof Method](https://www.wimhofmethod.com/) is about the healing power of cold and breath  
