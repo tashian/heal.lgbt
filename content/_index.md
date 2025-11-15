@@ -7,7 +7,7 @@ title: 🌈 heal.lgbt
 
 🏳️‍🌈 &nbsp;&nbsp;This is a resource guide for queer healing.  
 🧙 &nbsp;&nbsp;It's for everyone—especially queer people and those who love them.  
-🔥 &nbsp;&nbsp;To move from surviving, to thriving.  
+🔥 &nbsp;&nbsp;To move from surviving, to healing, to thriving.  
 🧒 &nbsp;&nbsp;To feel more at home with yourself.  
 💅 &nbsp;&nbsp;To learn to nurture yourself and others.  
 ❤️ &nbsp;&nbsp;To connect deeply with the people in your life.  
@@ -29,57 +29,75 @@ What does it mean to thrive as a queer person?
 
 To survive, you have to cope in the darkness.
 It's not an easy path at all, but it's the only one you know.
+Being in the closet can feel very lonely and alienating.
+Even once you're out, it may feel like no one around you understands.
+Either way, survival can feel like an isolated, me-against-the-world, experience.
 Along the way you build habits of survival:
 
 * habits of pushing down or numbing your pain;
 * habits of relating to the stress and anxiety you manufactured in order to navigate a scary world;
-* habits of relating to (or dissociating from) your own queer body;
+* habits of dissociating from your own body;
 * habits of relating to others through the fog of your own inner war;
 
-You build these because they are necessary.
+You built these habits because they were necessary.
+You can even thank your younger self for protecting you in this way.
 
 And as you move toward emotional safety and stability in your life,
-the survival habits start working against you.
+these survival habits start working against you.
 You struggle against their limitations.
 
 Eventually you discover that in order to thrive, you have to molt.
-You have to shed these habits that don't serve you anymore,
-and emerge into a new way of being.
+You have to shed these habits that don't serve you anymore.
+You may need to let go of toxic relationships that keep you stuck in survival mode.
+This is not easy.
+And, gradually, a new way of being emerges.
 A new self.
 
-On the journey of queer healing there are inflection points.
-Thresholds of liberation, where many new capacities open up.
-It can happen in an instant.
+Much of the time this is a day-to-day process.
+You celebrate small wins.
+You celebrate having enough self-awareness to try a new approach to an old habit.
+This is why "one day at a time" has become such a mantra in healing circles.
+
+And, yet, on the journey of queer healing there are inflection points.
+Thresholds of liberation, where many new capacities suddenly open.
+A spiritual breakthrough that happens in an instant.
 A thorn of queer trauma is finally, blessedly dislodged.
-And so much of what you thought you knew of yourself, and the world aroud you, changes immediately.
+And so much of what you thought you knew of yourself, and the world around you, flips on its head.
 It's a rebirth.
 
 All the energy that was required for you to push down and repress the pain now bursts forth,
-ready to be repurposed toward being alive in the present moment.
+ready to be repurposed.
 
-Learning to thrive is like learning a new language.
-Being at peace after so much war is jarring.
+Learning to heal is like learning a new language.
+There are trans people on this planet who weren't taught the word "transgender"
+until young adulthood or later, and when they learned this word,
+they wept with the joy and grief of recognition
+after years of struggling with something they had no word for.
+
+Learning what peace feels like after so much war can be jarring.
 At first it may seem too wholesome. Too healthy. Too serene and safe.
 Boring, even.
 
+You didn't make a habit of being yourself.
 You didn't make a habit of following your bliss.
 You didn't make a habit of facing each moment with wonder and curiosity and love.
 You made other habits.
-And sometimes you miss the war.
+And sometimes a part of you misses the war.
 Though it was horrific,
 there was something so reliable about the pain.
 It offered a stable point that you could focus on while living in the darkness.
+Something to push against.
 
 Now you can finally breathe,
 yet you also may feel unmoored.
 Floating.
 You're not trying to swim to the surface as hard as you can.
-You're not getting pummeled by waves every time you try to surface.
+You're not constantly pummeled by waves.
 Now you have a surfboard.
-You have the opportunity to ride on top of the wave,
+You have the opportunity to ride the wave,
 enjoy the blissful feeling of flow,
 the sun kissing your skin,
-the sweet air.
+the sweet smell of the ocean air.
 All the sweeter because of how much you fought for it.
 
 But you don't quite know how to surf yet.
@@ -90,17 +108,41 @@ You make new discoveries every day, and some of them really astound you.
 You learn how to love beyond what you were taught or knew was possible.
 You learn to live an integrated life, an untrammaled life.
 
-And as your cup continues to overflow, you create. You create new structures and forms for belonging, relationships, family, home, intimacy, resiliency, liberation, love, and peace.
+And as your cup continues to overflow, you create.
+You create new structures and forms for belonging,
+relationships,
+family,
+home,
+intimacy,
+resiliency,
+liberation,
+love, and peace.
 
 Because that's what queers do.
 
 ### Scope & Notes
 
-* This guide takes the long view on queer healing. It attempts to answer: What are the keys to a healthy life, and the foundations for ongoing growth and liberation, in the face of queer oppression?
-* The goal is to cover everything you need to thrive as a queer person: Coming out, making a home, dating, sex, queer family, mental and physical health, spirituality, being in your body, domestic practices, gender transitions, legal issues, financial planning, and, of course, queer interior design.
-* This guide is a broad collection of resources. It is designed to be practical, but it is not a substitute for therapist, or a financial planner, or an estate lawyer, or an interior designer... it's more like a concierge. May it get you where you need to go.
-* This guide uses the word "queer" and sometimes "LGBT" as shorthand for LGBTQIA*. Using the word "queer" within our community is a way of reclaiming what might be considered an insult and using it for empowerment. It's a clever reappropriation. And it's a nice word because it starts with Q, and that will get you a lot of points in Scrabble.
-* This is a work in progress, and it is village property. We hope you'll consider dropping some knowledge here. (See the [Contributor's Guide](https://github.com/tashian/heal.lgbt/blob/master/README.md) for details)
+* This guide takes the long view on queer healing and thriving.
+  It attempts to answer: What are the keys to a healthy life?
+  What are the foundations for ongoing growth and liberation,
+  in the face of queer oppression?
+* The goal is to cover everything you need to thrive as a queer person:
+  Coming out, making a home, dating, sex, queer family, mental and physical health,
+  spirituality, being in your body, domestic practices, gender transitions,
+  legal issues, financial planning, and, of course, queer interior design.
+* This guide is a broad collection of resources.
+  A smörgåsbord for you to pick and choose from.
+  We trust your intuition about what will be healing for you.
+* This guide uses the word "queer" and sometimes "LGBT" as shorthand for LGBTQIA*.
+  Using the word "queer" within our community is a way of reclaiming what was once an insult,
+  and using it for empowerment.
+  It's a clever reappropriation.
+  And it's a nice word because it starts with Q,
+  and that will get you a lot of points in Scrabble.
+* This is a work in progress,
+  and it is village property.
+  We hope you'll consider dropping some knowledge here.
+  (See the [Contributor's Guide](https://github.com/tashian/heal.lgbt/blob/master/README.md) for details)
 
 ## Crisis Resources
 
