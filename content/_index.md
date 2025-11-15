@@ -124,7 +124,7 @@ Coming out will, at some point, make someone around you feel uncomfortable. It's
 
 Queerphobia is so embedded in our collective consciousness that most people need time to discover the ways they have bought into and internalized society's phobias. This process of rewiring the phobias is a process of learning to celebrate and love parts of ourselves we were taught to hate, or to believe was unnatural, evil, against God, and so on.
 
-[HRC: Resource Guide to Coming Out](https://assets2.hrc.org/files/assets/resources/resource_guide_april_2014.pdf?_ga=2.126552526.2109471886.1562269796-438205338.1562269796) (PDF)   
+[HRC: Resource Guide to Coming Out](https://assets2.hrc.org/files/assets/resources/resource_guide_april_2014.pdf) (PDF)   
 [The Trevor Project: Coming Out As YOU](https://www.thetrevorproject.org/wp-content/uploads/2017/09/ComingOutAsYou.pdf) (PDF)  
 
 ### Internalized queerphobia can be unconscious
@@ -149,7 +149,7 @@ Here's a suggestion: If you're queer, _assume you are traumatized_ and make heal
 > “You can be fully in charge of your life only if you can acknowledge the reality of your body, in all its visceral dimensions.”  
 > — Bessel van der Kolk, “The Body Keeps the Score”
 
-The good news: It _is_ possible to heal trauma and triggers! We know a lot more about it than we did even ten years ago, and new tools are opening up possibilities foe deep healing.
+The good news: It _is_ possible to heal trauma and triggers! We know a lot more about it than we did even ten years ago, and new tools are opening up possibilities for deep healing.
 
 The bad news: It's a long and sometimes bumpy journey. Everyone's path through healing trauma is different. Some people have a history of traumas with a lowercase t. Some have Traumas with a capital T. A few lowercase-t traumas spread out throughout childhood can be more debilitating than one capital-T trauma. It's possible to heal many kinds of trauma.
 
@@ -276,7 +276,27 @@ Article: [Can Monitoring Brain Waves Boost Mental Health?](https://www.nytimes.c
 Article: [Psychotherapy never cleared my ‘brain fog’ and mental health woes. So I tried neurofeedback.](https://www.washingtonpost.com/health/neurofeedback-brain-fog-mental-health/2021/09/17/d05e849a-e4e4-11eb-8aa5-5662858b696e_story.html) (Washington Post, September 18, 2021)  
 
 #### Psychedelic and psychoactive drugs
-There’s strong evidence that drugs like MDMA (ecstacy/molly), psychedelic mushrooms, ayahuasca, and LSD, when used in therapy or with a guide, are among the fastest and most effective treatments for complex PTSD. Yes, they come with risks. This is an area of ongoing exploration and recent experimentation, with the FDA currently in stage 3 trials of MDMA-assisted psychotherapy. If all goes as expected, MDMA will become legal for trauma therapy in several countries by 2021.
+There's strong evidence that drugs like MDMA (ecstacy/molly), psychedelic mushrooms, ayahuasca, and LSD, when used in therapy or with a guide, are among the fastest and most effective treatments for complex PTSD. Yes, they come with risks. This is an area of ongoing exploration and research. In August 2024, the FDA declined to approve MDMA-assisted therapy for PTSD, requesting additional Phase 3 clinical trials to further establish safety and efficacy. While this represented a setback, research continues and MDMA therapy may still become available in the future pending further study.
+
+##### Ketamine-Assisted Therapy (KAT)
+
+Ketamine-Assisted Therapy is currently one of the most accessible medicine-assisted therapies for trauma, depression, and PTSD. Unlike classical psychedelics (psilocybin, LSD) or entactogens (MDMA), ketamine is a **dissociative anesthetic** that works through different neurological mechanisms.
+
+**How KAT differs from other psychedelics:**
+
+- **MDMA** works primarily on serotonin, dopamine, and oxytocin systems, creating feelings of empathy, safety, and connection. It's particularly effective for processing traumatic memories in a state of reduced fear. Currently not FDA-approved and harder to access legally.
+
+- **Psilocybin** (magic mushrooms) and **LSD** are classical psychedelics that work primarily on serotonin receptors, often creating visual experiences and profound shifts in consciousness. They can provide new perspectives and spiritual insights. Research is ongoing but not yet widely available clinically.
+
+- **Ketamine** works through NMDA receptor antagonism and rapid neuroplasticity. It creates a dissociative state that can provide distance from rigid thought patterns and emotional pain. Unlike classical psychedelics, ketamine is **already FDA-approved** as an anesthetic and is available off-label for therapy, making it much more accessible.
+
+- **Ayahuasca** is a traditional plant medicine combining DMT with MAO inhibitors, typically used in ceremonial contexts. The experience is often longer and more physically intense than other psychedelics.
+
+**What makes ketamine unique:** The dissociative quality of ketamine can help people step outside their usual patterns of thinking and feeling, creating space for new insights and neural pathways. Sessions are typically shorter (1-2 hours) compared to psilocybin or LSD (6-8 hours). The therapy is often done in a clinical setting with integration support.
+
+**Accessibility:** Because ketamine is already an FDA-approved medication, many clinics offer ketamine-assisted therapy legally. This makes it currently more accessible than MDMA or psilocybin therapy, though it can still be expensive and is not always covered by insurance.
+
+**Important:** Like all medicine-assisted therapies, ketamine works best when combined with psychotherapy and integration support. The medicine itself is just one part of the healing process — the therapeutic relationship, preparation, and integration are essential.
 
 [MAPS](https://maps.org/) &mdash; Multidisciplinary Association for Psychedelic Studies  
 [Psychedelic Integration](https://integration.maps.org/) &mdash; MAPS directory of therapists who help people integrate a psychedelic experience  
@@ -318,18 +338,47 @@ Plants will make your home feel cozier and more inviting. Only plants can fill a
 #### Social healing
 Good relationships are key to healing trauma.
 
-Queer community sports   
-Social Cooking  
-Dinners with queer family  
-Building a circle of trust  
-Creative writing and journaling  
+Queer community sports
+Social Cooking
+Dinners with queer family
+Building a circle of trust
+Creative writing and journaling
+Gay saunas & bathhouses — These communal spaces offer unique opportunities for connection, embodiment, and belonging. Many queer people find healing through the combination of heat therapy, body acceptance, and authentic community connection that saunas provide  
 
 ### Bottom-up Healing
 The bottom-up approach starts with the idea that trauma is stored in the body, for example as tension or sterss in the belly, shoulders, neck, jaw, chest, etc. Advocates for bottom-up therapy say that if we reduce stress in the body, our emotions will follow suit and improve.
 
 Article: [Reiki, Tantra, and the Healing Power of Touch](http://blog.lighthouse.lgbt/reiki-tantra-healing-power-touch-queer-community-can-benefit/)  
-[TRE Trauma Release](https://traumaprevention.com/) therapy  
-Video: TRE At-Home Exercises [1](https://www.youtube.com/watch?v=FeUioDuJjFI) [2](https://www.youtube.com/watch?v=26zoFKZzbQc)  
+#### TRE (Trauma Release Exercises)
+
+[TRE (Trauma Release Exercises)](https://traumaprevention.com/) is a body-based technique that uses simple exercises to activate the body's natural tremoring mechanism, helping to release deep muscular patterns of tension and trauma. Developed by Dr. David Berceli, TRE helps the body complete stress responses that may have been "frozen" in the nervous system.
+
+The practice involves a series of exercises that gently fatigue the muscles, followed by lying down and allowing the body to tremor or shake naturally. This neurogenic tremoring is the body's innate mechanism for releasing tension and stress — similar to how animals shake after a threatening encounter.
+
+**Benefits:** TRE can help with chronic tension, anxiety, PTSD symptoms, and stress-related physical pain. Many people report feeling calmer, sleeping better, and having less muscular tension after regular practice.
+
+**Safety notes:** While TRE is generally safe, it can bring up intense emotions or physical sensations. Start slowly, especially if you have a history of severe trauma. Consider working with a certified TRE provider initially, particularly if you have dissociative tendencies or feel overwhelmed easily. You're always in control and can stop the tremoring at any time.
+
+Video: [TRE Exercises Overview](https://www.youtube.com/watch?v=QoB9wpuO688) — A comprehensive introduction
+Video: TRE At-Home Exercises [1](https://www.youtube.com/watch?v=FeUioDuJjFI) [2](https://www.youtube.com/watch?v=26zoFKZzbQc) — Practice guides
+[Find a certified TRE provider](https://traumaprevention.com/tre-provider-network/)
+
+#### Psychedelic Somatic Therapy
+
+Psychedelic Somatic Therapy combines the healing potential of psychedelic medicines with body-based somatic approaches to specifically address attachment trauma — the wounds from early relational experiences with caregivers. This integrative approach recognizes that attachment trauma is stored in the body and nervous system, not just in our thoughts and memories.
+
+Unlike traditional talk therapy, psychedelic somatic therapy works with the body's innate wisdom and capacity to heal. By combining psychedelic experiences with somatic awareness and processing, practitioners help clients access pre-verbal trauma, release stored tension and activation, and develop new patterns of safety and connection.
+
+**Healing attachment trauma:** Early attachment wounds can create lasting patterns in how we relate to ourselves and others. Psychedelic somatic therapy offers a unique pathway to address these deep patterns by:
+- Accessing the nervous system states where attachment trauma is held
+- Creating corrective experiences of safety, attunement, and connection
+- Integrating psychedelic insights through the body, not just the mind
+- Building capacity for regulation and healthy relating
+
+**Important:** This is specialized work that requires skilled practitioners trained in both psychedelic therapy and somatic approaches. It's not about simply taking psychedelics — the somatic integration and therapeutic relationship are essential components.
+
+[YouTube Channel: Psychedelic Somatic Therapy Resources](https://www.youtube.com/channel/UChk9gjqBRfBe3uERIJY82bg)
+
 [Rolfing](https://www.rolf.org/rolfing.php) is a massage technique that is about balancing the body.  
 [OSHO Dynamic Meditation](http://oshodynamic.com/)  
 [Craniosacral Therapy](https://en.m.wikipedia.org/wiki/Craniosacral_therapy)  
@@ -466,9 +515,27 @@ Outside the US:
 [WPATH Provider Search](https://www.wpath.org/provider/search)
 
 ### Hormones
-[Hormones: A Guide for FTMs](https://apps.carleton.edu/campus/gsc/assets/hormones_FTM.pdf)  
-[Hormones: A Guide for MTFs](https://apps.carleton.edu/campus/gsc/assets/hormones_MTF.pdf)  
+[Hormones: A Guide for FTMs](https://apps.carleton.edu/campus/gsc/assets/hormones_FTM.pdf)
+[Hormones: A Guide for MTFs](https://apps.carleton.edu/campus/gsc/assets/hormones_MTF.pdf)
 [How to get hormones in the US](https://transgenderteensurvivalguide.tumblr.com/post/150460732225/hi-i-was-wondering-what-exactly-i-have-to-do-to) and [in the UK](https://transgenderteensurvivalguide.tumblr.com/post/169897542480/urgent-hi-im-a-19-afab-trans-male-from-the)
+
+#### Affordable & Accessible Hormone Access by Country
+
+**🇺🇸 United States**
+[Placeholder: Informed consent clinics, telehealth options, affordable providers]
+
+**🇬🇧 United Kingdom**
+[GenderGP](https://www.gendergp.com/) — Online gender clinic providing hormone therapy
+[Placeholder: NHS pathways, other UK providers]
+
+**🇨🇦 Canada**
+[Placeholder: Provincial healthcare coverage, informed consent clinics]
+
+**🇦🇺 Australia**
+[Placeholder: Medicare coverage, telehealth services]
+
+**🌍 Other Countries**
+[Placeholder: International telehealth options, regional resources]
 
 #### Background reading on the world of hormones
 [Healthcare of the Transgender Patient](https://drive.google.com/drive/folders/112o11ykp0H-8tU_SbIToT1aZwL6LCK0S) lecture notes by [Dr. William Powers](http://PowersFamilyMedicine.com)

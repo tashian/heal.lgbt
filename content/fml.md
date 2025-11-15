@@ -7,7 +7,7 @@ title: LGBT Crisis Resources
 People want to help you. Whether you are scared for your own safety or just feeling lonely and you want someone to text with, you can reach out any time day or night. There may also be local hotlines in your region or city.
 
 🇺🇸 [LGBT National Hotline](https://www.glbthotline.org/) [888.843.4564](tel:+18888434564)  
-🇺🇸 [National Suicide Hotline](https://suicidepreventionlifeline.org/chat/) (24-hours) [800.273.8255](tel:+18002738255) or [chat with them](https://suicidepreventionlifeline.org/chat/)  
+🇺🇸 [988 Suicide & Crisis Lifeline](https://988lifeline.org/) (24-hours) [988](tel:988) or [chat with them](https://988lifeline.org/chat/)  
 🇺🇸 [THRIVE Lifeline](https://thrivelifeline.org/index.html) (24-hours) Text "THRIVE" to [313.662.8209](tel:+13136628209)  
 🌏 [List of suicide crisis lines](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines)  
 
@@ -22,7 +22,7 @@ People want to help you. Whether you are scared for your own safety or just feel
 🇬🇧 Crisis Text Line: Text SHOUT to 85258  
 
 ### Kicked out? Left home?
-See HRC's step-by-step guide [On Our Own (PDF)](https://assets2.hrc.org/files/assets/resources/HRC-OnOurOwn-LGBTQYouth.pdf?_ga=2.32591486.1913620520.1565743654-198396838.1565743654) and [/r/lgbtHavens](https://www.reddit.com/r/lgbtHavens/)
+See HRC's step-by-step guide [On Our Own (PDF)](https://assets2.hrc.org/files/assets/resources/HRC-OnOurOwn-LGBTQYouth.pdf) and [/r/lgbtHavens](https://www.reddit.com/r/lgbtHavens/)
 Here's a list of [LGBT community centers](https://www.lgbtcenters.org/LgbtCenters) in the US. Contact the center closest to you and they should be able to help you.  
 
 ### Trans* & Genderqueer
