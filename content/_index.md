@@ -442,7 +442,6 @@ Social Cooking
 Dinners with queer family
 Building a circle of trust
 Creative writing and journaling
-Gay saunas & bathhouses — These communal spaces offer unique opportunities for connection, embodiment, and belonging. Many queer people find healing through the combination of heat therapy, body acceptance, and authentic community connection that saunas provide  
 
 ### Bottom-up Healing
 The bottom-up approach starts with the idea that trauma is stored in the body, for example as tension or sterss in the belly, shoulders, neck, jaw, chest, etc. Advocates for bottom-up therapy say that if we reduce stress in the body, our emotions will follow suit and improve.
