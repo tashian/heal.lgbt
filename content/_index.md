@@ -201,7 +201,6 @@ Are you struggling during or after an experience with psychedelics?
 
 ### Addiction Support
 
-[LGBTQ Addiction Guide](https://www.drugrehab.com/guides/lgbtq/)  
 
 ## Finding Your Path
 
@@ -342,13 +341,13 @@ Film: [Trembling Before G-d](https://en.wikipedia.org/wiki/Trembling_Before_G-d)
 
 ### Follow a Dead Teacher
 
-Many queer people have suffered from religious shame and oppression growing up. So as adults, it makes sense that they may become untrusting of all religious and spiritual guides, philosophers and teachers of all kinds.
+Many queer people have suffered from religious abuse. So, as adults, it makes sense that they may be untrusting of spiritual guides, philosophers and teachers of all kinds.
 
-This is unfortunate, because having your own spiritual life is incredibly valuable and healing. One way to proceed and reclaim your own sense of consciousness or spirituality is to follow a dead teacher. A dead teacher has no possible incentive or means to harm you or take anything away from you, so you may find it easier to listen to them.
+This is unfortunate, because a spiritual life is incredibly valuable and healing. One way to proceed and reclaim your own sense of consciousness or spirituality is to follow a dead teacher. A dead teacher has no possible incentive or means to harm you or take anything away from you, so you may find it easier to listen to them.
 
 The best dead teachers, in my opinion, are recently dead teachers who lived during contemporary times. Because you do not need anyone else who is currently alive to help you interpret the words of a recently dead teacher. You can have your own relationship with them, and listen to them directly, and decide for yourself how you want to apply their teachings in your life.
 
-#### Dead spiritual teachers
+#### Dead spiritual teachers ysk
 [J. Krishnamurti](https://www.youtube.com/user/KFoundation), Indian philosopher and writer  
 [Alan Watts](https://www.youtube.com/results?search_query=alan+watts), an eloquent English philosopher  
 [Suzuki Roshi](http://suzukiroshi.sfzc.org/dharma-talks/), spiritual teacher who brought Zen to the United States  
