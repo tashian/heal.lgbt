@@ -152,7 +152,7 @@ People want to help you. Whether you are scared for your own safety or just feel
 
 🇺🇸 [LGBT National Hotline](https://lgbthotline.org/) [888.843.4564](tel:+18888434564)  
 🇺🇸 [988 Suicide & Crisis Lifeline](https://988lifeline.org/) (24-hours) [988](tel:988) or [chat with them](https://988lifeline.org/chat/)  
-🇺🇸 [THRIVE Lifeline](https://thrivelifeline.org/index.html) (24-hours) Text "THRIVE" to [313.662.8209](tel:+13136628209)  
+🇺🇸 [THRIVE Lifeline](https://thrivelifeline.org/) (24-hours) Text "THRIVE" to [313.662.8209](tel:+13136628209)  
 🌏 [List of suicide crisis lines](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines)  
 
 ### Under 24?
@@ -181,8 +181,7 @@ Here's a list of [LGBT community centers](https://www.lgbtcenters.org/LgbtCenter
 ### Self-Harm
 🇺🇸 Text CONNECT to 741741 to get free help from [Crisis Text Line](https://www.crisistextline.org/selfharm)  
 
-[Alternatives to cutting and self-harm](https://www.glbthotline.org/self-harm-prevention.html#professional)  
-[Self-harm prevention workbook](https://www.glbthotline.org/self-harm-prevention.html)  
+[Self-harm prevention workbook](https://lgbthotline.org/self-harm-prevention/k)  
 
 [NAMI HelpLine](https://nami.org/help) is for anyone navigating mental health challenges  
 
@@ -193,7 +192,6 @@ Here's a list of [LGBT community centers](https://www.lgbtcenters.org/LgbtCenter
 ### HIV/AIDS Support
 Just tested positive? Feeling isolated? Worried about your medications? Wondering about your risk? Caring for someone with HIV?  
 
-🇺🇸 [HIV Nightline](https://www.sfsuicide.org/our-programs/hiv-nightlines/) (24-hours) [415.434.2437](tel:+14154342437) or [800.628.9240](tel:+18006289240)  
 🇺🇸 HIV Textline (24-hours) [415.200.2920](tel:+14152002920)  
 
 ### Psychedelic Support
@@ -307,7 +305,6 @@ Article: ["Does EMDR Work?"](https://www.theguardian.com/lifeandstyle/2018/sep/1
 Aside from EMDR, Cognitive Behavioral Therapy has been shown to help with trauma release. It is a more traditional talk-centered approach that aims to rewrite the underlying beliefs that lead to depression and anxiety.
 
 App: [Sanvello](https://www.sanvello.com/) is an app that helps you relieve symptoms of stress, anxiety, and depression  
-App: [Woebot](https://apps.apple.com/gb/app/woebot-your-self-care-expert/id1305375832) is a self-care bot that helps with anxiety and depression using CBT techniques  
 Video: [Feeling Good](https://www.youtube.com/watch?v=H1T5uMeYv9Q) TED talk by CBT practitioner David Burns  
 Book: [Feeling Good](https://www.amazon.com/dp/B009UW5X4C) very popular book that has helped a lot of people with mood disorders, by David Burns
 
@@ -366,8 +363,8 @@ All of the people listed below have offered free media online that can help you.
 [Adyashanti](https://www.adyashanti.org/) ([videos](https://www.youtube.com/user/Adyashanti/videos))  
 [Gangaji](https://gangaji.org/) ([videos](https://www.youtube.com/channel/UCuu1iS63Zl-57fceuzoPzZw))  
 [Mooji](http://mooji.org) ([videos](https://www.youtube.com/channel/UCpw2gh99XM6Mwsbksv0feEg))  
-[Pia Mellody](http://www.piamellody.com/index.html) ([videos](https://www.youtube.com/watch?v=bFtHq7-dvHs))  
-[Eckhart Tolle](https://www.eckharttolle.com/) ([videos](https://www.youtube.com/channel/UCj9fPezLH1HUh7mSo-tB1Mg))  
+Pia Mellody ([videos](https://www.youtube.com/watch?v=bFtHq7-dvHs))  
+[Eckhart Tolle](https://eckharttolle.com/) ([videos](https://www.youtube.com/channel/UCj9fPezLH1HUh7mSo-tB1Mg))  
 [Sri Prem Baba](https://www.sriprembaba.org/en/)  
 
 #### Neurofeedback
@@ -402,7 +399,7 @@ Ketamine-Assisted Therapy is currently one of the most accessible medicine-assis
 **Important:** Like all medicine-assisted therapies, ketamine works best when combined with psychotherapy and integration support. The medicine itself is just one part of the healing process — the therapeutic relationship, preparation, and integration are essential.
 
 [MAPS](https://maps.org/) &mdash; Multidisciplinary Association for Psychedelic Studies  
-[Psychedelic Integration](https://integration.maps.org/) &mdash; MAPS directory of therapists who help people integrate a psychedelic experience  
+[Psychedelic Integration](https://maps.org/integration-station/) &mdash; MAPS workbook on integrating a psychedelic experience
 
 Book: [How to Change Your Mind](https://www.amazon.com/dp/B076GPJXWZ) by Michael Pollan  
 Book: [Trust Surrender Receive: How MDMA Can Release Us From Trauma and PTSD](https://www.amazon.com/Trust-Surrender-Receive-Release-Trauma/dp/1619617382) by Anne Other  
@@ -451,7 +448,6 @@ Gay saunas & bathhouses — These communal spaces offer unique opportunities for
 ### Bottom-up Healing
 The bottom-up approach starts with the idea that trauma is stored in the body, for example as tension or sterss in the belly, shoulders, neck, jaw, chest, etc. Advocates for bottom-up therapy say that if we reduce stress in the body, our emotions will follow suit and improve.
 
-Article: [Reiki, Tantra, and the Healing Power of Touch](http://blog.lighthouse.lgbt/reiki-tantra-healing-power-touch-queer-community-can-benefit/)  
 #### TRE (Trauma Release Exercises)
 
 [TRE (Trauma Release Exercises)](https://traumaprevention.com/) is a body-based technique that uses simple exercises to activate the body's natural tremoring mechanism, helping to release deep muscular patterns of tension and trauma. Developed by Dr. David Berceli, TRE helps the body complete stress responses that may have been "frozen" in the nervous system.
@@ -464,7 +460,7 @@ The practice involves a series of exercises that gently fatigue the muscles, fol
 
 Video: [TRE Exercises Overview](https://www.youtube.com/watch?v=QoB9wpuO688) — A comprehensive introduction
 Video: TRE At-Home Exercises [1](https://www.youtube.com/watch?v=FeUioDuJjFI) [2](https://www.youtube.com/watch?v=26zoFKZzbQc) — Practice guides
-[Find a certified TRE provider](https://traumaprevention.com/tre-provider-network/)
+[Find a certified TRE provider](https://treglobal.org/tre-provider-list/)
 
 #### Psychedelic Somatic Therapy
 
@@ -615,7 +611,7 @@ In the US:
 
 Outside the US:  
 [🇩🇰 Denmark](https://drive.google.com/drive/folders/1MLD-sUvNBhGx1qTGoZZHyzVNMQkxaa_g)  
-[WPATH Provider Search](https://www.wpath.org/provider/search)
+[WPATH Provider Search](https://app.wpath.org/member/search)
 
 ### Hormones
 [Hormones: A Guide for FTMs](https://apps.carleton.edu/campus/gsc/assets/hormones_FTM.pdf)
@@ -653,7 +649,6 @@ Outside the US:
 
 ### Managing Gender Dysphoria
 [20 Small Things To Do When Gender Dysphoria Gets You Down](https://www.buzzfeed.com/skarlan/gender-dysphoria?utm_term=.ucYLJoNx4K#.psgq5VRMxm)
-[Gender dysphoria FAQ](https://harajukufloof.tumblr.com/post/184175729440/faq)
 
 ### Fashion
 
@@ -742,7 +737,7 @@ Every relationship encounters challenges of consent and boundaries.
 Building a strong consent practice is a skill that will serve you well for your entire life.
 
 Book: [The Art of Receiving and Giving: The Wheel of Consent](https://www.amazon.com/Art-Receiving-Giving-Wheel-Consent/dp/1643883089) by Betty Martin and Robyn Dalzen  
-Videos: [Betty Martin, lessons on consent](https://bettymartin.org/videos/)
+Videos: [Betty Martin, lessons on consent](https://www.youtube.com/playlist?list=PLg9hZLIgbgxAfM12JQMMUeBsz5tPpnNk2)
 Resource: [Mia Schachter](https://sharetheloadinc.com) offers an integrative, mind-body, non-binary approach with their online courses on boundaries and consent  
 
 ### Use the Gottman Model
