@@ -150,7 +150,7 @@ Because that's what queers do.
 
 People want to help you. Whether you are scared for your own safety or just feeling lonely and you want someone to text with, you can reach out any time day or night. There may also be local hotlines in your region or city.
 
-🇺🇸 [LGBT National Hotline](https://www.glbthotline.org/) [888.843.4564](tel:+18888434564)  
+🇺🇸 [LGBT National Hotline](https://lgbthotline.org/) [888.843.4564](tel:+18888434564)  
 🇺🇸 [988 Suicide & Crisis Lifeline](https://988lifeline.org/) (24-hours) [988](tel:988) or [chat with them](https://988lifeline.org/chat/)  
 🇺🇸 [THRIVE Lifeline](https://thrivelifeline.org/index.html) (24-hours) Text "THRIVE" to [313.662.8209](tel:+13136628209)  
 🌏 [List of suicide crisis lines](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines)  
