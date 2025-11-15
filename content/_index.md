@@ -13,7 +13,7 @@ title: 🌈 heal.lgbt
 ❤️ &nbsp;&nbsp;To connect deeply with the people in your life.  
 ☔️ &nbsp;&nbsp;To become more resilient and adaptable.  
 
-🚨 &nbsp;&nbsp;**Are you in crisis? If so, [read this](/fml)**&nbsp;&nbsp; 🚨
+🚨 &nbsp;&nbsp;**Struggling right now? [Read this.](#are-you-in-crisis)**&nbsp;&nbsp; 🚨
 
 [License and disclaimer](disclaimer) &middot; [Contributor's Guide](https://github.com/tashian/heal.lgbt) 
 
@@ -99,10 +99,71 @@ Because that's what queers do.
 * This guide takes the long view on queer healing. It attempts to answer: What are the keys to a healthy life, and the foundations for ongoing growth and liberation, in the face of queer oppression?
 * The goal is to cover everything you need to thrive as a queer person: Coming out, making a home, dating, sex, queer family, mental and physical health, spirituality, being in your body, domestic practices, gender transitions, legal issues, financial planning, and, of course, queer interior design.
 * This guide is a broad collection of resources. It is designed to be practical, but it is not a substitute for therapist, or a financial planner, or an estate lawyer, or an interior designer... it's more like a concierge. May it get you where you need to go.
-* This guide uses the word "queer" and sometimes "LGBT" as shorthand for LGBTQIA*. Using the word "queer" within our community is a way of reclaiming what might be considered an insult and using it for empowerment. It's a clever reappropriation. And it's a nice word because it starts with Q, and that will get you a lot of points in Scrabble. 
+* This guide uses the word "queer" and sometimes "LGBT" as shorthand for LGBTQIA*. Using the word "queer" within our community is a way of reclaiming what might be considered an insult and using it for empowerment. It's a clever reappropriation. And it's a nice word because it starts with Q, and that will get you a lot of points in Scrabble.
 * This is a work in progress, and it is village property. We hope you'll consider dropping some knowledge here. (See the [Contributor's Guide](https://github.com/tashian/heal.lgbt/blob/master/README.md) for details)
 
-## The path to thriving
+## Crisis Resources
+
+### Are you in crisis?
+
+People want to help you. Whether you are scared for your own safety or just feeling lonely and you want someone to text with, you can reach out any time day or night. There may also be local hotlines in your region or city.
+
+🇺🇸 [LGBT National Hotline](https://www.glbthotline.org/) [888.843.4564](tel:+18888434564)  
+🇺🇸 [988 Suicide & Crisis Lifeline](https://988lifeline.org/) (24-hours) [988](tel:988) or [chat with them](https://988lifeline.org/chat/)  
+🇺🇸 [THRIVE Lifeline](https://thrivelifeline.org/index.html) (24-hours) Text "THRIVE" to [313.662.8209](tel:+13136628209)  
+🌏 [List of suicide crisis lines](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines)  
+
+### Under 24?
+🇺🇸 [Trevor](https://www.thetrevorproject.org/) Lifeline [866.488.7386](tel:+18664887386)  
+🇺🇸 [Trevor](https://www.thetrevorproject.org/) Text. Text START to 678678  
+🇺🇸 LGBT Youth Talkline [800.246.7743](tel:+18002467743)  
+🇨🇦 [LGBT Youthline](https://www.youthline.ca/) call [800.268.9688](tel:+18002689688)  
+🇨🇦 [LGBT Youthline](https://www.youthline.ca/) txt [647.694.4275](tel:+16476944275)  
+🌏 [TrevorSpace](https://www.trevorspace.org/) social network  
+🇨🇦 Crisis Text Line: Text HOME to 686868  
+🇬🇧 Crisis Text Line: Text SHOUT to 85258  
+
+### Kicked out? Left home?
+See HRC's step-by-step guide [On Our Own (PDF)](https://assets2.hrc.org/files/assets/resources/HRC-OnOurOwn-LGBTQYouth.pdf) and [/r/lgbtHavens](https://www.reddit.com/r/lgbtHavens/)  
+Here's a list of [LGBT community centers](https://www.lgbtcenters.org/LgbtCenters) in the US. Contact the center closest to you and they should be able to help you.  
+
+### Trans & Genderqueer
+[Trans LifeLine](http://www.translifeline.org/)  
+🇺🇸 [877.565.8860](tel:+18775658860)  
+🇨🇦 [877.330.6366](tel:+18773306366)  
+
+### Seniors
+🇺🇸 LGBT Senior Hotline [888.234.7243](tel:+18882347243)  
+🇺🇸 [SAGE](https://www.sageusa.org/) Helpline [877.360.5428](tel:+18773605428)  
+
+### Self-Harm
+🇺🇸 Text CONNECT to 741741 to get free help from [Crisis Text Line](https://www.crisistextline.org/selfharm)  
+
+[Alternatives to cutting and self-harm](https://www.glbthotline.org/self-harm-prevention.html#professional)  
+[Self-harm prevention workbook](https://www.glbthotline.org/self-harm-prevention.html)  
+
+[NAMI HelpLine](https://nami.org/help) is for anyone navigating mental health challenges  
+
+### Domestic Violence
+
+🇺🇸 [National Domestic Violence Hotline](https://www.thehotline.org/is-this-abuse/) [800.799.SAFE](tel:+18007997233)  
+
+### HIV/AIDS Support
+Just tested positive? Feeling isolated? Worried about your medications? Wondering about your risk? Caring for someone with HIV?  
+
+🇺🇸 [HIV Nightline](https://www.sfsuicide.org/our-programs/hiv-nightlines/) (24-hours) [415.434.2437](tel:+14154342437) or [800.628.9240](tel:+18006289240)  
+🇺🇸 HIV Textline (24-hours) [415.200.2920](tel:+14152002920)  
+
+### Psychedelic Support
+Are you struggling during or after an experience with psychedelics?  
+
+🇺🇸 [Fireside Project](https://firesideproject.org) — psychedelic peer support hotline — [623.473.7433](tel:+16234737433)  
+
+### Addiction Support
+
+[LGBTQ Addiction Guide](https://www.drugrehab.com/guides/lgbtq/)  
+
+## Finding Your Path
 
 ### How to come out
 
@@ -131,7 +192,7 @@ Queerphobia is so embedded in our collective consciousness that most people need
 
 We have been taught a lot of ideas and have been fed messages from society about queerness, gender, gender roles, and sexuality. We've been taught that gender is a binary and not a specturm. And, these ideas can be so deeply wired that you can't really see how you carry them around, and how they affect you. Discovering how you've been socialized with toxic ideas from misinformed people is the first step toward letting these ideas go and further embracing yourself and the people around you.
 
-## Healing your trauma
+## Therapeutic Approaches
 
 ### Assume you are traumatized
 

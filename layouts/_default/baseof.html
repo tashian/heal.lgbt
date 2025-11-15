@@ -15,7 +15,7 @@
         <meta name="twitter:description" content="An open-source resource guide to help queer people thrive." />
         <meta property="og:description"  content="An open-source resource guide to help queer people thrive." />
         {{ $style := resources.Get "main.scss" | toCSS }}
-        {{ if (.Site.IsServer) }}
+        {{ if (hugo.IsServer) }}
             <link rel="stylesheet" href="{{ $style.Permalink }}">
         {{ else }}
             <style>{{ ($style | minify).Content | safeCSS }}</style>
