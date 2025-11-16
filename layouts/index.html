@@ -1,10 +1,178 @@
 {{ define "main" }}
-    <main>
-        <article>
-            <header>
-                <h1>{{ .Title }}</h1>
-            </header>
-            {{ .Content }}
-        </article>
-    </main>
+    <div class="page-wrapper">
+        <aside class="toc-sidebar">
+            <nav class="toc-nav">
+                <div class="toc-header">
+                    <a href="#" class="toc-title-link"><h2 class="toc-title">heal.lgbt</h2></a>
+                    <div class="header-controls">
+                        <button class="mobile-toc-toggle" aria-label="Toggle table of contents">
+                            <svg viewBox="0 0 16 16"><path d="M1 4a.5.5 0 0 1 .5-.5h13a.5.5 0 0 1 0 1h-13A.5.5 0 0 1 1 4zm0 4a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 0 1h-9A.5.5 0 0 1 1 8zm0 4a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11A.5.5 0 0 1 1 12z"/></svg>
+                        </button>
+                        <label class="toggle-switch">
+                            <input type="checkbox" id="darkModeToggle">
+                            <span class="slider">
+                                <span class="emoji sun"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg></span>
+                                <span class="emoji moon"><svg viewBox="0 0 24 24"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></span>
+                            </span>
+                        </label>
+                    </div>
+                </div>
+                {{ .TableOfContents }}
+            </nav>
+        </aside>
+        <main>
+            <article>
+                <header>
+                    <h1>{{ .Title }}</h1>
+                </header>
+                {{ .Content }}
+            </article>
+        </main>
+    </div>
+    <script>
+    (function() {
+        const tocLinks = document.querySelectorAll('.toc-sidebar a');
+        const headings = [];
+
+        // Build list of headings that match TOC links
+        tocLinks.forEach(link => {
+            const id = link.getAttribute('href').slice(1);
+            const heading = document.getElementById(id);
+            if (heading) {
+                headings.push({ id, element: heading, link });
+            }
+        });
+
+        // Make sections collapsible
+        const topLevelItems = document.querySelectorAll('.toc-sidebar nav#TableOfContents > ul > li');
+        topLevelItems.forEach(item => {
+            const nestedList = item.querySelector('ul');
+            if (nestedList) {
+                // Initially collapse
+                nestedList.classList.add('collapsed');
+            }
+        });
+
+        function updateActiveLink() {
+            const scrollPos = window.scrollY + 100; // Offset for better UX
+
+            let currentId = '';
+            let currentParentItem = null;
+
+            // Find the current section
+            for (let i = headings.length - 1; i >= 0; i--) {
+                if (headings[i].element.offsetTop <= scrollPos) {
+                    currentId = headings[i].id;
+                    break;
+                }
+            }
+
+            // Find which top-level section the current heading belongs to
+            let activeParentLi = null;
+
+            // Update active states
+            tocLinks.forEach(link => {
+                link.classList.remove('active');
+                if (link.getAttribute('href') === '#' + currentId) {
+                    link.classList.add('active');
+                    activeParentLi = link.closest('.toc-sidebar nav#TableOfContents > ul > li');
+                }
+            });
+
+            // Collapse all sections except the active one
+            topLevelItems.forEach(item => {
+                const nestedList = item.querySelector('ul');
+                if (nestedList) {
+                    if (item === activeParentLi) {
+                        // Expand active section
+                        nestedList.classList.remove('collapsed');
+                    } else {
+                        // Collapse inactive sections
+                        nestedList.classList.add('collapsed');
+                    }
+                }
+            });
+        }
+
+        // Throttle scroll events
+        let ticking = false;
+        window.addEventListener('scroll', () => {
+            if (!ticking) {
+                window.requestAnimationFrame(() => {
+                    updateActiveLink();
+                    ticking = false;
+                });
+                ticking = true;
+            }
+        });
+
+        // Initial call
+        updateActiveLink();
+
+        // Add copy link icons to h2 and h3
+        const linkIcon = '<svg viewBox="0 0 16 16"><path d="M4.715 6.542L3.343 7.914a3 3 0 1 0 4.243 4.243l1.828-1.829A3 3 0 0 0 8.586 5.5L8 6.086a1.001 1.001 0 0 0-.154.199 2 2 0 0 1 .861 3.337L6.88 11.45a2 2 0 1 1-2.83-2.83l.793-.792a4.018 4.018 0 0 1-.128-1.287z"/><path d="M6.586 4.672A3 3 0 0 0 7.414 9.5l.775-.776a2 2 0 0 1-.896-3.346L9.12 3.55a2 2 0 0 1 2.83 2.83l-.793.792c.112.42.155.855.128 1.287l1.372-1.372a3 3 0 0 0-4.243-4.243L6.586 4.672z"/></svg>';
+        const checkIcon = '<svg viewBox="0 0 16 16"><path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"/></svg>';
+
+        const contentHeadings = document.querySelectorAll('article h2[id], article h3[id]');
+        contentHeadings.forEach(heading => {
+            const link = document.createElement('a');
+            link.className = 'heading-link';
+            link.href = '#' + heading.id;
+            link.innerHTML = linkIcon;
+            link.title = 'Copy link';
+
+            link.addEventListener('click', (e) => {
+                e.preventDefault();
+                const url = window.location.origin + window.location.pathname + '#' + heading.id;
+                navigator.clipboard.writeText(url).then(() => {
+                    link.innerHTML = checkIcon;
+                    setTimeout(() => {
+                        link.innerHTML = linkIcon;
+                    }, 1500);
+                });
+            });
+
+            heading.appendChild(link);
+        });
+
+        // Dark mode toggle
+        const darkModeToggle = document.getElementById('darkModeToggle');
+        const savedTheme = localStorage.getItem('theme');
+
+        // Check for saved preference or system preference
+        if (savedTheme === 'dark' || (!savedTheme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.body.classList.add('dark-mode');
+            darkModeToggle.checked = true;
+        }
+
+        darkModeToggle.addEventListener('change', () => {
+            if (darkModeToggle.checked) {
+                document.body.classList.add('dark-mode');
+                localStorage.setItem('theme', 'dark');
+            } else {
+                document.body.classList.remove('dark-mode');
+                localStorage.setItem('theme', 'light');
+            }
+        });
+
+        // Mobile TOC toggle
+        const mobileTocToggle = document.querySelector('.mobile-toc-toggle');
+        const tocNav = document.querySelector('.toc-sidebar nav#TableOfContents');
+
+        mobileTocToggle.addEventListener('click', () => {
+            tocNav.classList.toggle('mobile-open');
+            mobileTocToggle.classList.toggle('active');
+        });
+
+        // Close menu when clicking a link on mobile
+        tocLinks.forEach(link => {
+            link.addEventListener('click', () => {
+                if (window.innerWidth <= 900) {
+                    tocNav.classList.remove('mobile-open');
+                    mobileTocToggle.classList.remove('active');
+                }
+            });
+        });
+    })();
+    </script>
 {{ end }}

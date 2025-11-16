@@ -5,7 +5,7 @@ title: 🌈 heal.lgbt
 > "Death is not the biggest fear we have; our biggest fear is taking the risk to be alive — the risk to be alive and express what we really are."  
 > — Don Miguel Ruiz
 
-🏳️‍🌈 &nbsp;&nbsp;This is a resource guide for queer healing.  
+🏳️‍🌈 &nbsp;&nbsp;This is an opinionated resource guide for queer healing.  
 🧙 &nbsp;&nbsp;It's for everyone—especially queer people and those who love them.  
 🔥 &nbsp;&nbsp;To move from surviving, to healing, to thriving.  
 🧒 &nbsp;&nbsp;To feel more at home with yourself.  
@@ -15,9 +15,7 @@ title: 🌈 heal.lgbt
 
 🚨 &nbsp;&nbsp;**Struggling right now? [Read this.](#are-you-in-crisis)**&nbsp;&nbsp; 🚨
 
-[License and disclaimer](disclaimer) &middot; [Contributor's Guide](https://github.com/tashian/heal.lgbt) 
-
-{{< toc >}}
+[License and disclaimer](disclaimer) &middot; [Contributor's Guide](https://github.com/tashian/heal.lgbt)
 
 ## Introduction
 
@@ -377,23 +375,9 @@ Article: [Psychotherapy never cleared my ‘brain fog’ and mental health woes.
 #### Psychedelic and psychoactive drugs
 There's strong evidence that drugs like MDMA (ecstacy/molly), psychedelic mushrooms, ayahuasca, and LSD, when used in therapy or with a guide, are among the fastest and most effective treatments for complex PTSD. Yes, they come with risks. This is an area of ongoing exploration and research. In August 2024, the FDA declined to approve MDMA-assisted therapy for PTSD, requesting additional Phase 3 clinical trials to further establish safety and efficacy. While this represented a setback, research continues and MDMA therapy may still become available in the future pending further study.
 
-##### Ketamine-Assisted Therapy (KAT)
+#### Ketamine-Assisted Therapy (KAT)
 
 Ketamine-Assisted Therapy is currently one of the most accessible medicine-assisted therapies for trauma, depression, and PTSD. Unlike classical psychedelics (psilocybin, LSD) or entactogens (MDMA), ketamine is a **dissociative anesthetic** that works through different neurological mechanisms.
-
-**How KAT differs from other psychedelics:**
-
-- **MDMA** works primarily on serotonin, dopamine, and oxytocin systems, creating feelings of empathy, safety, and connection. It's particularly effective for processing traumatic memories in a state of reduced fear. Currently not FDA-approved and harder to access legally.
-
-- **Psilocybin** (magic mushrooms) and **LSD** are classical psychedelics that work primarily on serotonin receptors, often creating visual experiences and profound shifts in consciousness. They can provide new perspectives and spiritual insights. Research is ongoing but not yet widely available clinically.
-
-- **Ketamine** works through NMDA receptor antagonism and rapid neuroplasticity. It creates a dissociative state that can provide distance from rigid thought patterns and emotional pain. Unlike classical psychedelics, ketamine is **already FDA-approved** as an anesthetic and is available off-label for therapy, making it much more accessible.
-
-- **Ayahuasca** is a traditional plant medicine combining DMT with MAO inhibitors, typically used in ceremonial contexts. The experience is often longer and more physically intense than other psychedelics.
-
-**What makes ketamine unique:** The dissociative quality of ketamine can help people step outside their usual patterns of thinking and feeling, creating space for new insights and neural pathways. Sessions are typically shorter (1-2 hours) compared to psilocybin or LSD (6-8 hours). The therapy is often done in a clinical setting with integration support.
-
-**Accessibility:** Because ketamine is already an FDA-approved medication, many clinics offer ketamine-assisted therapy legally. This makes it currently more accessible than MDMA or psilocybin therapy, though it can still be expensive and is not always covered by insurance.
 
 **Important:** Like all medicine-assisted therapies, ketamine works best when combined with psychotherapy and integration support. The medicine itself is just one part of the healing process — the therapeutic relationship, preparation, and integration are essential.
 
@@ -673,6 +657,7 @@ Shop: [all is fair in love and wear](https://www.allisfairinloveandwear.com/)
 * Don't bind if you have breast implants
 
 ## Legal Resources
+
 🇺🇸 [Lambda Legal](https://www.lambdalegal.org)  
 🇺🇸 [Transgender Law Center](http://www.transgenderlawcenter.org/)
 
