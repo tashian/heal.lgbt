@@ -622,18 +622,6 @@ Activity: [Sensate Focus](https://health.cornell.edu/sites/health/files/pdf-libr
 {{< media type="video" title="Sacred Masturbation 101" url="https://www.youtube.com/watch?v=fIdbyeydGvc" />}}
 {{< media type="video" title="Healthy Sexuality" url="https://www.youtube.com/watch?v=lE8wJ79eZ3s" />}}
 
-### On Being a Helper
-
-It can be extremely rewarding and challenging to help someone with PTSD.
-Helpers learn many spiritual lessons along the way.
-These books are fantastic when it comes to navigating your own trauma in relationship to a partner/family member/client/etc. Secondary trauma is real.
-
-{{< media type="book" title="Trauma Stewardship" url="https://www.amazon.com/Trauma-Stewardship-Everyday-Caring-Others/dp/157675944X/ref=sr_1_1?ie=UTF8&qid=1542321862&sr=8-1&keywords=vicarious+trauma" />}}
-{{< media type="book" title="Loving Someone with PTSD" url="https://www.amazon.com/Loving-Someone-PTSD-Understanding-Connecting/dp/1608827860" />}}
-{{< media type="book" title="Help for the Helper" url="https://www.amazon.com/Help-Helper-Psychophysiology-Compassion-Professional/dp/039370422X" />}}  
-
-[National Alliance on Mental Illness (NAMI)](https://nami.org/Home) offers free peer-led family support groups for any adult with a loved one who has experienced symptoms of a mental health condition.  
-
 ## Self care
 
 "Yoga," they said. "You should do some yoga it will be great for you."  
@@ -708,12 +696,6 @@ You won't get any judgement from us; we just want you to be safe and healthy.
 
 ### Learning about your identity
 [Nonbinary Flowchart](http://philome.la/likearcsouffle/nb-flowchart/play) &mdash; what's my gender?
-
-### Being an ally
-[100 Easy Ways to Make the World Better for Trans People](https://www.vice.com/en_us/article/kzjnjm/how-to-be-trans-ally-tips)
-{{< media type="book" title="Trans Allyship Workbook" url="https://www.amazon.com/Trans-Allyship-Workbook-Building-Support/dp/0990636917" />}}
-
-[Transwhat?](http://transwhat.org/) &mdash; an online guide towards allyship
 
 ## Transitioning
 Generally, look for clinitians and providers who use an [informed consent transition model](https://www.google.com/search?q=informed+consent+transition+model).
@@ -917,3 +899,25 @@ Bring the tissues, you're gonna need em.
 [Love, Simon (2018)](https://en.wikipedia.org/wiki/Love,_Simon)  
 [Steven Universe](https://en.wikipedia.org/wiki/Steven_Universe) has great queer themes and LGBT representation
 [Heartstopper (2022-)](https://en.wikipedia.org/wiki/Heartstopper_(TV_series)) British coming-of-age romantic drama based on a webcomic
+
+## Resources for Allies
+
+[100 Easy Ways to Make the World Better for Trans People](https://www.vice.com/en_us/article/kzjnjm/how-to-be-trans-ally-tips)
+{{< media type="book" title="Trans Allyship Workbook" url="https://www.amazon.com/Trans-Allyship-Workbook-Building-Support/dp/0990636917" />}}
+
+[Transwhat?](http://transwhat.org/) &mdash; an online guide towards allyship  
+[PFLAG](https://pflag.org) is a US organization dedicated to supporting, educating, and advocating for LGBTQ+ people and those who love them, with many local chapters and meetings
+
+### Helping someone with PTSD
+
+It can be extremely rewarding and challenging to help someone with PTSD.
+Helpers learn many spiritual lessons along the way.
+These books are fantastic when it comes to navigating your own trauma in relationship to a partner/family member/client/etc. Secondary trauma is real.
+
+{{< media type="book" title="Trauma Stewardship" url="https://www.amazon.com/Trauma-Stewardship-Everyday-Caring-Others/dp/157675944X/ref=sr_1_1?ie=UTF8&qid=1542321862&sr=8-1&keywords=vicarious+trauma" />}}
+{{< media type="book" title="Loving Someone with PTSD" url="https://www.amazon.com/Loving-Someone-PTSD-Understanding-Connecting/dp/1608827860" />}}
+{{< media type="book" title="Help for the Helper" url="https://www.amazon.com/Help-Helper-Psychophysiology-Compassion-Professional/dp/039370422X" />}}  
+
+[National Alliance on Mental Illness (NAMI)](https://nami.org/Home) offers free peer-led family support groups for any adult with a loved one who has experienced symptoms of a mental health condition.  
+
+
