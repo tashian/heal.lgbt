@@ -1,0 +1,8 @@
+{{- $type := .Get "type" -}}
+{{- $title := .Get "title" -}}
+{{- $url := .Get "url" -}}
+{{- $icons := dict "book" "📖" "film" "🎬" "video" "▶️" "podcast" "🎙️" "shop" "🛍️" -}}
+{{- $labels := dict "book" "Book:" "film" "Film:" "video" "Video:" "podcast" "Podcast:" "shop" "Shop:" -}}
+{{- $icon := index $icons $type -}}
+{{- $label := index $labels $type -}}
+<div class="media-ref media-ref--{{ $type }}"><span class="media-ref__type"><span class="media-ref__icon">{{ $icon }}</span><span class="media-ref__label">{{ $label }}</span></span> <a href="{{ $url }}">{{ $title }}</a>{{ with .Inner }}{{ . }}{{ end }}</div>
