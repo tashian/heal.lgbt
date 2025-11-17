@@ -346,11 +346,17 @@ And a profound sense of isolation.
 [Unitarian Universalist](https://www.uua.org/)  
 Many [United Methodist](http://www.umc.org/) churches (there is an ongoing dispute about LGBTQ rights within the UMC)  
 
-### Follow a Dead Teacher
+### Recovery from religious abuse
 
 Many queer people have suffered from religious abuse. So, as adults, it makes sense that they may be untrusting of spiritual guides, philosophers and teachers of all kinds.
 
-This is unfortunate, because a spiritual life is incredibly valuable and healing. One way to proceed and reclaim your own sense of consciousness or spirituality is to follow a dead teacher. A dead teacher has no possible incentive or means to harm you or take anything away from you, so you may find it easier to listen to them.
+This is unfortunate, because a spiritual life is incredibly valuable and healing.
+One option for reclaiming your own sense of consciousness or spirituality is to follow a dead teacher.
+A dead teacher has no possible incentive or means to harm you,
+won't ask for money,
+won't ask for extreme loyalty,
+won't take anything away from you,
+so you may find it easier to receive spiritual wisdom.
 
 The best dead teachers, in my opinion, are recently dead teachers who lived during contemporary times. Because you do not need anyone else who is currently alive to help you interpret the words of a recently dead teacher. You can have your own relationship with them, and listen to them directly, and decide for yourself how you want to apply their teachings in your life.
 
@@ -658,7 +664,6 @@ If you want to get really fancy, [determine your skin type](https://theacidqueen
 ### Good feels, motivation, and inspiration
 Bring in regular motivation and reminders for self-care:
 
-[@onbeinginyourbody](https://www.instagram.com/onbeinginyourbody/?hl=en) insta love   
 [Aloe Bud](https://aloebud.com) self care reminders (iPhone)
 
 ### Healing with nature
