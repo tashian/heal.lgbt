@@ -296,11 +296,13 @@ falling in love with these parts of ourselves
 that challenge who we thought we were.
 Some call this, "embracing the shadow."
 
-Many people fight against their own truth for their entire lives.
+And in this sense, coming out applies to everyone, not just queer people.
+And sadly, many people fight against, or avoid, or deny their own truth for their entire lives 
+because it hurts too much.
 
-But, once we learn to love and accept our truth&mdash;
-once we really come out to ourselves&mdash;
-coming out to other people becomes trivial.
+Once we learn to love and accept our truth&mdash;
+once we come out to ourselves&mdash;
+coming out to other people becomes easier.
 
 #### Encountering queer and transphobia
 
@@ -336,7 +338,7 @@ And a profound sense of isolation.
 {{< media type="podcast" title="Finding love would mean letting go of who I am" url="https://www.estherperel.com/podcasts/finding-love-would-mean-letting-go-of-who-i-am" >}} with Esther Perel{{< /media >}}
 {{< media type="book" title="Pray the Gay Away" url="https://www.amazon.com/Pray-Gay-Away-Extraordinary-Lives/dp/0814786375" >}} by Bernadette Barton is a study of present-day religious oppression of LGBTQ people in the US{{< /media >}}
 {{< media type="film" title="Believer" url="https://g.co/kgs/gJ4pe3" >}} about the Mormon Church's inner struggle with LGBTQ rights, featuring Dan Reynolds of Imagine Dragons{{< /media >}}
-
+{{< media type="film" title="The Wise Kids (2011)" url="https://en.wikipedia.org/wiki/The_Wise_Kids" >}} follows a group of young members of a South Carolina Baptist church as they confront issues of homosexuality and a crisis of faith.{{< /media >}}
 [Affirmation](https://affirmation.org/), an independent organization supporting LGBTQ Mormons  
 [Science and Nonduality](https://www.scienceandnonduality.com/) (SAND) encourages spirituality without religious dogma, bringing scientists together in dialog with spiritual teachers  
 
@@ -368,7 +370,8 @@ The best dead teachers, in my opinion, are recently dead teachers who lived duri
 [S.N. Goenka](https://www.youtube.com/results?search_query=sn+goenka), Burmese-Indian teacher of Vipassana meditation—a no-dogma practice of self-directed meditation
 
 #### Living spiritual teachers
-All of the people listed below have offered free media online that can help you. Watch and listen to each of them and see if you connect with any of their messages. All of the people below have your wellbeing in mind.  
+All of the people listed below have offered free media online that can help you. Watch and listen to each of them and see if you connect with any of their messages.
+We believe all of the people below have your wellbeing in mind, whether you pay for their material or not.
 
 [Bessel van der Kolk](http://besselvanderkolk.net/index.html) ([podcast](https://onbeing.org/programs/bessel-van-der-kolk-how-trauma-lodges-in-the-body-mar2017/) interview)  
 [Byron Katie](https://thework.com/) ([videos](https://www.youtube.com/user/TheWorkofBK/videos))  
@@ -379,7 +382,7 @@ Pia Mellody ([videos](https://www.youtube.com/watch?v=bFtHq7-dvHs))
 [Eckhart Tolle](https://eckharttolle.com/) ([videos](https://www.youtube.com/channel/UCj9fPezLH1HUh7mSo-tB1Mg))  
 [Sri Prem Baba](https://www.sriprembaba.org/en/)  
 
-## Therapeutic Approaches
+## Queer Healing
 
 ### Assume you are traumatized
 
@@ -411,22 +414,15 @@ Below is a list of trauma healing tools. Start anywhere that feels like it might
 {{< media type="book" title="CPTSD: From Surviving to Thriving" url="https://www.amazon.com/Complex-PTSD-Surviving-RECOVERING-CHILDHOOD/dp/1492871842" />}}
 
 ### Movies to Watch
-[The Wisdom of Trauma](https://thewisdomoftrauma.com/) — How our deepest pain can be a doorway to healing.  
-[The Work](https://en.wikipedia.org/wiki/The_Work_(film)) is a film about a trauma release group therapy program inside Folsom prison. It's very powerful.  
+{{< media type="film" title="The Wisdom of Trauma" url="https://thewisdomoftrauma.com/" >}} — How our deepest pain can be a doorway to healing. {{< /media >}}
+{{< media type="film" title="The Work" url="https://en.wikipedia.org/wiki/The_Work_(film)" >}} is a film about a trauma release group therapy program inside Folsom prison.{{< /media >}}
+{{< media type="film" title="Prison Dogs" url="https://www.imdb.com/title/tt2158699/" >}} about convicts raising puppies in prison for veterans with PTSD{{< /media >}}
 
 ### General Trauma Resources
 [Trauma Research Foundation](https://traumaresearchfoundation.org/) is a community of researchers and clinicians who are committed to developing innovative methods for the treatment of people of all ages who have experienced trauma.  
 YouTube: [TRF Tuesday](https://www.youtube.com/c/TraumaResearchFoundation/videos) from Trauma Research Foundation  
 YouTube: [Crappy Childhood Fairy](https://www.youtube.com/c/CrappyChildhoodFairy)   
 
-### On Being a Helper
-As for being a helper or balancing the role of a helper, these books are fantastic when it comes to navigating your own trauma in relationship to a partner/family member/client/etc. Secondary trauma is real.
-
-{{< media type="book" title="Trauma Stewardship" url="https://www.amazon.com/Trauma-Stewardship-Everyday-Caring-Others/dp/157675944X/ref=sr_1_1?ie=UTF8&qid=1542321862&sr=8-1&keywords=vicarious+trauma" />}}
-{{< media type="book" title="Loving Someone with PTSD" url="https://www.amazon.com/Loving-Someone-PTSD-Understanding-Connecting/dp/1608827860" />}}
-{{< media type="book" title="Help for the Helper" url="https://www.amazon.com/Help-Helper-Psychophysiology-Compassion-Professional/dp/039370422X" />}}  
-
-[National Alliance on Mental Illness (NAMI)](https://nami.org/Home) offers free peer-led family support groups for any adult with a loved one who has experienced symptoms of a mental health condition.  
 
 ### Healing from the mind outward
 How to use cognitive approaches like psychotherapy or mindfulness meditation to heal trauma.
@@ -619,24 +615,46 @@ Activity: [Sensate Focus](https://health.cornell.edu/sites/health/files/pdf-libr
 {{< media type="video" title="Sacred Masturbation 101" url="https://www.youtube.com/watch?v=fIdbyeydGvc" />}}
 {{< media type="video" title="Healthy Sexuality" url="https://www.youtube.com/watch?v=lE8wJ79eZ3s" />}}
 
+### On Being a Helper
+
+It can be extremely rewarding and challenging to help someone with PTSD.
+Helpers learn many spiritual lessons along the way.
+These books are fantastic when it comes to navigating your own trauma in relationship to a partner/family member/client/etc. Secondary trauma is real.
+
+{{< media type="book" title="Trauma Stewardship" url="https://www.amazon.com/Trauma-Stewardship-Everyday-Caring-Others/dp/157675944X/ref=sr_1_1?ie=UTF8&qid=1542321862&sr=8-1&keywords=vicarious+trauma" />}}
+{{< media type="book" title="Loving Someone with PTSD" url="https://www.amazon.com/Loving-Someone-PTSD-Understanding-Connecting/dp/1608827860" />}}
+{{< media type="book" title="Help for the Helper" url="https://www.amazon.com/Help-Helper-Psychophysiology-Compassion-Professional/dp/039370422X" />}}  
+
+[National Alliance on Mental Illness (NAMI)](https://nami.org/Home) offers free peer-led family support groups for any adult with a loved one who has experienced symptoms of a mental health condition.  
+
 ## Self care
 
-"Yoga," they said. "You should do some yoga it will be great."  
+"Yoga," they said. "You should do some yoga it will be great for you."  
 Whatever. I have better things to do.  
-That's a no from me.  
+Hard pass.  
 "I'm not a yoga person," you say.  
 
-And then, when you finally get out of your own way and take a yoga class, you're like.. "omg I feel so much better why didn't I do that all along?"
+And then, when you finally get out of your own way and take a yoga class,
+you're like.. "omg I feel so much better why didn't I do that all along?"
 
 A lot of self-care can feel that way.
 
-Or, worse, self-care can be triggering because we don't want to see how we've been neglecting ourselves. How lost we've allowed ourselves to become. If I really look at my finances... then I will have to face how awful they look and I'm not ready for that! Ugh.
+Or, worse, self-care can be triggering because we don't want to see how we've been neglecting ourselves.
+How lost we've allowed ourselves to become.
+If I really look at my finances... then I will have to face how awful they look and I'm not ready for that!
+Ugh.
 
-Self-care also takes time. It happens at a slower pace than we might be used to. It requires some diligence. If there's a lot of anxiety in your life, slowing down may not be easy. It may be the last thing you want to do. EVEN if you think it could really help.
+Self-care also takes time.
+It happens at a slower pace than we might be used to.
+It requires some patience and diligence that aren't always available in fight-or-flight.
+If there's a lot of anxiety in your life, slowing down may not be easy.
+It may be the last thing you want to do.
+EVEN if you think it could really help.
 
-Self-care asks that we be present, stop running, come into our bodies and pay attention to our health. And maybe we don't like what we see. Maybe there was a lot of neglect—years of neglect. It's easier to keep running.
+Self-care asks that we be present, stop running,
+come into our bodies and pay attention to our health.
 
-So it's best to start simple. One day I decided to start making sure my feet were happy. I discovered that I had been buying size 12 shoes but my feet were actually size 13. So I bought some shoes that fit, for once. I started moisturizing my feet before bed. I got a little pumice stone and started to exfoliate them in the shower. I got cute colorful socks I liked. I started clipping my toenails a bit more often. And now I know that no matter what kind of crazy shit is going on in my life, my feet are taken care of.
+> It's best to start simple. One day I decided to start making sure my feet were happy. I discovered that I had been buying size 12 shoes but my feet were actually size 13. So I bought some shoes that fit, for once. I started moisturizing my feet before bed. I got a little pumice stone and started to exfoliate them in the shower. I got cute colorful socks I liked. I started clipping my toenails a bit more often. And now I know that no matter what kind of crazy shit is going on in my life, my feet are taken care of.
 
 Self-care is a thousand tiny things like this.
 A single self-care effort won't feel like much and may not seem important.
@@ -686,6 +704,9 @@ You won't get any judgement from us; we just want you to be safe and healthy.
 
 ### Being an ally
 [100 Easy Ways to Make the World Better for Trans People](https://www.vice.com/en_us/article/kzjnjm/how-to-be-trans-ally-tips)
+{{< media type="book" title="Trans Allyship Workbook" url="https://www.amazon.com/Trans-Allyship-Workbook-Building-Support/dp/0990636917" />}}
+
+[Transwhat?](http://transwhat.org/) &mdash; an online guide towards allyship
 
 ## Transitioning
 Generally, look for clinitians and providers who use an [informed consent transition model](https://www.google.com/search?q=informed+consent+transition+model).
@@ -783,12 +804,8 @@ Outside the US:
 ### YouTube Channels, Podcasts, etc.
 [BlackTransTV](https://www.youtube.com/channel/UCeO9e-YaxVnhm9KVOvw9kgQ/videos)
 
-### Resources for Allies
-{{< media type="book" title="Trans Allyship Workbook" url="https://www.amazon.com/Trans-Allyship-Workbook-Building-Support/dp/0990636917" />}}
-
-[Transwhat?](http://transwhat.org/) &mdash; an online guide towards allyship
-
 ### Gender-related Books
+
 {{< media type="book" title="Gender: Your Guide" url="https://www.simonandschuster.com/books/Gender-Your-Guide/Lee-Airton/9781507210703" />}}
 {{< media type="book" title="Gender Outlaw" url="https://www.amazon.com/Gender-Outlaw-Men-Women-Rest/dp/1101973242/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=1101973242&pd_rd_r=GMSXYTV2V04N63WMSHRF&pd_rd_w=ZfFJ4&pd_rd_wg=Ev1Pd&psc=1&refRID=GMSXYTV2V04N63WMSHRF" />}}
 {{< media type="book" title="Women on the Edge of Time" url="https://www.amazon.com/Woman-Edge-Time-Marge-Piercy/dp/044900094X/ref=sr_1_1?ie=UTF8&qid=1508441968&sr=8-1&keywords=Woman+on+the+Edge+of+Time" >}} (novel){{< /media >}}
@@ -852,35 +869,16 @@ Five ways to build trust and commitment:
 
 If trust and commitment is the foundation of the house, here are the practices that build stability from the ground up:
 
-#### [Build Love Maps](https://www.gottman.com/blog/the-sound-relationship-house-build-love-maps/)
-
-* Maintain awareness of your partner’s world
-
-#### [Share Fondness and Admiration](https://www.gottman.com/blog/share-fondness-and-admiration/)
-
-* Make deposits into the Emotional Bank Account
-
-#### [Turn Towards Instead of Away](https://www.gottman.com/blog/turn-toward-instead-of-away/)
-
-* Watch for, and accept bids for emotional connection
-
-#### [The Positive Perspective](https://www.gottman.com/blog/the-positive-perspective/)
-
-* A positive perspective occurs when the friendship of your marriage is strong
-
-#### [Manage Conflict](https://www.gottman.com/blog/manage-conflict-the-six-skills/)
-
-* Accept influence from your partner: be open to compromise
-* Discuss your problems: take turns listening to one another about perpetual issues
-* Practice self-soothing: keep yourself calm
-
-#### [Make Life Dreams Come True](https://www.gottman.com/blog/make-life-dreams-come-true/)
-
-* Find ways to support each other’s life goals and dreams
-
-#### [Create Shared Meaning](https://www.gottman.com/blog/shared-meaning-is-key-to-a-successful-relationship/)
-
-* Build a shared sense of purpose. What is your mission and legacy?
+* [Build Love Maps](https://www.gottman.com/blog/the-sound-relationship-house-build-love-maps/) to maintain awareness of your partner’s world
+* [Share Fondness and Admiration](https://www.gottman.com/blog/share-fondness-and-admiration/) to make deposits into the Emotional Bank Account
+* [Turn Towards Instead of Away](https://www.gottman.com/blog/turn-toward-instead-of-away/) watch for, and accept bids for emotional connection
+* [The Positive Perspective](https://www.gottman.com/blog/the-positive-perspective/) a positive perspective occurs when the friendship of your marriage is strong
+* [Manage Conflict](https://www.gottman.com/blog/manage-conflict-the-six-skills/)
+    * Accept influence from your partner: be open to compromise
+    * Discuss your problems: take turns listening to one another about perpetual issues
+    * Practice self-soothing: keep yourself calm
+* [Make Life Dreams Come True](https://www.gottman.com/blog/make-life-dreams-come-true/) Find ways to support each other’s life goals and dreams
+* [Create Shared Meaning](https://www.gottman.com/blog/shared-meaning-is-key-to-a-successful-relationship/) Build a shared sense of purpose. What is your mission and legacy?
 
 ### 🚩 Domestic Violence Red Flags
 
@@ -923,12 +921,12 @@ Abusers who are motivated to change can very often recover, and learn healthy in
 Staying with them in an abusive relationship supports the wrong impulses and intentions, so it is the best thing for you and for them to let go and create a lot of distance.  
 
 
-## Some queer movies you might like
+## Queer movies and TV you might like
 
 Bring the tissues, you're gonna need em.
 
-[Trembling Before G-d (2001)](https://en.wikipedia.org/wiki/Trembling_Before_G-d), an American documentary film about gay and lesbian Orthodox Jews trying to reconcile their sexuality with their faith.  
 [Moonlight (2016)](https://www.imdb.com/title/tt4975722/) portrays the twin oppression of being black and queer in America.  
 [Paris is Burning (1990)](https://en.wikipedia.org/wiki/Paris_Is_Burning_(film)) an amazing chronicle of ball culture and vogueing in NYC in the 1980s  
-[Love, Simon (2018)](https://en.wikipedia.org/wiki/Love,_Simon)
-[The Wise Kids (2011)](https://en.wikipedia.org/wiki/The_Wise_Kids) follows a group of young members of a South Carolina Baptist church as they confront issues of homosexuality and a crisis of faith.
+[Love, Simon (2018)](https://en.wikipedia.org/wiki/Love,_Simon)  
+[Steven Universe](https://en.wikipedia.org/wiki/Steven_Universe) has great queer themes and LGBT representation
+[Heartstopper (2022-)](https://en.wikipedia.org/wiki/Heartstopper_(TV_series)) British coming-of-age romantic drama based on a webcomic
