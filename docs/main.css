@@ -276,6 +276,8 @@ a {
 body.dark-mode {
   background-color: #1a1a1a;
   color: #e0e0e0; }
+  body.dark-mode h4 {
+    color: #999; }
   body.dark-mode a {
     color: #7eb8e6; }
   body.dark-mode img {
@@ -323,3 +325,29 @@ article {
   main {
     margin-right: auto;
     margin-left: auto; } }
+
+.media-ref {
+  display: block;
+  clear: both;
+  width: 100%;
+  margin: 0.5em 0; }
+  .media-ref__type {
+    display: inline;
+    background-color: #e8e8e8;
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-size: 0.9em; }
+  .media-ref__icon {
+    margin-right: 3px; }
+  .media-ref__label {
+    font-weight: 500;
+    color: #555; }
+  .media-ref a {
+    color: inherit;
+    text-decoration: underline; }
+
+body.dark-mode .media-ref__type {
+  background-color: #3a3a3a; }
+
+body.dark-mode .media-ref__label {
+  color: #aaa; }

@@ -197,145 +197,154 @@ Are you struggling during or after an experience with psychedelics?
 
 🇺🇸 [Fireside Project](https://firesideproject.org) — psychedelic peer support hotline — [623.473.7433](tel:+16234737433)  
 
-### Addiction Support
-
 
 ## Finding Your Path
 
 ### How to come out
 
-Coming out of the closet is not a singular moment where the hero fabulously steps out on stage, loudly and confidently proclaiming their truth. It’s a lifelong journey of self-discovery (as you come out in new ways to yourself) and sharing (as you come out to new people in your life).
+Coming out of the closet is not a singular moment where the hero fabulously steps out on stage,
+loudly and confidently proclaiming their truth.
+It’s a lifelong journey
+of self-discovery (as you come out in new ways to yourself)
+and sharing (as you come out to new people in your life).
 
 What am I? That's the real question, isn't it.
 Which of these boxes that society has laid out for gender and sexuality apply to me?
 
-Forget about coming out to your family. First you have to come out to yourself.
-You may not even know what you would come out _as_. "Am I a lesbian?" "Am I nonbinary?" "Am I a butch trans girl?"
+For now, forget about coming out to your friends and family.
+First you have to come out to yourself.
+You may not even know what you would come out _as_.
+"Am I a lesbian?" "Am I non-binary? Pansexual?" "Am I a butch trans girl?"
 
-It's okay to just be confused for a while. You can even come out as confused. "I know I'm ... different."
+It's okay to just be confused.
+You can even come out to close friends as questioning.
+"I know I'm ... questioning things."
 
-You might gain some new understanding of yourself by describing what you feel to a supportive listener. Or simply by having experiences. Because we learn experientially, not by trying to "figure it out" alone. Google won't tell you who you are.
+You might gain some new understanding of yourself by describing
+what you feel to a supportive listener.
 
-You may not feel ready to come out as confused, even. That's okay. Just know that your own inner imagination will only get you so far. Maybe you found a few words that seem to describe your gender and/or sexuality, and you tried them on and, a year later, you see that they still ring true. Good. Might this change? Yes, but that's the beauty of self-discovery. Years from now, you might come out to yourself again, in some new ways. I'm not sure if these discoveries ever really end. But after you've lived with a new discovery internally for a while, taking action in the world is the best way to learn more about yourself. Because you only live once, after all.
+Maybe you found a few words that seem to describe your gender and/or sexuality,
+and you tried them on and, a year later, you see that they still ring true. Good.
+Might this change? Yes, totally. That's the beauty of self-discovery.
+Years from now, you might come out to yourself again, in some new ways.
+How boring would life be if all the personal discoveries were already done for us upon arrival?
+How fortunate are we that there will always be more to discover about ourselves?
 
-Coming out will, at some point, make someone around you feel uncomfortable. It's not your fault. But that doesn't make it feel any better to, for example, have someone scowl at you when you come out to them. Learning to weather other people's issues around sexuality is part of the journey.
+#### The body knows
 
-Queerphobia is so embedded in our collective consciousness that most people need time to discover the ways they have bought into and internalized society's phobias. This process of rewiring the phobias is a process of learning to celebrate and love parts of ourselves we were taught to hate, or to believe was unnatural, evil, against God, and so on.
+There's only so much one can understand in isolation and in trying to "figure it out" using the intellectual mind.
+Truth is, the body knows before the mind has language for it.
+We learn experientially.
+Gender and sexuality is a dynamic, complex, unfurling, shifting reality.
+It is deeply embodied.
+Some say that we all contain the divine masculine and the divine feminine.
+And, though they may help you explore your feelings, AI chatbots can't tell you who you are.
+
+After you've lived with a new discovery internally for a while,
+taking action in the world is the best way to learn more about yourself.
+
+This is an area where playful experimentation is greatly rewarded.
+Finding safe ways to play, not pushing yourself too hard,
+going 10-20% beyond your comfort zone to see how it feels.
+
+What would be a safe container for trying things out?
+For trying on pronouns, clothing, roles, sexual explorations?
+Not to prove anything, but to feel the response internally.
+
+#### Safety
+
+The reason safety matters so much here is,
+when you are feeling unsafe,
+it's impossible to stay connected to your internal truth.
+
+But, it's important to note,
+there will be uncomfortable moments,
+times when you are flooded emotionally.
+There is no perfect emotional container for avoiding this.
+But, if you find you're getting flooded very often,
+it may be a sign that you're pushing too hard.
+
+This process doesn't move at the pace of the ego, which is impatient.
+It moves at the pace of the nervous system, which has its own rhythms.
+When we match the nervous system's need for gentleness, tenderness, and patience,
+we will be rewarded with the gifts of discovery, euphoria, and connection to self and others.
+
+#### Releasing judgements
+
+Experimenting playfully is quite serious.
+We will inevitably come to certain discoveries that are challenging.
+Maybe we notice something surprising about how our body moves,
+or we open up to a new sexual desire,
+or we hear how our voice sounds, 
+or how we feel when we put on makeup or try on a suit and tie.
+
+In these moments, it can be hard to accept what the body does,
+what the body wants.
+We may come in contact with a sharp edge between who we think we are and who we really are.
+
+It can feel so scary.
+It can feel uncomfortable and repulsive at the same time as it feels totally and completely right.
+It can feel like our body has betrayed our ideas about ourself.
+Some gay men hate the sound of their voice.
+They hate their feminine qualities.
+They are in a culture that has vilified these qualities.
+They are coming into contact with the self-hatred that was taught to them
+long before they had a chance to claim their own truth.
+
+Coming out is ultimately about 
+falling in love with these parts of ourselves
+that challenge who we thought we were.
+Some call this, "embracing the shadow."
+
+Many people fight against their own truth for their entire lives.
+
+But, once we learn to love and accept our truth&mdash;
+once we really come out to ourselves&mdash;
+coming out to other people becomes trivial.
+
+#### Encountering queer and transphobia
+
+Coming out will, at some point, make someone around you feel uncomfortable.
+That's their work to deal with.
+Your truth might bring up for them all the ways they have denied their own truth.
+
+But, knowing that doesn't make it feel any better to, for example, have someone scowl at you when you come out to them.
+Learning to weather other people's issues around sexuality is part of the journey.
+
+These phobias are so embedded in our collective consciousness
+that most people need time to discover
+the ways they have bought into and internalized society's phobias.
+This process of rewiring the phobias is a process of learning to celebrate and love
+parts of ourselves we were taught to hate,
+or to believe was unnatural, evil, against God, and so on.
 
 [HRC: Resource Guide to Coming Out](https://assets2.hrc.org/files/assets/resources/resource_guide_april_2014.pdf) (PDF)   
 [The Trevor Project: Coming Out As YOU](https://www.thetrevorproject.org/wp-content/uploads/2017/09/ComingOutAsYou.pdf) (PDF)  
 
-### Internalized queerphobia can be unconscious
+#### Internalized queerphobia can be unconscious
 
 We have been taught a lot of ideas and have been fed messages from society about queerness, gender, gender roles, and sexuality. We've been taught that gender is a binary and not a specturm. And, these ideas can be so deeply wired that you can't really see how you carry them around, and how they affect you. Discovering how you've been socialized with toxic ideas from misinformed people is the first step toward letting these ideas go and further embracing yourself and the people around you.
 
-## Therapeutic Approaches
+## Religion and Spirituality
 
-### Assume you are traumatized
+The LGBTQ community can be extremely secular.  
+The religious community can be extremely queerphobic.  
+This can create deep challenges and loneliness for people.  
+And a profound sense of isolation.
 
-> "We see gay men who have never been sexually or physically assaulted with similar post-traumatic stress symptoms to people who have been in combat situations or who have been raped."  
-> — Alex Keuroghlian, a psychiatrist at the Fenway Institute's Center for Population Research in LGBT Health.
+{{< media type="film" title="Trembling Before G-d" url="https://en.wikipedia.org/wiki/Trembling_Before_G-d" >}}, a 2001 American documentary film about gay and lesbian Orthodox Jews trying to reconcile their sexuality with their faith.{{< /media >}}
+{{< media type="podcast" title="Finding love would mean letting go of who I am" url="https://www.estherperel.com/podcasts/finding-love-would-mean-letting-go-of-who-i-am" >}} with Esther Perel{{< /media >}}
+{{< media type="book" title="Pray the Gay Away" url="https://www.amazon.com/Pray-Gay-Away-Extraordinary-Lives/dp/0814786375" >}} by Bernadette Barton is a study of present-day religious oppression of LGBTQ people in the US{{< /media >}}
+{{< media type="film" title="Believer" url="https://g.co/kgs/gJ4pe3" >}} about the Mormon Church's inner struggle with LGBTQ rights, featuring Dan Reynolds of Imagine Dragons{{< /media >}}
 
-Emotional trauma is part of being alive. Every newborn has had to endure the trauma of separation from their parent. And then a lot of things happen after that. Parents unwittingly carry forward intergenerational wounds. Children are cruel to each other. We are damaged by our upbringing. And one challenge of adulthood is to get ourselves sorted out, to resolve our core dilemmas, to become whole again, to let go of the old childhood structures that hold us back as adults.
+[Affirmation](https://affirmation.org/), an independent organization supporting LGBTQ Mormons  
+[Science and Nonduality](https://www.scienceandnonduality.com/) (SAND) encourages spirituality without religious dogma, bringing scientists together in dialog with spiritual teachers  
 
-Trauma isn't always obvious to ourselves. We numb. We make up stories to explain why we are how we are, and that it is permanent. We may even learn to love our trauma, in a way, because we identify so closely with it.
-
-Here's a suggestion: If you're queer, _assume you are traumatized_ and make healing an ongoing project in your life. Others may think it's self-indulgent, but it's not. When you put in the effort to improve yourself, you make more of yourself available to others. When you bring a better you to the world, everyone benefits.
-
-### Healing is possible
-
-> “You can be fully in charge of your life only if you can acknowledge the reality of your body, in all its visceral dimensions.”  
-> — Bessel van der Kolk, “The Body Keeps the Score”
-
-The good news: It _is_ possible to heal trauma and triggers! We know a lot more about it than we did even ten years ago, and new tools are opening up possibilities for deep healing.
-
-The bad news: It's a long and sometimes bumpy journey. Everyone's path through healing trauma is different. Some people have a history of traumas with a lowercase t. Some have Traumas with a capital T. A few lowercase-t traumas spread out throughout childhood can be more debilitating than one capital-T trauma. It's possible to heal many kinds of trauma.
-
-Below is a list of trauma healing tools. Start anywhere that feels like it might be compelling. Don't give up on an approach if you're not seeing immediate results. It takes time for some of these approaches to really be effective.
-
-### DIY trauma workbooks
-[The Complex PTSD Workbook](https://www.amazon.com/Complex-PTSD-Workbook-Mind-Body-Regaining/dp/1623158249)  
-[Complex PTSD: From Surviving to Thriving](https://www.amazon.com/dp/B00HJBMDXK/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)  
-[Trauma Survivors Strategies for Healing](https://www.amazon.com/Trauma-Survivors-Strategies-Healing-Workbook/dp/1641521333)  
-[Trauma & Recovery](https://www.amazon.com/Trauma-Recovery-Aftermath-Violence-Political/dp/0465087302) — great book about the nature of trauma  
-[CPTSD: From Surviving to Thriving](https://www.amazon.com/Complex-PTSD-Surviving-RECOVERING-CHILDHOOD/dp/1492871842)  
-
-### Movies to Watch
-[The Wisdom of Trauma](https://thewisdomoftrauma.com/) — How our deepest pain can be a doorway to healing.  
-[The Work](https://en.wikipedia.org/wiki/The_Work_(film)) is a film about a trauma release group therapy program inside Folsom prison. It's very powerful.  
-
-### General Trauma Resources
-[Trauma Research Foundation](https://traumaresearchfoundation.org/) is a community of researchers and clinicians who are committed to developing innovative methods for the treatment of people of all ages who have experienced trauma.  
-YouTube: [TRF Tuesday](https://www.youtube.com/c/TraumaResearchFoundation/videos) from Trauma Research Foundation  
-YouTube: [Crappy Childhood Fairy](https://www.youtube.com/c/CrappyChildhoodFairy)   
-
-### On Being a Helper
-As for being a helper or balancing the role of a helper, these books are fantastic when it comes to navigating your own trauma in relationship to a partner/family member/client/etc. Secondary trauma is real.
-
-[Trauma Stewardship](https://www.amazon.com/Trauma-Stewardship-Everyday-Caring-Others/dp/157675944X/ref=sr_1_1?ie=UTF8&qid=1542321862&sr=8-1&keywords=vicarious+trauma)  
-[Loving Someone with PTSD](https://www.amazon.com/Loving-Someone-PTSD-Understanding-Connecting/dp/1608827860)  
-[Help for the Helper](https://www.amazon.com/Help-Helper-Psychophysiology-Compassion-Professional/dp/039370422X)  
-[National Alliance on Mental Illness (NAMI)](https://nami.org/Home) offers free peer-led family support groups for any adult with a loved one who has experienced symptoms of a mental health condition.  
-
-### Healing from the mind outward
-How to use cognitive approaches like psychotherapy or mindfulness meditation to heal trauma.
-
-Psychodynamic group therapy  
-Mindfulness Meditation — Insight Meditation & Vipassana retreats  
-[Organic Intelligence](https://organicintelligence.org/)  
-[Brainspotting](https://brainspotting.com/)  
-Expressive arts eg. painting, photography, film and scriptwriting  
-
-Therapy means so many things. There are many kinds of therapists. So, it's worth learning about various modalities (there are many) and talking to several therapists so that your work will be effective. With the wrong kind of therapy, it's easy to waste a lot of money. But the right kind of therapy is absolutely life changing and is worth every penny.
-
-#### Eye Movement Desensitization and Reprocessing (EMDR) Therapy
-EMDR is used for healing trauma, depression, anxiety, addiction, and phobias. It is different from talk therapy. It uses eye movement (or sounds or vibrations). When you recall a traumatic memory while doing these calming eye movements, the memory gradually loses its charge.
-
-No one knows quite why it works, but the eye movement is similar to what happens during deep sleep. The theory is that trauma is stored in the part of the brain that isn't accessible via talking, so while talk therapy may feel good at the time, it doesn't always have a lasting impact. EMDR makes it possible to truly heal old trauma, sometimes in just a few sessions.
-
-Video: [Healing Trauma with EMDR](https://vimeo.com/179500047)  
-Book: [The Body Keeps the Score](https://www.amazon.com/Body-Keeps-Score-Healing-Trauma/dp/0143127748/ref=pd_bxgy_14_img_2?_encoding=UTF8&pd_rd_i=0143127748&pd_rd_r=E77WSHZ3GQWMTJGADVET&pd_rd_w=A0qUV&pd_rd_wg=lJoLK&psc=1&refRID=E77WSHZ3GQWMTJGADVET&dpID=51HZpvdVMjL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=detail) by Bessel van der Kolk talks about the power of EMDR and somatic therapies for healing trauma  
-[Parnell Institute](http://parnellemdr.com/) directory of EMDR therapists   
-Article: ["Does EMDR Work?"](https://www.theguardian.com/lifeandstyle/2018/sep/10/mel-b-is-watching-flashing-lights-to-help-with-trauma-but-does-emdr-therapy-really-work) (The Guardian, 2018)
-
-#### Cognitive Behavioral Therapy (CBT)
-Aside from EMDR, Cognitive Behavioral Therapy has been shown to help with trauma release. It is a more traditional talk-centered approach that aims to rewrite the underlying beliefs that lead to depression and anxiety.
-
-App: [Sanvello](https://www.sanvello.com/) is an app that helps you relieve symptoms of stress, anxiety, and depression  
-Video: [Feeling Good](https://www.youtube.com/watch?v=H1T5uMeYv9Q) TED talk by CBT practitioner David Burns  
-Book: [Feeling Good](https://www.amazon.com/dp/B009UW5X4C) very popular book that has helped a lot of people with mood disorders, by David Burns
-
-### Reduced-rate therapy
-Can't afford a therapist right now? There are many ways to get free therapy, so don't give up the search. You can go to a training clinic at a university, for a reduced rate. If you're in the US, you may be able to use Medicaid. Call [SAMHSA](https://findtreatment.samhsa.gov/) at 800.662.4357 to speak with someone, confidentially, who can help you find options.
-
-### Meditation & Spirituality
-Meditation is very powerful and can be used to [reduce the symptoms of PTSD](https://www.psychologytoday.com/blog/the-athletes-way/201601/meditation-reduces-post-traumatic-stress-disorder-symptoms) by calming the nervous system.
-
-[Meditating with PTSD](https://www.headspace.com/blog/2016/12/11/meditating-with-ptsd/)  
-Book: [The Mind Illuminated](https://www.amazon.com/dp/B01INMZKAQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)   
-[Oak meditation app](https://www.oakmeditation.com/)  
-[Insight Timer](https://insighttimer.com/)  
-
-Here's a few general books about reconnecting to yourself and your spirituality or consciousness as it exists separate from religion.
-
-[Loving What Is](https://www.amazon.com/Loving-What-Four-Questions-Change/dp/1400045371) by Byron Katie  
-[The Untethered Soul](https://www.amazon.com/dp/B003TU29WA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Michael Singer  
-[Waking Up](https://www.amazon.com/Waking-Up-Spirituality-Without-Religion-ebook/dp/B00GEEB9YC/ref=pd_sim_351_4/141-1672324-3364658?_encoding=UTF8&pd_rd_i=B00GEEB9YC&pd_rd_r=494f7db1-7da6-11e9-8740-41568e48106d&pd_rd_w=QilcK&pd_rd_wg=q1iHF&pf_rd_p=90485860-83e9-4fd9-b838-b28a9b7fda30&pf_rd_r=07VFDCEKSQDH2HMJ2SM5&psc=1&refRID=07VFDCEKSQDH2HMJ2SM5) by Sam Harris  
-[The End of Your World](https://www.amazon.com/End-Your-World-Uncensored-Enlightenment/dp/1591797799) by Adyashanti  
-
-### Religion & Spirituality
-
-A lot of LGBTQ oppression comes from religious organizations. So if you come from a religious background, does this mean you have to stop being religious? Not at all. There are lots of options, and many inclusive churches and spiritual communities.
+#### Inclusive churches and spiritual communities
 
 [Unity](http://www.unity.org/resources/lgbtq)  
 [Unitarian Universalist](https://www.uua.org/)  
 Many [United Methodist](http://www.umc.org/) churches (there is an ongoing dispute about LGBTQ rights within the UMC)  
-
-Book: [Pray the Gay Away](https://www.amazon.com/Pray-Gay-Away-Extraordinary-Lives/dp/0814786375) by Bernadette Barton is a study of present-day religious oppression of LGBTQ people in the US  
-Film: [Believer](https://g.co/kgs/gJ4pe3) about the Mormon Church's inner struggle with LGBTQ rights, featuring Dan Reynolds of Imagine Dragons  
-Film: [Trembling Before G-d](https://en.wikipedia.org/wiki/Trembling_Before_G-d), a 2001 American documentary film about gay and lesbian Orthodox Jews trying to reconcile their sexuality with their faith.  
-[Affirmation](https://affirmation.org/), an independent organization supporting LGBTQ Mormons  
-[Science and Nonduality](https://www.scienceandnonduality.com/) (SAND) encourages spirituality without religious dogma, bringing scientists together in dialog with spiritual teachers  
 
 ### Follow a Dead Teacher
 
@@ -364,6 +373,101 @@ Pia Mellody ([videos](https://www.youtube.com/watch?v=bFtHq7-dvHs))
 [Eckhart Tolle](https://eckharttolle.com/) ([videos](https://www.youtube.com/channel/UCj9fPezLH1HUh7mSo-tB1Mg))  
 [Sri Prem Baba](https://www.sriprembaba.org/en/)  
 
+## Therapeutic Approaches
+
+### Assume you are traumatized
+
+> "We see gay men who have never been sexually or physically assaulted with similar post-traumatic stress symptoms to people who have been in combat situations or who have been raped."  
+> — Alex Keuroghlian, a psychiatrist at the Fenway Institute's Center for Population Research in LGBT Health.
+
+Emotional trauma is part of being alive. Every newborn has had to endure the trauma of separation from their parent. And then a lot of things happen after that. Parents unwittingly carry forward intergenerational wounds. Children are cruel to each other. We are damaged by our upbringing. And one challenge of adulthood is to get ourselves sorted out, to resolve our core dilemmas, to become whole again, to let go of the old childhood structures that hold us back as adults.
+
+Trauma isn't always obvious to ourselves. We numb. We make up stories to explain why we are how we are, and that it is permanent. We may even learn to love our trauma, in a way, because we identify so closely with it.
+
+Here's a suggestion: If you're queer, _assume you are traumatized_ and make healing an ongoing project in your life. Others may think it's self-indulgent, but it's not. When you put in the effort to improve yourself, you make more of yourself available to others. When you bring a better you to the world, everyone benefits.
+
+### Healing is possible
+
+> “You can be fully in charge of your life only if you can acknowledge the reality of your body, in all its visceral dimensions.”  
+> — Bessel van der Kolk, “The Body Keeps the Score”
+
+The good news: It _is_ possible to heal trauma and triggers! We know a lot more about it than we did even ten years ago, and new tools are opening up possibilities for deep healing.
+
+The bad news: It's a long and sometimes bumpy journey. Everyone's path through healing trauma is different. Some people have a history of traumas with a lowercase t. Some have Traumas with a capital T. A few lowercase-t traumas spread out throughout childhood can be more debilitating than one capital-T trauma. It's possible to heal many kinds of trauma.
+
+Below is a list of trauma healing tools. Start anywhere that feels like it might be compelling. Don't give up on an approach if you're not seeing immediate results. It takes time for some of these approaches to really be effective.
+
+### DIY trauma workbooks
+{{< media type="book" title="The Complex PTSD Workbook" url="https://www.amazon.com/Complex-PTSD-Workbook-Mind-Body-Regaining/dp/1623158249" />}}
+{{< media type="book" title="Complex PTSD: From Surviving to Thriving" url="https://www.amazon.com/dp/B00HJBMDXK/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1" />}}
+{{< media type="book" title="Trauma Survivors Strategies for Healing" url="https://www.amazon.com/Trauma-Survivors-Strategies-Healing-Workbook/dp/1641521333" />}}
+{{< media type="book" title="Trauma & Recovery" url="https://www.amazon.com/Trauma-Recovery-Aftermath-Violence-Political/dp/0465087302" >}} — great book about the nature of trauma{{< /media >}}
+{{< media type="book" title="CPTSD: From Surviving to Thriving" url="https://www.amazon.com/Complex-PTSD-Surviving-RECOVERING-CHILDHOOD/dp/1492871842" />}}
+
+### Movies to Watch
+[The Wisdom of Trauma](https://thewisdomoftrauma.com/) — How our deepest pain can be a doorway to healing.  
+[The Work](https://en.wikipedia.org/wiki/The_Work_(film)) is a film about a trauma release group therapy program inside Folsom prison. It's very powerful.  
+
+### General Trauma Resources
+[Trauma Research Foundation](https://traumaresearchfoundation.org/) is a community of researchers and clinicians who are committed to developing innovative methods for the treatment of people of all ages who have experienced trauma.  
+YouTube: [TRF Tuesday](https://www.youtube.com/c/TraumaResearchFoundation/videos) from Trauma Research Foundation  
+YouTube: [Crappy Childhood Fairy](https://www.youtube.com/c/CrappyChildhoodFairy)   
+
+### On Being a Helper
+As for being a helper or balancing the role of a helper, these books are fantastic when it comes to navigating your own trauma in relationship to a partner/family member/client/etc. Secondary trauma is real.
+
+{{< media type="book" title="Trauma Stewardship" url="https://www.amazon.com/Trauma-Stewardship-Everyday-Caring-Others/dp/157675944X/ref=sr_1_1?ie=UTF8&qid=1542321862&sr=8-1&keywords=vicarious+trauma" />}}
+{{< media type="book" title="Loving Someone with PTSD" url="https://www.amazon.com/Loving-Someone-PTSD-Understanding-Connecting/dp/1608827860" />}}
+{{< media type="book" title="Help for the Helper" url="https://www.amazon.com/Help-Helper-Psychophysiology-Compassion-Professional/dp/039370422X" />}}  
+
+[National Alliance on Mental Illness (NAMI)](https://nami.org/Home) offers free peer-led family support groups for any adult with a loved one who has experienced symptoms of a mental health condition.  
+
+### Healing from the mind outward
+How to use cognitive approaches like psychotherapy or mindfulness meditation to heal trauma.
+
+Psychodynamic group therapy  
+Mindfulness Meditation — Insight Meditation & Vipassana retreats  
+[Organic Intelligence](https://organicintelligence.org/)  
+[Brainspotting](https://brainspotting.com/)  
+Expressive arts eg. painting, photography, film and scriptwriting  
+
+Therapy means so many things. There are many kinds of therapists. So, it's worth learning about various modalities (there are many) and talking to several therapists so that your work will be effective. With the wrong kind of therapy, it's easy to waste a lot of money. But the right kind of therapy is absolutely life changing and is worth every penny.
+
+#### Eye Movement Desensitization and Reprocessing (EMDR) Therapy
+EMDR is used for healing trauma, depression, anxiety, addiction, and phobias. It is different from talk therapy. It uses eye movement (or sounds or vibrations). When you recall a traumatic memory while doing these calming eye movements, the memory gradually loses its charge.
+
+No one knows quite why it works, but the eye movement is similar to what happens during deep sleep. The theory is that trauma is stored in the part of the brain that isn't accessible via talking, so while talk therapy may feel good at the time, it doesn't always have a lasting impact. EMDR makes it possible to truly heal old trauma, sometimes in just a few sessions.
+
+{{< media type="video" title="Healing Trauma with EMDR" url="https://vimeo.com/179500047" />}}
+{{< media type="book" title="The Body Keeps the Score" url="https://www.amazon.com/Body-Keeps-Score-Healing-Trauma/dp/0143127748/ref=pd_bxgy_14_img_2?_encoding=UTF8&pd_rd_i=0143127748&pd_rd_r=E77WSHZ3GQWMTJGADVET&pd_rd_w=A0qUV&pd_rd_wg=lJoLK&psc=1&refRID=E77WSHZ3GQWMTJGADVET&dpID=51HZpvdVMjL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=detail" >}} by Bessel van der Kolk talks about the power of EMDR and somatic therapies for healing trauma{{< /media >}}
+
+[Parnell Institute](http://parnellemdr.com/) directory of EMDR therapists
+Article: ["Does EMDR Work?"](https://www.theguardian.com/lifeandstyle/2018/sep/10/mel-b-is-watching-flashing-lights-to-help-with-trauma-but-does-emdr-therapy-really-work) (The Guardian, 2018)
+
+#### Cognitive Behavioral Therapy (CBT)
+Aside from EMDR, Cognitive Behavioral Therapy has been shown to help with trauma release. It is a more traditional talk-centered approach that aims to rewrite the underlying beliefs that lead to depression and anxiety.
+
+{{< media type="video" title="Feeling Good" url="https://www.youtube.com/watch?v=H1T5uMeYv9Q" >}} TED talk by CBT practitioner David Burns{{< /media >}}
+{{< media type="book" title="Feeling Good" url="https://www.amazon.com/dp/B009UW5X4C" >}} very popular book that has helped a lot of people with mood disorders, by David Burns{{< /media >}}
+
+### Reduced-rate therapy
+Can't afford a therapist right now? There are many ways to get free therapy, so don't give up the search. You can go to a training clinic at a university, for a reduced rate. If you're in the US, you may be able to use Medicaid. Call [SAMHSA](https://findtreatment.samhsa.gov/) at 800.662.4357 to speak with someone, confidentially, who can help you find options.
+
+### Meditation & Spirituality
+Meditation is very powerful and can be used to [reduce the symptoms of PTSD](https://www.psychologytoday.com/blog/the-athletes-way/201601/meditation-reduces-post-traumatic-stress-disorder-symptoms) by calming the nervous system.
+
+[Meditating with PTSD](https://www.headspace.com/blog/2016/12/11/meditating-with-ptsd/)  
+{{< media type="book" title="The Mind Illuminated" url="https://www.amazon.com/dp/B01INMZKAQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1" />}}
+[Oak meditation app](https://www.oakmeditation.com/)
+[Insight Timer](https://insighttimer.com/)  
+
+Here's a few general books about reconnecting to yourself and your spirituality or consciousness as it exists separate from religion.
+
+{{< media type="book" title="Loving What Is" url="https://www.amazon.com/Loving-What-Four-Questions-Change/dp/1400045371" >}} by Byron Katie{{< /media >}}
+{{< media type="book" title="The Untethered Soul" url="https://www.amazon.com/dp/B003TU29WA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1" >}} by Michael Singer{{< /media >}}
+{{< media type="book" title="Waking Up" url="https://www.amazon.com/Waking-Up-Spirituality-Without-Religion-ebook/dp/B00GEEB9YC/ref=pd_sim_351_4/141-1672324-3364658?_encoding=UTF8&pd_rd_i=B00GEEB9YC&pd_rd_r=494f7db1-7da6-11e9-8740-41568e48106d&pd_rd_w=QilcK&pd_rd_wg=q1iHF&pf_rd_p=90485860-83e9-4fd9-b838-b28a9b7fda30&pf_rd_r=07VFDCEKSQDH2HMJ2SM5&psc=1&refRID=07VFDCEKSQDH2HMJ2SM5" >}} by Sam Harris{{< /media >}}
+{{< media type="book" title="The End of Your World" url="https://www.amazon.com/End-Your-World-Uncensored-Enlightenment/dp/1591797799" >}} by Adyashanti{{< /media >}}
+
 #### Neurofeedback
 Neurofeedback uses EEG monitoring to improve brain functioning as you learn to alter your brain activity. By using computer imaging, you receive direct feedback through a “brain map” that indicates areas of your brain with excessive activity associated with PTSD, such as your fear center. Here you learn how to relax your body and mind to activate the outermost layer of your brain; that which is associated with thinking and decision-making. Typically, 20 sessions will give you enough feedback to understand how to facilitate regulation of your body and mind on your own.
 
@@ -384,12 +488,12 @@ Ketamine-Assisted Therapy is currently one of the most accessible medicine-assis
 [MAPS](https://maps.org/) &mdash; Multidisciplinary Association for Psychedelic Studies  
 [Psychedelic Integration](https://maps.org/integration-station/) &mdash; MAPS workbook on integrating a psychedelic experience
 
-Book: [How to Change Your Mind](https://www.amazon.com/dp/B076GPJXWZ) by Michael Pollan  
-Book: [Trust Surrender Receive: How MDMA Can Release Us From Trauma and PTSD](https://www.amazon.com/Trust-Surrender-Receive-Release-Trauma/dp/1619617382) by Anne Other  
-Book: [The Wild Kindness: A Psilocybin Odyssey](https://www.amazon.com/gp/product/1948340313) by Bett Williams
-Video: [The future of psychedelic-assisted psychotherapy](https://www.ted.com/talks/rick_doblin_the_future_of_psychedelic_assisted_psychotherapy) TED talk by Rick Doblin, head of MAPS  
-Movie: [MDMA: The Movie](https://mdmathemovie.com/)  
-Movie: [Trip of Compassion](https://vimeo.com/ondemand/tripofcompassion), about MDMA trials in Israel for trauma release  
+{{< media type="book" title="How to Change Your Mind" url="https://www.amazon.com/dp/B076GPJXWZ" >}} by Michael Pollan{{< /media >}}
+{{< media type="book" title="Trust Surrender Receive: How MDMA Can Release Us From Trauma and PTSD" url="https://www.amazon.com/Trust-Surrender-Receive-Release-Trauma/dp/1619617382" >}} by Anne Other{{< /media >}}
+{{< media type="book" title="The Wild Kindness: A Psilocybin Odyssey" url="https://www.amazon.com/gp/product/1948340313" >}} by Bett Williams{{< /media >}}
+{{< media type="video" title="The future of psychedelic-assisted psychotherapy" url="https://www.ted.com/talks/rick_doblin_the_future_of_psychedelic_assisted_psychotherapy" >}} TED talk by Rick Doblin, head of MAPS{{< /media >}}
+{{< media type="film" title="MDMA: The Movie" url="https://mdmathemovie.com/" />}}
+{{< media type="film" title="Trip of Compassion" url="https://vimeo.com/ondemand/tripofcompassion" >}}, about MDMA trials in Israel for trauma release{{< /media >}}
 
 ### Integration
 
@@ -440,8 +544,8 @@ The practice involves a series of exercises that gently fatigue the muscles, fol
 
 **Safety notes:** While TRE is generally safe, it can bring up intense emotions or physical sensations. Start slowly, especially if you have a history of severe trauma. Consider working with a certified TRE provider initially, particularly if you have dissociative tendencies or feel overwhelmed easily. You're always in control and can stop the tremoring at any time.
 
-Video: [TRE Exercises Overview](https://www.youtube.com/watch?v=QoB9wpuO688) — A comprehensive introduction
-Video: TRE At-Home Exercises [1](https://www.youtube.com/watch?v=FeUioDuJjFI) [2](https://www.youtube.com/watch?v=26zoFKZzbQc) — Practice guides
+{{< media type="video" title="TRE Exercises Overview" url="https://www.youtube.com/watch?v=QoB9wpuO688" >}} — A comprehensive introduction{{< /media >}}
+{{< media type="video" title="TRE At-Home Exercises" url="https://www.youtube.com/watch?v=FeUioDuJjFI" >}} — Practice guides ([part 2](https://www.youtube.com/watch?v=26zoFKZzbQc)){{< /media >}}
 [Find a certified TRE provider](https://treglobal.org/tre-provider-list/)
 
 #### Psychedelic Somatic Therapy
@@ -465,7 +569,7 @@ Unlike traditional talk therapy, psychedelic somatic therapy works with the body
 [Craniosacral Therapy](https://en.m.wikipedia.org/wiki/Craniosacral_therapy)  
 Yelling and screaming and beating sticks against trees  
 Ecstatic dance  
-[Laughter Meditation](https://www.youtube.com/watch?v=XzktEXmKYCY)  
+[Laughter Meditation](https://www.youtube.com/watch?v=XzktEXmKYCY)
 Treating yourself to a local spa / sauna / massage / steam room  
 Tai Chi, Qi Gong, or other body / movement practices  
 
@@ -473,9 +577,9 @@ Tai Chi, Qi Gong, or other body / movement practices
 Yoga is a huge world and there are so many styles that are different from each other. Some deeply spiritual, some that feel like an exercise class. Some are fast and sweaty and hot, and others are slow and deliberate and restorative. Every body needs something different. Here are a few yoga styles:
 
 [Trauma Sensitive Yoga](https://www.traumasensitiveyoga.com/)  
-Video: [Yin Yoga](https://www.youtube.com/watch?v=IK9k5y_47cA) for deep emotional release  
-YouTube Channel: [aad yog](https://www.youtube.com/channel/UCn2ZwNbSE0QGWoT4ESc7JmA) is an ancient form of yoga without alteration and adulteration  
-Video: [Qi Gong](https://www.youtube.com/watch?v=5NHZdqEzAtE&feature=youtu.be) — a 30 minute yogic qi gong routine with instruction  
+{{< media type="video" title="Yin Yoga" url="https://www.youtube.com/watch?v=IK9k5y_47cA" >}} for deep emotional release{{< /media >}}
+{{< media type="video" title="aad yog" url="https://www.youtube.com/channel/UCn2ZwNbSE0QGWoT4ESc7JmA" >}} is an ancient form of yoga without alteration and adulteration{{< /media >}}
+{{< media type="video" title="Qi Gong" url="https://www.youtube.com/watch?v=5NHZdqEzAtE&feature=youtu.be" >}} — a 30 minute yogic qi gong routine with instruction{{< /media >}}
 
 #### Breath Work
 It seems so simple, but breath work can be very powerful for healing.
@@ -492,9 +596,9 @@ Alternate Nostril Breathing: Close your right nostril and breathe in through you
 #### Somatic Experiencing
 Somatic Experiencing is a body-oriented approach to trauma healing. It attempts to promote body awareness and release the residual physical tension that remains in the aftermath of trauma. It is sometimes used in conjunction with EMDR or other modalities.
 
-[Somatic Experiencing Trauma Institute](https://traumahealing.org/) directory of SE therapists  
-Book: [Waking the Tiger](https://www.amazon.com/Waking-Tiger-Healing-Peter-Levine/dp/155643233X/ref=pd_sbs_14_7?_encoding=UTF8&pd_rd_i=155643233X&pd_rd_r=c2da41bd-7da5-11e9-9473-d5397df71b98&pd_rd_w=E4tiC&pd_rd_wg=fpQ9D&pf_rd_p=588939de-d3f8-42f1-a3d8-d556eae5797d&pf_rd_r=SMTW2FW4RM80CGJVQ1D5&psc=1&refRID=SMTW2FW4RM80CGJVQ1D5) by Peter Levine, creator of SE  
-Book: [In An Unspoken Voice](https://www.amazon.com/Unspoken-Voice-Releases-Restores-Goodness/dp/1556439431/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=1556439431&pd_rd_r=XZECHX8BCPBDP7EYXV8P&pd_rd_w=WJCAo&pd_rd_wg=jBCzT&psc=1&refRID=XZECHX8BCPBDP7EYXV8P) by Peter Levine  
+[Somatic Experiencing Trauma Institute](https://traumahealing.org/) directory of SE therapists
+{{< media type="book" title="Waking the Tiger" url="https://www.amazon.com/Waking-Tiger-Healing-Peter-Levine/dp/155643233X/ref=pd_sbs_14_7?_encoding=UTF8&pd_rd_i=155643233X&pd_rd_r=c2da41bd-7da5-11e9-9473-d5397df71b98&pd_rd_w=E4tiC&pd_rd_wg=fpQ9D&pf_rd_p=588939de-d3f8-42f1-a3d8-d556eae5797d&pf_rd_r=SMTW2FW4RM80CGJVQ1D5&psc=1&refRID=SMTW2FW4RM80CGJVQ1D5" >}} by Peter Levine, creator of SE{{< /media >}}
+{{< media type="book" title="In An Unspoken Voice" url="https://www.amazon.com/Unspoken-Voice-Releases-Restores-Goodness/dp/1556439431/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=1556439431&pd_rd_r=XZECHX8BCPBDP7EYXV8P&pd_rd_w=WJCAo&pd_rd_wg=jBCzT&psc=1&refRID=XZECHX8BCPBDP7EYXV8P" >}} by Peter Levine{{< /media >}}
 
 #### Ketogenic diet
 Could be promising for PTSD, but there's not a whole lot of research here.  
@@ -506,8 +610,8 @@ Of course, having sex is fun. But sexuality also has a spiritual component for t
 
 Activity: [Sensate Focus](https://health.cornell.edu/sites/health/files/pdf-library/sensate-focus.pdf) is a way of experiencing touch in a non-goal-directed way (not trying to have an orgasm) that is focused on the experience and sensations, rather than on evaluation. It allows people to practice intimacy by thinking less, and feeling more.
 
-Video: [Sacred Masturbation 101](https://www.youtube.com/watch?v=fIdbyeydGvc)  
-Video: [Healthy Sexuality](https://www.youtube.com/watch?v=lE8wJ79eZ3s)  
+{{< media type="video" title="Sacred Masturbation 101" url="https://www.youtube.com/watch?v=fIdbyeydGvc" />}}
+{{< media type="video" title="Healthy Sexuality" url="https://www.youtube.com/watch?v=lE8wJ79eZ3s" />}}
 
 ## Self care
 
@@ -568,7 +672,8 @@ You won't get any judgement from us; we just want you to be safe and healthy.
 [DanceSafe](http://dancesafe.org) is a non-profit promoting health and safety within the nightlife and EDM community. Anything from testing your drugs and making sure they are clean, to hearing protection, to figuring out how to get home safely. DanceSafe has two fundamental operating principles: harm reduction and peer-based, popular education.
 
 ## Trans & gender 101
-[Trans 101](https://www.youtube.com/watch?v=VRH0pwENbx8&list=PL7SgbxvTR7N5-jYeT2Coj99qnRQTIArKP&index=1) YouTube series  
+{{< media type="video" title="Trans 101" url="https://www.youtube.com/watch?v=VRH0pwENbx8&list=PL7SgbxvTR7N5-jYeT2Coj99qnRQTIArKP&index=1" >}} YouTube series{{< /media >}}
+
 [Transgender Map](https://www.transgendermap.com/) website is a nice way to get a understanding of options and pathways in transition
 
 ### Learning about your identity
@@ -635,24 +740,24 @@ Outside the US:
 ### Fashion
 
 #### Clothes
-Shop: [Long Tall Sally](https://www.longtallsally.com/us/) fashion for tall girls  
+{{< media type="shop" title="Long Tall Sally" url="https://www.longtallsally.com/us/" >}} fashion for tall girls{{< /media >}}
 
 #### Wigs
-Shop: [The Hair Shop](https://www.thehairshop.com/)
+{{< media type="shop" title="The Hair Shop" url="https://www.thehairshop.com/" />}}
 
 #### Enby underwear
-Shop: [Tomboyx](https://tomboyx.com/)  
-Shop: [Rebirth Garments](http://rebirthgarments.com/)  
-Shop: [Origami Customs](https://origamicustoms.com/)  
+{{< media type="shop" title="Tomboyx" url="https://tomboyx.com/" />}}
+{{< media type="shop" title="Rebirth Garments" url="http://rebirthgarments.com/" />}}
+{{< media type="shop" title="Origami Customs" url="https://origamicustoms.com/" />}}
 
 #### Tucking & gaffs
-[Tucking: A Comprehensive Guide](https://www.youtube.com/watch?v=dKMO-ZA7tTE)  
-Shop: [Chrysalis Lingerie](https://chrysalislingerie.bigcartel.com/)  
-Shop: [GI Collection](https://gicollection.co.uk)  
+{{< media type="video" title="Tucking: A Comprehensive Guide" url="https://www.youtube.com/watch?v=dKMO-ZA7tTE" />}}
+{{< media type="shop" title="Chrysalis Lingerie" url="https://chrysalislingerie.bigcartel.com/" />}}
+{{< media type="shop" title="GI Collection" url="https://gicollection.co.uk" />}}
 
 ### Binding
-[Your Friendly Neighborhood Binding Safety Guide](http://www.idontdoboxes.org/your-friendly-neighborhood-binding-safety-guide/)  
-Shop: [all is fair in love and wear](https://www.allisfairinloveandwear.com/)  
+[Your Friendly Neighborhood Binding Safety Guide](http://www.idontdoboxes.org/your-friendly-neighborhood-binding-safety-guide/)
+{{< media type="shop" title="all is fair in love and wear" url="https://www.allisfairinloveandwear.com/" />}}
 
 * Don't bind if you have breast implants
 
@@ -674,14 +779,16 @@ Shop: [all is fair in love and wear](https://www.allisfairinloveandwear.com/)
 [BlackTransTV](https://www.youtube.com/channel/UCeO9e-YaxVnhm9KVOvw9kgQ/videos)
 
 ### Resources for Allies
-[Trans Allyship Workbook](https://www.amazon.com/Trans-Allyship-Workbook-Building-Support/dp/0990636917)  
+{{< media type="book" title="Trans Allyship Workbook" url="https://www.amazon.com/Trans-Allyship-Workbook-Building-Support/dp/0990636917" />}}
+
 [Transwhat?](http://transwhat.org/) &mdash; an online guide towards allyship
 
 ### Gender-related Books
-[Gender: Your Guide](https://www.simonandschuster.com/books/Gender-Your-Guide/Lee-Airton/9781507210703)  
-[Gender Outlaw](https://www.amazon.com/Gender-Outlaw-Men-Women-Rest/dp/1101973242/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=1101973242&pd_rd_r=GMSXYTV2V04N63WMSHRF&pd_rd_w=ZfFJ4&pd_rd_wg=Ev1Pd&psc=1&refRID=GMSXYTV2V04N63WMSHRF)  
-[Women on the Edge of Time](https://www.amazon.com/Woman-Edge-Time-Marge-Piercy/dp/044900094X/ref=sr_1_1?ie=UTF8&qid=1508441968&sr=8-1&keywords=Woman+on+the+Edge+of+Time) (novel)  
-[Hothead Paisan: Homicidal Lesbian Terrorist](https://www.amazon.com/Hothead-Paisan-Homicidal-Lesbian-Terrorist/dp/0939416735/ref=sr_1_1?s=books&ie=UTF8&qid=1508442019&sr=1-1&keywords=Hothead+Paisan%3A+Homicidal+Lesbian+Terrorist)  
+{{< media type="book" title="Gender: Your Guide" url="https://www.simonandschuster.com/books/Gender-Your-Guide/Lee-Airton/9781507210703" />}}
+{{< media type="book" title="Gender Outlaw" url="https://www.amazon.com/Gender-Outlaw-Men-Women-Rest/dp/1101973242/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=1101973242&pd_rd_r=GMSXYTV2V04N63WMSHRF&pd_rd_w=ZfFJ4&pd_rd_wg=Ev1Pd&psc=1&refRID=GMSXYTV2V04N63WMSHRF" />}}
+{{< media type="book" title="Women on the Edge of Time" url="https://www.amazon.com/Woman-Edge-Time-Marge-Piercy/dp/044900094X/ref=sr_1_1?ie=UTF8&qid=1508441968&sr=8-1&keywords=Woman+on+the+Edge+of+Time" >}} (novel){{< /media >}}
+{{< media type="book" title="Hothead Paisan: Homicidal Lesbian Terrorist" url="https://www.amazon.com/Hothead-Paisan-Homicidal-Lesbian-Terrorist/dp/0939416735/ref=sr_1_1?s=books&ie=UTF8&qid=1508442019&sr=1-1&keywords=Hothead+Paisan%3A+Homicidal+Lesbian+Terrorist" />}}
+
 [Seminar in Transgender Studies](https://learningtrans.org/online-courses/seminar-in-transgender-studies/)   
 Cleve Jones - When We Rise  
 James Baldwin - Giovanni’s Room  
@@ -696,15 +803,15 @@ Try these with anyone you'd like to be closer to, even if you've known them for 
 
 Talking about the relationship itself is super valuable, especially in queer relationships where we aren't necessarily following the straight world's formulaic approach to romantic love. This is where tools like nonviolent communication can really help.
 
-Book: [Nonviolent Communication: Life-Changing Tools for Healthy Relationships](https://www.amazon.com/Nonviolent-Communication-Language-Life-Changing-Relationships-ebook/dp/B014OISVU4/ref=dp_kinw_strp_1)  
-Video: [Marshall Rosenburg NVC Workshop](https://www.youtube.com/watch?v=l7TONauJGfc) — a 3-hour workshop on NVC, by its creator  
+{{< media type="book" title="Nonviolent Communication: Life-Changing Tools for Healthy Relationships" url="https://www.amazon.com/Nonviolent-Communication-Language-Life-Changing-Relationships-ebook/dp/B014OISVU4/ref=dp_kinw_strp_1" />}}
+{{< media type="video" title="Marshall Rosenburg NVC Workshop" url="https://www.youtube.com/watch?v=l7TONauJGfc" >}} — a 3-hour workshop on NVC, by its creator{{< /media >}}
 
 Learning about attachment theory, and your attachment style, will help you answer some questions about how you show up to relationships and give you some tools to work on yourself so you can connect more deeply with others and be stable for them.
 
 Zine: [Queer Attachment: An Anti-Oppression Toolkit for Relational Healing](https://liberationandmedicine.wordpress.com/2019/12/12/queer-attachment-an-anti-oppression-toolkit-for-relational-healing/)  
 Blog post: [The Opposite of Rape Culture is Nurturance Culture](https://norasamaran.com/2016/02/11/the-opposite-of-rape-culture-is-nurturance-culture-2/)  
-Book: [Hold Me Tight: Seven Conversations for a Lifetime of Love](https://www.amazon.com/Hold-Me-Tight-Conversations-Lifetime-ebook/dp/B0011UGLQK/)  
-Book: [Turn This World Inside Out: The Emergence of Nurturance Culture](https://www.amazon.com/Turn-This-World-Inside-Out/dp/1849353581) by Nora Samaran
+{{< media type="book" title="Hold Me Tight: Seven Conversations for a Lifetime of Love" url="https://www.amazon.com/Hold-Me-Tight-Conversations-Lifetime-ebook/dp/B0011UGLQK/" />}}
+{{< media type="book" title="Turn This World Inside Out: The Emergence of Nurturance Culture" url="https://www.amazon.com/Turn-This-World-Inside-Out/dp/1849353581" >}} by Nora Samaran{{< /media >}}
 
 ### When things are getting more serious
 
@@ -719,9 +826,10 @@ Resource: [84 Questions to Ask Your Partner About Money](https://www.youneedabud
 Every relationship encounters challenges of consent and boundaries.
 Building a strong consent practice is a skill that will serve you well for your entire life.
 
-Book: [The Art of Receiving and Giving: The Wheel of Consent](https://www.amazon.com/Art-Receiving-Giving-Wheel-Consent/dp/1643883089) by Betty Martin and Robyn Dalzen  
-Videos: [Betty Martin, lessons on consent](https://www.youtube.com/playlist?list=PLg9hZLIgbgxAfM12JQMMUeBsz5tPpnNk2)
-Resource: [Mia Schachter](https://sharetheloadinc.com) offers an integrative, mind-body, non-binary approach with their online courses on boundaries and consent  
+{{< media type="book" title="The Art of Receiving and Giving: The Wheel of Consent" url="https://www.amazon.com/Art-Receiving-Giving-Wheel-Consent/dp/1643883089" >}} by Betty Martin and Robyn Dalzen{{< /media >}}
+{{< media type="video" title="Betty Martin, lessons on consent" url="https://www.youtube.com/playlist?list=PLg9hZLIgbgxAfM12JQMMUeBsz5tPpnNk2" />}}
+
+Resource: [Mia Schachter](https://sharetheloadinc.com) offers an integrative, mind-body, non-binary approach with their online courses on boundaries and consent
 
 ### Use the Gottman Model
 
