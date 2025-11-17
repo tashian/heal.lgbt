@@ -413,7 +413,7 @@ Below is a list of trauma healing tools. Start anywhere that feels like it might
 {{< media type="book" title="Trauma & Recovery" url="https://www.amazon.com/Trauma-Recovery-Aftermath-Violence-Political/dp/0465087302" >}} — great book about the nature of trauma{{< /media >}}
 {{< media type="book" title="CPTSD: From Surviving to Thriving" url="https://www.amazon.com/Complex-PTSD-Surviving-RECOVERING-CHILDHOOD/dp/1492871842" />}}
 
-### Movies to Watch
+### Trauma docs
 {{< media type="film" title="The Wisdom of Trauma" url="https://thewisdomoftrauma.com/" >}} — How our deepest pain can be a doorway to healing. {{< /media >}}
 {{< media type="film" title="The Work" url="https://en.wikipedia.org/wiki/The_Work_(film)" >}} is a film about a trauma release group therapy program inside Folsom prison.{{< /media >}}
 {{< media type="film" title="Prison Dogs" url="https://www.imdb.com/title/tt2158699/" >}} about convicts raising puppies in prison for veterans with PTSD{{< /media >}}
@@ -452,10 +452,17 @@ Aside from EMDR, Cognitive Behavioral Therapy has been shown to help with trauma
 {{< media type="video" title="Feeling Good" url="https://www.youtube.com/watch?v=H1T5uMeYv9Q" >}} TED talk by CBT practitioner David Burns{{< /media >}}
 {{< media type="book" title="Feeling Good" url="https://www.amazon.com/dp/B009UW5X4C" >}} very popular book that has helped a lot of people with mood disorders, by David Burns{{< /media >}}
 
-### Reduced-rate therapy
+#### Internal Family Systems (IFS)
+Internal Family Systems (IFS) therapy rests on the foundation that each of us contains many selves. And each of these selves have needs,
+and some require healing or unburdening of past traumas in order to become whole again.
+
+{{< media type="book" title="No Bad Parts" url="https://www.amazon.com/No-Bad-Parts-Restoring-Wholeness/dp/1683646681/" >}} is the classic book on IFS. {{< /media >}}
+{{< media type="book" title="The Loving Parent Guidebook" url="https://adultchildren.org/loving-parent-guidebook/" >}} the solution is to become your own loving parent.{{< /media >}}
+
+#### Reduced-rate therapy
 Can't afford a therapist right now? There are many ways to get free therapy, so don't give up the search. You can go to a training clinic at a university, for a reduced rate. If you're in the US, you may be able to use Medicaid. Call [SAMHSA](https://findtreatment.samhsa.gov/) at 800.662.4357 to speak with someone, confidentially, who can help you find options.
 
-### Meditation & Spirituality
+#### Meditation & Spirituality
 Meditation is very powerful and can be used to [reduce the symptoms of PTSD](https://www.psychologytoday.com/blog/the-athletes-way/201601/meditation-reduces-post-traumatic-stress-disorder-symptoms) by calming the nervous system.
 
 [Meditating with PTSD](https://www.headspace.com/blog/2016/12/11/meditating-with-ptsd/)  
@@ -478,7 +485,7 @@ Note: Current research does not support conclusive resultes about the efficacy o
 Article: [Can Monitoring Brain Waves Boost Mental Health?](https://www.nytimes.com/2022/01/12/well/mind/neurofeedback-therapy-mental-health.html) (The New York Times, January 12, 2022)  
 Article: [Psychotherapy never cleared my ‘brain fog’ and mental health woes. So I tried neurofeedback.](https://www.washingtonpost.com/health/neurofeedback-brain-fog-mental-health/2021/09/17/d05e849a-e4e4-11eb-8aa5-5662858b696e_story.html) (Washington Post, September 18, 2021)  
 
-#### Psychedelic and psychoactive drugs
+### Psychedelic and psychoactive drugs
 There's strong evidence that drugs like MDMA (ecstacy/molly), psychedelic mushrooms, ayahuasca, and LSD, when used in therapy or with a guide, are among the fastest and most effective treatments for complex PTSD. Yes, they come with risks. This is an area of ongoing exploration and research. In August 2024, the FDA declined to approve MDMA-assisted therapy for PTSD, requesting additional Phase 3 clinical trials to further establish safety and efficacy. While this represented a setback, research continues and MDMA therapy may still become available in the future pending further study.
 
 #### Ketamine-Assisted Therapy (KAT)
@@ -727,30 +734,10 @@ Outside the US:
 [WPATH Provider Search](https://app.wpath.org/member/search)
 
 ### Hormones
-[Hormones: A Guide for FTMs](https://apps.carleton.edu/campus/gsc/assets/hormones_FTM.pdf)
-[Hormones: A Guide for MTFs](https://apps.carleton.edu/campus/gsc/assets/hormones_MTF.pdf)
-[How to get hormones in the US](https://transgenderteensurvivalguide.tumblr.com/post/150460732225/hi-i-was-wondering-what-exactly-i-have-to-do-to) and [in the UK](https://transgenderteensurvivalguide.tumblr.com/post/169897542480/urgent-hi-im-a-19-afab-trans-male-from-the)
-
-#### Affordable & Accessible Hormone Access by Country
-
-**🇺🇸 United States**
-[Placeholder: Informed consent clinics, telehealth options, affordable providers]
-
-**🇬🇧 United Kingdom**
-[GenderGP](https://www.gendergp.com/) — Online gender clinic providing hormone therapy
-[Placeholder: NHS pathways, other UK providers]
-
-**🇨🇦 Canada**
-[Placeholder: Provincial healthcare coverage, informed consent clinics]
-
-**🇦🇺 Australia**
-[Placeholder: Medicare coverage, telehealth services]
-
-**🌍 Other Countries**
-[Placeholder: International telehealth options, regional resources]
-
-#### Background reading on the world of hormones
-[Healthcare of the Transgender Patient](https://drive.google.com/drive/folders/112o11ykp0H-8tU_SbIToT1aZwL6LCK0S) lecture notes by [Dr. William Powers](http://PowersFamilyMedicine.com)
+[Hormones: A Guide for FTMs](https://apps.carleton.edu/campus/gsc/assets/hormones_FTM.pdf)  
+[Hormones: A Guide for MTFs](https://apps.carleton.edu/campus/gsc/assets/hormones_MTF.pdf)  
+[How to get hormones in the US](https://transgenderteensurvivalguide.tumblr.com/post/150460732225/hi-i-was-wondering-what-exactly-i-have-to-do-to) and [in the UK](https://transgenderteensurvivalguide.tumblr.com/post/169897542480/urgent-hi-im-a-19-afab-trans-male-from-the)  
+[Healthcare of the Transgender Patient](https://drive.google.com/drive/folders/112o11ykp0H-8tU_SbIToT1aZwL6LCK0S) lecture notes by [Dr. William Powers](http://PowersFamilyMedicine.com)  
 
 ### GRS/SRS
 
