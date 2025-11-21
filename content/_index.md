@@ -339,6 +339,7 @@ And a profound sense of isolation.
 {{< media type="book" title="Pray the Gay Away" url="https://www.amazon.com/Pray-Gay-Away-Extraordinary-Lives/dp/0814786375" >}} by Bernadette Barton is a study of present-day religious oppression of LGBTQ people in the US{{< /media >}}
 {{< media type="film" title="Believer" url="https://g.co/kgs/gJ4pe3" >}} about the Mormon Church's inner struggle with LGBTQ rights, featuring Dan Reynolds of Imagine Dragons{{< /media >}}
 {{< media type="film" title="The Wise Kids (2011)" url="https://en.wikipedia.org/wiki/The_Wise_Kids" >}} follows a group of young members of a South Carolina Baptist church as they confront issues of homosexuality and a crisis of faith.{{< /media >}}
+
 [Affirmation](https://affirmation.org/), an independent organization supporting LGBTQ Mormons  
 [Science and Nonduality](https://www.scienceandnonduality.com/) (SAND) encourages spirituality without religious dogma, bringing scientists together in dialog with spiritual teachers  
 
