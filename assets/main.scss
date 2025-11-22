@@ -157,6 +157,28 @@ ul {
     .toc-nav {
         font-size: 0.9em;
         line-height: 1.4;
+        display: flex;
+        flex-direction: column;
+        height: calc(100vh - 40px);
+    }
+
+    .toc-footer-links {
+        margin-top: auto;
+        padding-top: 20px;
+        border-top: 1px solid #e0d6cc;
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+
+        a {
+            color: #777;
+            font-size: 0.9em;
+            text-decoration: none;
+
+            &:hover {
+                color: #444;
+            }
+        }
     }
 
     nav#TableOfContents {
@@ -368,6 +390,20 @@ ul {
                 display: block;
             }
         }
+
+        .toc-nav {
+            height: auto;
+        }
+
+        .toc-footer-links {
+            display: none;
+            margin-top: 15px;
+            padding-top: 15px;
+
+            &.mobile-open {
+                display: flex;
+            }
+        }
     }
 }
 
@@ -452,6 +488,18 @@ body.dark-mode {
 
             &:hover {
                 color: #ccc;
+            }
+        }
+
+        .toc-footer-links {
+            border-top-color: #444;
+
+            a {
+                color: #999;
+
+                &:hover {
+                    color: #ccc;
+                }
             }
         }
     }

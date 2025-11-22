@@ -126,9 +126,11 @@
     // Mobile TOC toggle
     const mobileTocToggle = document.querySelector('.mobile-toc-toggle');
     const tocNav = document.querySelector('.toc-sidebar nav#TableOfContents');
+    const tocFooterLinks = document.querySelector('.toc-footer-links');
 
     mobileTocToggle.addEventListener('click', () => {
         tocNav.classList.toggle('mobile-open');
+        tocFooterLinks.classList.toggle('mobile-open');
         mobileTocToggle.classList.toggle('active');
     });
 
@@ -137,6 +139,7 @@
         link.addEventListener('click', () => {
             if (window.innerWidth <= 900) {
                 tocNav.classList.remove('mobile-open');
+                tocFooterLinks.classList.remove('mobile-open');
                 mobileTocToggle.classList.remove('active');
             }
         });

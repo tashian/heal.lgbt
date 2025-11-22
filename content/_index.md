@@ -15,8 +15,6 @@ title: 🌈 heal.lgbt
 
 🚨 &nbsp;&nbsp;**Struggling right now? [Read this.](#are-you-in-crisis)**&nbsp;&nbsp; 🚨
 
-[License and disclaimer](disclaimer) &middot; [Contributor's Guide](https://github.com/tashian/heal.lgbt)
-
 ## Introduction
 
 A lot of resources for the queer community—the crisis hotlines, LGBT centers, and support groups—are geared toward survival.  
