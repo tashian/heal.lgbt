@@ -103,25 +103,62 @@
         heading.appendChild(link);
     });
 
-    // Dark mode toggle
+    // Dark mode toggle with View Transitions
     const darkModeToggle = document.getElementById('darkModeToggle');
     const savedTheme = localStorage.getItem('theme');
+    let isDark = savedTheme === 'dark' ||
+        (!savedTheme && window.matchMedia('(prefers-color-scheme: dark)').matches);
 
-    // Check for saved preference or system preference
-    if (savedTheme === 'dark' || (!savedTheme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+    // Initial state
+    if (isDark) {
         document.body.classList.add('dark-mode');
-        darkModeToggle.checked = true;
     }
 
-    darkModeToggle.addEventListener('change', () => {
-        if (darkModeToggle.checked) {
-            document.body.classList.add('dark-mode');
-            localStorage.setItem('theme', 'dark');
-        } else {
-            document.body.classList.remove('dark-mode');
-            localStorage.setItem('theme', 'light');
+    async function toggleTheme() {
+        // Check for View Transitions API support
+        if (!document.startViewTransition) {
+            // Fallback: instant toggle
+            isDark = !isDark;
+            document.body.classList.toggle('dark-mode');
+            localStorage.setItem('theme', isDark ? 'dark' : 'light');
+            return;
         }
-    });
+
+        // Get button position for animation origin
+        const { top, left, width, height } = darkModeToggle.getBoundingClientRect();
+        const x = left + width / 2;
+        const y = top + height / 2;
+        const maxRadius = Math.hypot(
+            Math.max(left, window.innerWidth - left),
+            Math.max(top, window.innerHeight - top)
+        );
+
+        // Start view transition
+        const transition = document.startViewTransition(() => {
+            isDark = !isDark;
+            document.body.classList.toggle('dark-mode');
+            localStorage.setItem('theme', isDark ? 'dark' : 'light');
+        });
+
+        await transition.ready;
+
+        // Animate the clip-path circle expansion
+        document.documentElement.animate(
+            {
+                clipPath: [
+                    `circle(0px at ${x}px ${y}px)`,
+                    `circle(${maxRadius}px at ${x}px ${y}px)`,
+                ],
+            },
+            {
+                duration: 400,
+                easing: 'ease-in-out',
+                pseudoElement: '::view-transition-new(root)',
+            }
+        );
+    }
+
+    darkModeToggle.addEventListener('click', toggleTheme);
 
     // Mobile TOC toggle
     const mobileTocToggle = document.querySelector('.mobile-toc-toggle');
