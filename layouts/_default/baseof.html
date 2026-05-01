@@ -4,9 +4,20 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png">
-        <link href="https://fonts.googleapis.com/css?family=Karla:700|IBM+Plex+Sans|IBM+Plex+Serif:400,400i,500&display=swap" rel="stylesheet"> 
+        <link href="https://fonts.googleapis.com/css?family=Karla:700|IBM+Plex+Sans|IBM+Plex+Serif:400,400i,500&display=swap" rel="stylesheet">
+        <script>
+            (function() {
+                try {
+                    var saved = localStorage.getItem('theme');
+                    var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+                    if (saved === 'dark' || (!saved && prefersDark)) {
+                        document.documentElement.classList.add('dark-mode');
+                    }
+                } catch (e) {}
+            })();
+        </script>
 
-		<title>{{ .Site.Title }}</title>
+        <title>{{ .Site.Title }}</title>
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:title" content="{{ .Site.Title }}" />
         <meta name="twitter:image" content="{{ .Site.BaseURL }}img/share-image.webp" />

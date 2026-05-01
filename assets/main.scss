@@ -1,4 +1,3 @@
-$allow-dark-mode: false;
 $font-stack-serif: 'IBM Plex Serif', Georgia, serif;
 
 // View Transitions API styles for theme toggle animation
@@ -286,7 +285,7 @@ ul {
     }
 }
 
-body.dark-mode .toc-sidebar .theme-toggle {
+html.dark-mode .toc-sidebar .theme-toggle {
     color: #999;
 
     .sun-icon {
@@ -381,10 +380,8 @@ body {
 a {
     text-decoration: none;
 }
-li {
-}
 .hidden {
-        display: none;
+    display: none;
 }
 .rarr {
     display: inline-block;
@@ -395,7 +392,7 @@ li {
 }
 
 // Dark mode styles (class-based toggle)
-body.dark-mode {
+html.dark-mode {
     background-color: #1a1a1a;
     color: #e0e0e0;
 
@@ -444,14 +441,6 @@ body.dark-mode {
             }
         }
 
-        .toc-toggle {
-            color: #999;
-
-            &:hover {
-                color: #ccc;
-            }
-        }
-
         .toc-footer-links {
             border-top-color: #444;
 
@@ -471,7 +460,7 @@ body.dark-mode {
 }
 
 @media (max-width: 900px) {
-    body.dark-mode .toc-sidebar {
+    html.dark-mode .toc-sidebar {
         border-bottom-color: #444;
     }
 }
@@ -534,7 +523,7 @@ article {
     }
 }
 
-body.dark-mode .media-ref {
+html.dark-mode .media-ref {
     &__type {
         background-color: #3a3a3a;
     }

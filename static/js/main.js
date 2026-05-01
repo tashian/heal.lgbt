@@ -111,7 +111,7 @@
 
     // Initial state
     if (isDark) {
-        document.body.classList.add('dark-mode');
+        document.documentElement.classList.add('dark-mode');
     }
 
     async function toggleTheme() {
@@ -119,7 +119,7 @@
         if (!document.startViewTransition) {
             // Fallback: instant toggle
             isDark = !isDark;
-            document.body.classList.toggle('dark-mode');
+            document.documentElement.classList.toggle('dark-mode');
             localStorage.setItem('theme', isDark ? 'dark' : 'light');
             return;
         }
@@ -136,7 +136,7 @@
         // Start view transition
         const transition = document.startViewTransition(() => {
             isDark = !isDark;
-            document.body.classList.toggle('dark-mode');
+            document.documentElement.classList.toggle('dark-mode');
             localStorage.setItem('theme', isDark ? 'dark' : 'light');
         });
 
@@ -165,19 +165,22 @@
     const tocNav = document.querySelector('.toc-sidebar nav#TableOfContents');
     const tocFooterLinks = document.querySelector('.toc-footer-links');
 
+    function setMobileMenuOpen(open) {
+        tocNav.classList.toggle('mobile-open', open);
+        tocFooterLinks.classList.toggle('mobile-open', open);
+        mobileTocToggle.classList.toggle('active', open);
+        mobileTocToggle.setAttribute('aria-expanded', String(open));
+    }
+
     mobileTocToggle.addEventListener('click', () => {
-        tocNav.classList.toggle('mobile-open');
-        tocFooterLinks.classList.toggle('mobile-open');
-        mobileTocToggle.classList.toggle('active');
+        setMobileMenuOpen(!tocNav.classList.contains('mobile-open'));
     });
 
     // Close menu when clicking a link on mobile
     tocLinks.forEach(link => {
         link.addEventListener('click', () => {
             if (window.innerWidth <= 900) {
-                tocNav.classList.remove('mobile-open');
-                tocFooterLinks.classList.remove('mobile-open');
-                mobileTocToggle.classList.remove('active');
+                setMobileMenuOpen(false);
             }
         });
     });
