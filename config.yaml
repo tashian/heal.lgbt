@@ -1,7 +1,7 @@
 baseURL: https://heal.lgbt/
 title: Queer Healing Resources
 publishDir: docs/
-googleAnalytics: UA-125560-7
+googleAnalytics: G-DT21BGXPZP
 languageCode: en-us
 enableEmoji: true
 enableGitInfo: true
