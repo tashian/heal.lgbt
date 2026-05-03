@@ -285,7 +285,7 @@ ul {
     }
 }
 
-html.dark-mode .toc-sidebar .theme-toggle {
+body.dark-mode .toc-sidebar .theme-toggle {
     color: #999;
 
     .sun-icon {
@@ -392,7 +392,7 @@ a {
 }
 
 // Dark mode styles (class-based toggle)
-html.dark-mode {
+body.dark-mode {
     background-color: #1a1a1a;
     color: #e0e0e0;
 
@@ -460,7 +460,7 @@ html.dark-mode {
 }
 
 @media (max-width: 900px) {
-    html.dark-mode .toc-sidebar {
+    body.dark-mode .toc-sidebar {
         border-bottom-color: #444;
     }
 }
@@ -523,7 +523,7 @@ article {
     }
 }
 
-html.dark-mode .media-ref {
+body.dark-mode .media-ref {
     &__type {
         background-color: #3a3a3a;
     }

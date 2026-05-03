@@ -111,7 +111,7 @@
 
     // Initial state
     if (isDark) {
-        document.documentElement.classList.add('dark-mode');
+        document.body.classList.add('dark-mode');
     }
 
     async function toggleTheme() {
@@ -119,7 +119,7 @@
         if (!document.startViewTransition) {
             // Fallback: instant toggle
             isDark = !isDark;
-            document.documentElement.classList.toggle('dark-mode');
+            document.body.classList.toggle('dark-mode');
             localStorage.setItem('theme', isDark ? 'dark' : 'light');
             return;
         }
@@ -136,7 +136,7 @@
         // Start view transition
         const transition = document.startViewTransition(() => {
             isDark = !isDark;
-            document.documentElement.classList.toggle('dark-mode');
+            document.body.classList.toggle('dark-mode');
             localStorage.setItem('theme', isDark ? 'dark' : 'light');
         });
 
